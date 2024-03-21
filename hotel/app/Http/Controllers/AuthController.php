@@ -1,8 +1,11 @@
 <?php
 
 namespace App\Http\Controllers;
+
 use Illuminate\Support\Facades\Hash;
-use App\Models\Auth;
+use App\Models\Auths;
+use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 
 class AuthController extends Controller
@@ -35,12 +38,35 @@ class AuthController extends Controller
             'role' => 'required|string',
             'date' => 'required|date',
         ]);
-    
+
         $formFields['password'] = Hash::make($request->password);
-        Auth::create($formFields);
+        Auths::create($formFields);
         return redirect()->route('homepage')->with('success', 'Votre compte a bien été créé.');
     }
-    
+
+    public function login(Request $request)
+    {
+       
+        $email = $request->email;
+        $password = $request->password;
+
+        $credentials = ['email' => $email, 'password' => $password];
+        if (Auth::attempt($credentials)) {
+            $request->session()->regenerate();
+            return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
+        } else {
+            return back()->withErrors([
+                'email' => 'Email ou mot de pass incorrect'
+            ])->onlyInput('email');
+        }
+
+    }
+    public function logout(){
+        Session::flush();
+        Auth::logout();
+        return to_route('homepage')->with('success','Vous étes bien déconnecté.');
+    }
+
 
     /**
      * Display the specified resource.

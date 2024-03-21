@@ -60,7 +60,7 @@
                             n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e,
                                 "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                                 "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
-                                );
+                            );
                     case "emoji":
                         return !n(e, "\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff",
                             "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
@@ -1148,12 +1148,23 @@
                                 <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
                                     data-id="3394ea0c" data-element_type="widget"
                                     data-widget_type="cs_button.default">
-                                    <div class="elementor-widget-container">
-                                        <a href="{{ route('auth.index') }}"
-                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                            role="button">
-                                            <span class="cs-btn-text">Login</span> </a>
-                                    </div>
+                                    @auth
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('logout') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">log-out</span> </a>
+                                        </div>
+                                    @endauth
+                                    @guest
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('auth.index') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">Login</span> </a>
+                                        </div>
+                                    @endguest
+
                                 </div>
                             </div>
                         </div>
