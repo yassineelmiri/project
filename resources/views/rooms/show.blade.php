@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg">
-
-<!-- Mirrored from cozystay.loftocean.com/apartment/room/studio-king/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:02:17 GMT -->
-<!-- Added by HTTrack -->
+    
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
@@ -61,7 +59,7 @@
                             n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e,
                                 "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                                 "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
-                                );
+                            );
                     case "emoji":
                         return !n(e, "\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff",
                             "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
@@ -647,8 +645,7 @@
     src="https://cozystay.loftocean.com/apartment/wp-content/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3"
     id="html5shiv-js"></script>
 <![endif]-->
-    <script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js">
-    </script>
+    <script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
     <script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
         id="jquery-migrate-js"></script>
     <script type="text/javascript"
@@ -667,8 +664,8 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
-        id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+        src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js"
+        defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
         src="../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1"
         id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
@@ -894,7 +891,8 @@
                                                                                                 class="cs-subtitle-wrap">
                                                                                                 <span
                                                                                                     class="cs-subtitle color-white">Mountain
-                                                                                                    Hotel</span></div>
+                                                                                                    Hotel</span>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -936,7 +934,8 @@
                                                                                                 class="cs-subtitle-wrap">
                                                                                                 <span
                                                                                                     class="cs-subtitle color-white">Island
-                                                                                                    Resort</span></div>
+                                                                                                    Resort</span>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -979,7 +978,8 @@
                                                                                                 class="cs-subtitle-wrap">
                                                                                                 <span
                                                                                                     class="cs-subtitle color-white">Countryside
-                                                                                                    Lodge</span></div>
+                                                                                                    Lodge</span>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1022,7 +1022,8 @@
                                                                                                 class="cs-subtitle-wrap">
                                                                                                 <span
                                                                                                     class="cs-subtitle color-white">Mountain
-                                                                                                    Chalet</span></div>
+                                                                                                    Chalet</span>
+                                                                                            </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1044,31 +1045,36 @@
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626">
                                                             <a href="../rooms/index.html"><span>Rooms
-                                                                    Page</span></a></li>
+                                                                    Page</span></a>
+                                                        </li>
                                                         <li id="menu-item-1674"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room current-menu-item menu-item-1674">
                                                             <a href="index.html" aria-current="page"><span>Room
-                                                                    Details &#8211; Top Image</span></a></li>
+                                                                    Details &#8211; Top Image</span></a>
+                                                        </li>
                                                         <li id="menu-item-1669"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1669">
                                                             <a href="../deluxe-penthouse/index.html"><span>Room Details
-                                                                    &#8211; Top Gallery</span></a></li>
+                                                                    &#8211; Top Gallery</span></a>
+                                                        </li>
                                                         <li id="menu-item-1670"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1670">
                                                             <a href="../park-view-penthouse/index.html"><span>Room
-                                                                    Details &#8211; Left Booking Form</span></a></li>
+                                                                    Details &#8211; Left Booking Form</span></a>
+                                                        </li>
                                                         <li id="menu-item-1625"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625">
-                                                            <a href="../cart/index.html"><span>Cart</span></a></li>
+                                                            <a href="../cart/index.html"><span>Cart</span></a>
+                                                        </li>
                                                         <li id="menu-item-1624"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624">
-                                                            <a
-                                                                href="../checkout/index.html"><span>Checkout</span></a>
+                                                            <a href="../checkout/index.html"><span>Checkout</span></a>
                                                         </li>
                                                         <li id="menu-item-1623"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623">
                                                             <a href="../my-account/index.html"><span>My
-                                                                    account</span></a></li>
+                                                                    account</span></a>
+                                                        </li>
                                                     </ul>
                                                 </li>
                                                 <li id="menu-item-517"
@@ -1081,15 +1087,18 @@
                                                         <li id="menu-item-518"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
                                                             <a href="../about-the-hotel/index.html"><span>About the
-                                                                    hotel</span></a></li>
+                                                                    hotel</span></a>
+                                                        </li>
                                                         <li id="menu-item-523"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
                                                             <a href="../amenities-services/index.html"><span>Amenities
-                                                                    &#038; Services</span></a></li>
+                                                                    &#038; Services</span></a>
+                                                        </li>
                                                         <li id="menu-item-522"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
                                                             <a href="../salon-price/index.html"><span>Salon Price
-                                                                    List</span></a></li>
+                                                                    List</span></a>
+                                                        </li>
                                                         <li id="menu-item-524"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
                                                             <a href="../dining/index.html"><span>Dining</span></a>
@@ -1097,24 +1106,27 @@
                                                         <li id="menu-item-526"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
                                                             <a href="../the-restaurant/index.html"><span>The
-                                                                    Restaurant</span></a></li>
+                                                                    Restaurant</span></a>
+                                                        </li>
                                                         <li id="menu-item-525"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                            <a
-                                                                href="../wellness/index.html"><span>Wellness</span></a>
+                                                            <a href="../wellness/index.html"><span>Wellness</span></a>
                                                         </li>
                                                         <li id="menu-item-521"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
                                                             <a href="../local-activities/index.html"><span>Local
-                                                                    Activities</span></a></li>
+                                                                    Activities</span></a>
+                                                        </li>
                                                         <li id="menu-item-1248"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
                                                             <a href="../activity-detail/index.html"><span>Activity
-                                                                    Detail Page</span></a></li>
+                                                                    Detail Page</span></a>
+                                                        </li>
                                                         <li id="menu-item-1011"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
                                                             <a href="../our-blog/index.html"><span>Our
-                                                                    Blog</span></a></li>
+                                                                    Blog</span></a>
+                                                        </li>
                                                         <li id="menu-item-519"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
                                                             <a href="../contact/index.html"><span>Contact</span></a>
@@ -1133,8 +1145,7 @@
                                 <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
                                     data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="../index.html"> <img loading="lazy" width="255"
-                                                height="51"
+                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
                                                 src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
@@ -1195,8 +1206,7 @@
                                 <div class="elementor-element elementor-element-6dd6931f elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-cs_logo"
                                     data-id="6dd6931f" data-element_type="widget" data-widget_type="cs_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="../index.html"> <img loading="lazy" width="255"
-                                                height="51"
+                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
                                                 src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
@@ -1236,17 +1246,18 @@
                     <div id="primary" class="primary content-area">
                         <article class="post-1374 status-publish has-post-thumbnail hentry post room type-room">
                             <header class="post-header">
-                                <h1 class="entry-title">Studio King</h1>
-                                <div class="item-subtitle">560 ft² / 52 m² / Park View / 2 Guests</div>
+                                <h1 class="entry-title">{{ $room->name }}</h1>
+                                <div class="item-subtitle">{{ $room->etage }} etage / {{ $room->surface }} m² /type :
+                                    {{ $room->type }}/ {{ $room->place }} Guests</div>
                                 <div class="cs-room-basic-info">
                                     <ul>
                                         <li>
                                             <div class="csrbi-icon"><i class="flaticon flaticon-maximize"></i></div>
-                                            <span class="csrbi-text">560 ft<sup>2</sup></span>
+                                            <span class="csrbi-text">{{ $room->surface }} m<sup>2</sup></span>
                                         </li>
                                         <li>
                                             <div class="csrbi-icon"><i class="flaticon flaticon-user-2"></i></div>
-                                            <span class="csrbi-text">2 Guests</span>
+                                            <span class="csrbi-text">{{ $room->place }} Guests</span>
                                         </li>
                                         <li>
                                             <div class="csrbi-icon"><i class="flaticon flaticon-bed-6"></i></div>
@@ -1604,7 +1615,7 @@
                                 <div class="cs-room-booking-wrap">
                                     <div class="room-booking-title">
                                         <h4>Reserve:</h4>
-                                        <span>From <span class="base-price"></span>/night</span>
+                                        <span>From </span>${{ $room->prix }}/night</span>
                                     </div>
 
                                     <div class="room-booking-form">
@@ -1716,15 +1727,19 @@
                                                             <span class="screen-reader-text">View Details</span>
                                                         </span>
                                                     </h5>
-                                                    <div class="total-price">$<span class="total-price-number"></span>
+                                                    <div class="total-price">${{ $room->prix + 5 }} </span>
                                                     </div>
                                                 </div>
                                                 <div class="cs-form-price-details hide"></div>
-                                                <div class="cs-form-field cs-submit">
+                                                <div class="cs-form-field">
                                                     <div class="field-wrap">
-                                                        <button type="submit"
-                                                            class="button cs-btn-color-black cs-btn-rounded"><span
-                                                                class="btn-text">Book Your Stay Now</span></button>
+                                                        <form action="{{ route('reservation.store') }}" method="POST">
+                                                            @csrf
+                                                            <input type="hidden" name="room" value="{{$room->id}}">
+                                                            <button type="submit"
+                                                                class="button cs-btn-color-black cs-btn-rounded"><span
+                                                                    class="btn-text">Réservez Now</span></button>
+                                                        </form>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1752,7 +1767,7 @@
                                             srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/emily-wang-Wv65tpVIdDg-unsplash.jpg 1920w"
                                             sizes="(max-width: 780px) 100vw, 780px" /> </a>
                                     <div class="overlay-label">
-                                        <div class="overlay-label-text">$299 / Night</div>
+                                        <div class="overlay-label-text">{{ $room->prix }} / Night</div>
                                     </div>
                                 </div>
                                 <div class="post-content cs-room-content">
@@ -1789,7 +1804,7 @@
                                             srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash.jpg 1920w"
                                             sizes="(max-width: 780px) 100vw, 780px" /> </a>
                                     <div class="overlay-label">
-                                        <div class="overlay-label-text">$299 / Night</div>
+                                        <div class="overlay-label-text">{{ $room->prix }} / Night</div>
                                     </div>
                                 </div>
                                 <div class="post-content cs-room-content">
@@ -2102,19 +2117,24 @@
                                                     <ul id="38fd994f-social-menu" class="social-nav menu">
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290">
-                                                            <a href="https://www.facebook.com/">Facebook</a></li>
+                                                            <a href="https://www.facebook.com/">Facebook</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291">
-                                                            <a href="https://www.twitter.com/">Twitter</a></li>
+                                                            <a href="https://www.twitter.com/">Twitter</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292">
-                                                            <a href="https://www.pinterest.com/">Pinterest</a></li>
+                                                            <a href="https://www.pinterest.com/">Pinterest</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293">
-                                                            <a href="https://www.youtube.com/">YouTube</a></li>
+                                                            <a href="https://www.youtube.com/">YouTube</a>
+                                                        </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294">
-                                                            <a href="https://www.instagram.com/">Instagram</a></li>
+                                                            <a href="https://www.instagram.com/">Instagram</a>
+                                                        </li>
                                                     </ul>
                                                 </nav>
                                             </div>
@@ -2316,21 +2336,26 @@
                                                 <ul id="menu-12ce81a1" class="menu mobile-menu">
                                                     <li id="menu-item-278"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-278">
-                                                        <a href="../index.html"><span>Home</span></a></li>
+                                                        <a href="../index.html"><span>Home</span></a>
+                                                    </li>
                                                     <li id="menu-item-1038"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038">
-                                                        <a href="../rooms/index.html"><span>Rooms</span></a></li>
+                                                        <a href="../rooms/index.html"><span>Rooms</span></a>
+                                                    </li>
                                                     <li id="menu-item-279"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279">
                                                         <a href="../about-the-hotel/index.html"><span>About the
-                                                                hotel</span></a></li>
+                                                                hotel</span></a>
+                                                    </li>
                                                     <li id="menu-item-284"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284">
                                                         <a href="../amenities-services/index.html"><span>Amenities
-                                                                &#038; Services</span></a></li>
+                                                                &#038; Services</span></a>
+                                                    </li>
                                                     <li id="menu-item-285"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285">
-                                                        <a href="../dining/index.html"><span>Dining</span></a></li>
+                                                        <a href="../dining/index.html"><span>Dining</span></a>
+                                                    </li>
                                                     <li id="menu-item-286"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286">
                                                         <a href="../wellness/index.html"><span>Wellness</span></a>
@@ -2338,7 +2363,8 @@
                                                     <li id="menu-item-282"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
                                                         <a href="../local-activities/index.html"><span>Local
-                                                                Activities</span></a></li>
+                                                                Activities</span></a>
+                                                    </li>
                                                     <li id="menu-item-280"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280">
                                                         <a href="../contact/index.html"><span>Contact</span></a>
@@ -2363,19 +2389,23 @@
                                                                     <li id="menu-item-1249"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249">
                                                                         <a href="../activity-detail/index.html"><span>Activity
-                                                                                Detail</span></a></li>
+                                                                                Detail</span></a>
+                                                                    </li>
                                                                     <li id="menu-item-1062"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1062">
                                                                         <a href="../salon-price/index.html"><span>Salon
-                                                                                Price List</span></a></li>
+                                                                                Price List</span></a>
+                                                                    </li>
                                                                     <li id="menu-item-1063"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063">
                                                                         <a href="../the-restaurant/index.html"><span>The
-                                                                                Restaurant</span></a></li>
+                                                                                Restaurant</span></a>
+                                                                    </li>
                                                                     <li id="menu-item-1061"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061">
                                                                         <a href="../our-blog/index.html"><span>Our
-                                                                                Blog</span></a></li>
+                                                                                Blog</span></a>
+                                                                    </li>
                                                                 </ul>
                                                             </nav>
                                                         </div>
@@ -2398,10 +2428,12 @@
                                                                     <li id="menu-item-296"
                                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-296">
                                                                         <a href="#"><span>Terms of
-                                                                                Use</span></a></li>
+                                                                                Use</span></a>
+                                                                    </li>
                                                                     <li id="menu-item-297"
                                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-297">
-                                                                        <a href="#"><span>Policy</span></a></li>
+                                                                        <a href="#"><span>Policy</span></a>
+                                                                    </li>
                                                                 </ul>
                                                             </nav>
                                                         </div>
@@ -2505,19 +2537,24 @@
                                                     class="social-nav menu text-left-mobile">
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290">
-                                                        <a href="https://www.facebook.com/">Facebook</a></li>
+                                                        <a href="https://www.facebook.com/">Facebook</a>
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-291">
-                                                        <a href="https://www.twitter.com/">Twitter</a></li>
+                                                        <a href="https://www.twitter.com/">Twitter</a>
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-292">
-                                                        <a href="https://www.pinterest.com/">Pinterest</a></li>
+                                                        <a href="https://www.pinterest.com/">Pinterest</a>
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293">
-                                                        <a href="https://www.youtube.com/">YouTube</a></li>
+                                                        <a href="https://www.youtube.com/">YouTube</a>
+                                                    </li>
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-294">
-                                                        <a href="https://www.instagram.com/">Instagram</a></li>
+                                                        <a href="https://www.instagram.com/">Instagram</a>
+                                                    </li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -2597,8 +2634,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
         id="cozystay-helper-js"></script>
     <script type="text/javascript" src="../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
         id="slick-js"></script>
@@ -2619,9 +2655,8 @@
     <script type="text/javascript"
         src="../wp-content/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5"
         id="justified-gallery-js"></script>
-    <script type="text/javascript"
-        src="../wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1" id="jquery-fitvids-js">
-    </script>
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1"
+        id="jquery-fitvids-js"></script>
     <script type="text/javascript" id="cozystay-theme-script-js-extra">
         /* <![CDATA[ */
         var cozystay = {
@@ -2633,8 +2668,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
         id="cozystay-theme-script-js"></script>
     <script type="text/javascript" id="cozystay-ajax-navigation-js-extra">
         /* <![CDATA[ */
@@ -2714,8 +2748,7 @@
     </script>
     <script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
         id="contact-form-7-js"></script>
-    <script type="text/javascript" src="../wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js">
-    </script>
+    <script type="text/javascript" src="../wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
     <script type="text/javascript" id="moment-js-after">
         /* <![CDATA[ */
         moment.updateLocale('en_US', {
@@ -2777,8 +2810,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="../wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js">
-    </script>
+    <script type="text/javascript" src="../wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
     <script type="text/javascript" src="../wp-includes/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
     <script type="text/javascript" id="loftocean-post-metas-js-extra">
         /* <![CDATA[ */
@@ -13176,8 +13208,7 @@
         id="elementor-webpack-runtime-js"></script>
     <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4"
         id="elementor-frontend-modules-js"></script>
-    <script type="text/javascript"
-        src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
         id="elementor-waypoints-js"></script>
     <script type="text/javascript" src="../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
     </script>
@@ -13308,8 +13339,7 @@
     </script>
     <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
         id="elementor-frontend-js"></script>
-    <script type="text/javascript"
-        src="../wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
         id="preloaded-modules-js"></script>
     <script type="text/javascript"
         src="../wp-content/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
@@ -13345,91 +13375,24 @@
         id="loftocean-elementor-frontend-js"></script>
     <script id="tmpl-loftocean-room-price-details" type="text/template">
         <ul>
-        <li class="csf-pd-total-base">
-            <div class="csf-pd-label">
-                Total Base Price                <span class="info-indicator">i</span>
-            </div>
-            <div class="csf-pd-value">${}</div>
-            <div class="csf-base-price-breakdown">
-                <div class="breakdown-title">
-                    <div class="csf-pd-label">Base Price Breakdown</div>
-                    <div class="csf-pd-value">{} </div>
-                </div>
-                <div class="breakdown-main">
-                    <ul>
-                        <li>
-                            <div class="csf-pd-label">{}</div>
-                                <div class="csf-pd-value">
-                        </li>
-                    </ul>
-                </div>
-                <div class="breakdown-footer">
-                    <div class="csf-pd-label">Total Base Price</div>
-                    <div class="csf-pd-value">${}</div>
-                </div>
-            </div>
-        </li>        <li class="cs-form-price-details-total">
+            <li class="cs-form-price-details-total">
+                <div class="csf-pd-label">TVA</div>
+                <div class="csf-pd-value">$5            </div>
+            </li>    
+            <li class="cs-form-price-details-total">
+                <div class="csf-pd-label">Room</div>
+                <div class="csf-pd-value">${{$room->prix}}             </div>
+            </li>  
+            
+        <li class="cs-form-price-details-total">
             <div class="csf-pd-label">Total</div>
-            <div class="csf-pd-value">${}            </div>
+            <div class="csf-pd-value">${{$room->prix+5}}            </div>
         </li>
     </ul>
 </script>
 
     <script id="tmpl-loftocean-room-extra-services" type="text/template">
-    <div class="cs-form-group cs-extra-service-group">
-        <h5 class="csf-title">Extra Services</h5>
-            <div class="cs-form-field cs-extra-service">
-                <div class="field-wrap">
-                    <div class="label-checkbox">
-                        <input class="hidden-check extra-service-switcher" type="checkbox" name="extra_service_id[{}]" id="{}" value="{}">
-                        <div class="cs-styled-checkbox"></div>
-                        <div class="cs-form-label checkbox-label" ><label for="{}">{}</label></div>
-                        <div class="hidden-fiedls">
-                            <input type="hidden" name="extra_service_price[{}]" value="{}" />
-                            <input type="hidden" name="extra_service_calculating_method[{}}]" value="{}" />
-                            <input type="hidden" name="extra_service_title[{}]" value="{}" />
-                            <input type="hidden" name="extra_service_price_label[{}]" value="{}" />
-                                <input type="hidden" name="extra_service_auto_calculating_unit[{}]" value="{}" />
-                                    <input type="hidden" name="extra_service_auto_calculating_custom_adult_price[{}]" value="{}" />
-                                    <input type="hidden" name="extra_service_auto_calculating_custom_child_price[{}]" value="{}" />
-                              
-                        </div>
-                    </div>
-                        <div class="price-quantity extra-service-custom-quantity">
-                            <div class="cs-form-price">{}</div>
-
-                            <div class="cs-form-quantity">
-                                <div class="field-wrap">
-                                    <div class="field-input-wrap has-dropdown">
-                                        <input type="text" name="extra_service_quantity[{}]" value="1" readonly="">
-                                    </div>
-                                    <div class="csf-dropdown">
-                                        <div class="csf-dropdown-item has-dropdown">
-                                            <label class="cs-form-label">Quantity</label>
-                                            <div class="quantity cs-quantity">
-                                                <label class="screen-reader-text">Quantity</label>
-                                                <button class="minus"></button>
-                                                <input type="text" name="extra_service[{}]" value="1" class="input-text" autocomplete="off" readonly="" data-min="1">
-                                                <button class="plus"></button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="price-quantity">
-                                <div class="cs-form-price cs-form-price-long">
-                                    <div class="cs-form-price-brief">{}</div>
-                                    <div class="cs-form-price-all">{}</div>
-                                </div>
-                                <div class="cs-form-price">{}</div>
-                        </div>
-                        <div class="price-quantity">
-                            <div class="cs-form-price">{}</div>
-                        </div>
-                </div>
-            </div>
-    </div>
+    
 </script>
 </body>
 

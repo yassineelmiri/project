@@ -73,7 +73,7 @@ class AuthController extends Controller
      */
     public function show(Auth $auth)
     {
-        //
+        return view('auth.lost-password.index');
     }
 
     /**
