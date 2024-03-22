@@ -1237,35 +1237,33 @@
                                                                                                         <div
                                                                                                             class="posts-wrapper cs-rooms-wrapper">
                                                                                                             @foreach ($rooms as $room)
-                                                                                                                
-                                                                                                           
-                                                                                                            <div
-                                                                                                                class="post cs-room-item has-post-thumbnail">
                                                                                                                 <div
-                                                                                                                    class="featured-img">
-                                                                                                                    <a
-                                                                                                                        href="{{ asset('storage/' . $room->image) }}"><img
-                                                                                                                            loading="lazy"
-                                                                                                                            decoding="async"
-                                                                                                                            width="780"
-                                                                                                                            height="520"
-                                                                                                                            src="{{ asset('storage/' . $room->image) }}"
-                                                                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                            alt=""
-                                                                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                    </a>
+                                                                                                                    class="post cs-room-item has-post-thumbnail">
                                                                                                                     <div
-                                                                                                                        class="overlay-label">
+                                                                                                                        class="featured-img">
+                                                                                                                        <a
+                                                                                                                            href="{{ route('rooms.show', $room->id) }}"><img
+                                                                                                                                loading="lazy"
+                                                                                                                                decoding="async"
+                                                                                                                                width="780"
+                                                                                                                                height="520"
+                                                                                                                                src="{{ asset('storage/' . $room->image) }}"
+                                                                                                                                class="attachment-cozystay_780x9999 size-cozystay_780x9999"
+                                                                                                                                alt=""
+                                                                                                                                sizes="(max-width: 780px) 100vw, 780px" />
+                                                                                                                        </a>
                                                                                                                         <div
-                                                                                                                            class="overlay-label-text">
-                                                                                                                            ${{ $room->prix }}
-                                                                                                                            /
-                                                                                                                            Night
+                                                                                                                            class="overlay-label">
+                                                                                                                            <div
+                                                                                                                                class="overlay-label-text">
+                                                                                                                                ${{ $room->prix }}
+                                                                                                                                /
+                                                                                                                                Night
+                                                                                                                            </div>
                                                                                                                         </div>
                                                                                                                     </div>
-                                                                                                                </div>
-                                                                                                               
-                                                                                                              
+
+
                                                                                                                     <div
                                                                                                                         class="post-content cs-room-content">
                                                                                                                         <header
@@ -1273,7 +1271,7 @@
                                                                                                                             <h2
                                                                                                                                 class="post-title item-title">
                                                                                                                                 <a
-                                                                                                                                    href="../room/deluxe-penthouse/index.html">
+                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
                                                                                                                                     {{ $room->name }}</a>
                                                                                                                             </h2>
                                                                                                                             <div
@@ -1301,7 +1299,7 @@
                                                                                                                             <div
                                                                                                                                 class="more-btn">
                                                                                                                                 <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                    href="../room/deluxe-penthouse/index.html">
+                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
                                                                                                                                     <span>Discover
                                                                                                                                         More</span>
                                                                                                                                 </a>
@@ -1309,7 +1307,7 @@
                                                                                                                         </footer>
                                                                                                                     </div>
 
-                                                                                                            </div>
+                                                                                                                </div>
                                                                                                             @endforeach
 
                                                                                                             <div
