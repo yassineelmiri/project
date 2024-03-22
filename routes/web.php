@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AppController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\NextController;
 use App\Http\Controllers\ReservationsController;
@@ -15,5 +16,6 @@ Route::resource('reservation', ReservationsController::class);
 
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
+Route::get('/panier', [AppController::class, 'panier'])->name('panier');
 
 

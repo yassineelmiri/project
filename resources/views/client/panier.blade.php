@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg">
 
-<!-- Mirrored from cozystay.loftocean.com/apartment/rooms/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:01:56 GMT -->
+<!-- Mirrored from cozystay.loftocean.com/apartment/our-blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:04:41 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>Rooms &#8211; CozyStay Apartment</title>
+    <title>Les Réservations &#8211; CozyStay Apartment</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='stylesheet' id='loftocean-flaticons-css'
         href='../wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
@@ -618,17 +618,11 @@
     <link rel='stylesheet' id='elementor-post-5-css'
         href='../wp-content/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
         media='all' />
-    <link rel='stylesheet' id='elementor-post-1032-css'
-        href='../wp-content/uploads/sites/6/elementor/css/post-1032a4e6.css?ver=1707317709' type='text/css'
+    <link rel='stylesheet' id='elementor-post-1002-css'
+        href='../wp-content/uploads/sites/6/elementor/css/post-10020742.css?ver=1707333251' type='text/css'
         media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-shared-1-css'
-        href='../wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
-        type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-loftocean-flaticons-css'
-        href='../wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
         type='text/css' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
@@ -674,16 +668,16 @@
         src="../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js"
         defer="defer" data-wp-strategy="defer"></script>
     <link rel="https://api.w.org/" href="../wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1032.json" />
+    <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1002.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
     <meta name="generator" content="WordPress 6.4.3" />
     <meta name="generator" content="WooCommerce 8.6.1" />
     <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='../index5579.html?p=1032' />
+    <link rel='shortlink' href='../index50b4.html?p=1002' />
     <link rel="alternate" type="application/json+oembed"
-        href="../wp-json/oembed/1.0/embed6504.json?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Frooms%2F" />
+        href="../wp-json/oembed/1.0/embedc8f0.json?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Four-blog%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="../wp-json/oembed/1.0/embed08b7?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Frooms%2F&amp;format=xml" />
+        href="../wp-json/oembed/1.0/embed6888?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Four-blog%2F&amp;format=xml" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WGXLWBJXE2"></script>
     <script>
@@ -707,7 +701,7 @@
 </head>
 
 <body
-    class="page-template page page-id-1032 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-no-js elementor-default elementor-kit-5 elementor-page elementor-page-1032 page-template-template-wide-content page-template-template-wide-content-php cs-template-wide dark-color site-layout-fullwidth cs-form-square">
+    class="page-template page page-id-1002 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-no-js elementor-default elementor-kit-5 elementor-page elementor-page-1002 page-template-template-wide-content page-template-template-wide-content-php cs-template-wide dark-color site-layout-fullwidth cs-form-square">
     <div id="page">
         <header id="masthead" class="site-header overlap-header" data-sticky-status="disable">
             <link rel="stylesheet" id="elementor-post-298-css"
@@ -788,36 +782,290 @@
                                             <ul id="menu-93b4c8c" class="menu primary-menu">
                                                 <li id="menu-item-516"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
-                                                    <a href="{{ route('homepage') }}"><span>Home</span></a><button
+                                                    <a href="../index.html"><span>Home</span></a><button
                                                         class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <div
                                                         class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
+                                                        <div class="container">
+                                                            <link rel="stylesheet" id="elementor-post-1727-css"
+                                                                href="../wp-content/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110"
+                                                                type="text/css" media="all">
+                                                            <div data-elementor-type="wp-post"
+                                                                data-elementor-id="1727"
+                                                                class="elementor elementor-1727">
+                                                                <section
+                                                                    class="elementor-section elementor-top-section elementor-element elementor-element-1a0a2e11 cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                    data-id="1a0a2e11" data-element_type="section">
+                                                                    <div
+                                                                        class="elementor-container elementor-column-gap-default">
+                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-282236cf"
+                                                                            data-id="282236cf"
+                                                                            data-element_type="column">
+                                                                            <div
+                                                                                class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-2629cbb2 elementor-widget elementor-widget-image"
+                                                                                    data-id="2629cbb2"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <a href="../index.html">
+                                                                                            <img fetchpriority="high"
+                                                                                                width="370"
+                                                                                                height="462"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg"
+                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1731"
+                                                                                                alt=""
+                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home.jpg 750w"
+                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-38f7fdfc elementor-widget elementor-widget-cs_title"
+                                                                                    data-id="38f7fdfc"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="cs_title.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
 
+                                                                                        <div
+                                                                                            class="cs-title-wrap text-center">
+                                                                                            <div
+                                                                                                class="cs-subtitle-wrap">
+                                                                                                <span
+                                                                                                    class="cs-subtitle color-white">City
+                                                                                                    Aparthotel</span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-c225725"
+                                                                            data-id="c225725"
+                                                                            data-element_type="column">
+                                                                            <div
+                                                                                class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-1ca6b702 elementor-widget elementor-widget-image"
+                                                                                    data-id="1ca6b702"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <a href="https://cozystay.loftocean.com/mountain-hotel/"
+                                                                                            target="_blank">
+                                                                                            <img width="370"
+                                                                                                height="462"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg"
+                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1729"
+                                                                                                alt=""
+                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home.jpg 750w"
+                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-31a4fb6e elementor-widget elementor-widget-cs_title"
+                                                                                    data-id="31a4fb6e"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="cs_title.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+
+                                                                                        <div
+                                                                                            class="cs-title-wrap text-center">
+                                                                                            <div
+                                                                                                class="cs-subtitle-wrap">
+                                                                                                <span
+                                                                                                    class="cs-subtitle color-white">Mountain
+                                                                                                    Hotel</span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-94fa94e"
+                                                                            data-id="94fa94e"
+                                                                            data-element_type="column">
+                                                                            <div
+                                                                                class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-1d78df7c elementor-widget elementor-widget-image"
+                                                                                    data-id="1d78df7c"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <a href="https://cozystay.loftocean.com/island-resort/"
+                                                                                            target="_blank">
+                                                                                            <img width="370"
+                                                                                                height="462"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg"
+                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1730"
+                                                                                                alt=""
+                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home.jpg 750w"
+                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-47491867 elementor-widget elementor-widget-cs_title"
+                                                                                    data-id="47491867"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="cs_title.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+
+                                                                                        <div
+                                                                                            class="cs-title-wrap text-center">
+                                                                                            <div
+                                                                                                class="cs-subtitle-wrap">
+                                                                                                <span
+                                                                                                    class="cs-subtitle color-white">Island
+                                                                                                    Resort</span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2fb9cd36"
+                                                                            data-id="2fb9cd36"
+                                                                            data-element_type="column">
+                                                                            <div
+                                                                                class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-3412c55b elementor-widget elementor-widget-image"
+                                                                                    data-id="3412c55b"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <a href="https://cozystay.loftocean.com/countryside-lodge/"
+                                                                                            target="_blank">
+                                                                                            <img loading="lazy"
+                                                                                                width="370"
+                                                                                                height="462"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg"
+                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1732"
+                                                                                                alt=""
+                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home.jpg 750w"
+                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-3111f2ba elementor-widget elementor-widget-cs_title"
+                                                                                    data-id="3111f2ba"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="cs_title.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+
+                                                                                        <div
+                                                                                            class="cs-title-wrap text-center">
+                                                                                            <div
+                                                                                                class="cs-subtitle-wrap">
+                                                                                                <span
+                                                                                                    class="cs-subtitle color-white">Countryside
+                                                                                                    Lodge</span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-578cba49"
+                                                                            data-id="578cba49"
+                                                                            data-element_type="column">
+                                                                            <div
+                                                                                class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-2d966dec elementor-widget elementor-widget-image"
+                                                                                    data-id="2d966dec"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <a href="https://cozystay.loftocean.com/mountain-chalet/"
+                                                                                            target="_blank">
+                                                                                            <img loading="lazy"
+                                                                                                width="370"
+                                                                                                height="462"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg"
+                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1733"
+                                                                                                alt=""
+                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home.jpg 750w"
+                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
+                                                                                        </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-2b59a8f elementor-widget elementor-widget-cs_title"
+                                                                                    data-id="2b59a8f"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="cs_title.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+
+                                                                                        <div
+                                                                                            class="cs-title-wrap text-center">
+                                                                                            <div
+                                                                                                class="cs-subtitle-wrap">
+                                                                                                <span
+                                                                                                    class="cs-subtitle color-white">Mountain
+                                                                                                    Chalet</span>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </li>
                                                 <li id="menu-item-1037"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
-                                                    <a href="index.html" aria-current="page"><span>Rooms</span></a>
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1037">
+                                                    <a href="../rooms/index.html"><span>Rooms</span></a>
                                                     <button class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-1626"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
-                                                            <a href="index.html" aria-current="page"><span>Rooms
-                                                                    Page</span></a>
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626">
+                                                            <a href="../rooms/index.html"><span>Rooms Page</span></a>
                                                         </li>
                                                         <li id="menu-item-1674"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Room
-                                                                    &#8211; create</span></a>
+                                                            <a href="../room/studio-king/index.html"><span>Room Details
+                                                                    &#8211; Top Image</span></a>
+                                                        </li>
+                                                        <li id="menu-item-1669"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1669">
+                                                            <a href="../room/deluxe-penthouse/index.html"><span>Room
+                                                                    Details &#8211; Top Gallery</span></a>
+                                                        </li>
+                                                        <li id="menu-item-1670"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1670">
+                                                            <a href="../room/park-view-penthouse/index.html"><span>Room
+                                                                    Details &#8211; Left Booking Form</span></a>
+                                                        </li>
+                                                        <li id="menu-item-1625"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625">
+                                                            <a href="../cart/index.html"><span>Cart</span></a>
+                                                        </li>
+                                                        <li id="menu-item-1624"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624">
+                                                            <a href="../checkout/index.html"><span>Checkout</span></a>
+                                                        </li>
+                                                        <li id="menu-item-1623"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623">
+                                                            <a href="../my-account/index.html"><span>My
+                                                                    account</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
                                                 <li id="menu-item-517"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-517">
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-517">
                                                     <a href="#"><span>Pages</span></a>
                                                     <button class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
@@ -825,7 +1073,8 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-518"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                            <a href="{{ route('panier') }}"><span>Panier</span></a>
+                                                            <a href="../about-the-hotel/index.html"><span>About the
+                                                                    hotel</span></a>
                                                         </li>
                                                         <li id="menu-item-523"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
@@ -861,8 +1110,9 @@
                                                                     Detail Page</span></a>
                                                         </li>
                                                         <li id="menu-item-1011"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                            <a href="../our-blog/index.html"><span>Our Blog</span></a>
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1002 current_page_item menu-item-1011">
+                                                            <a href="index.html" aria-current="page"><span>Les
+                                                                    Réservations</span></a>
                                                         </li>
                                                         <li id="menu-item-519"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
@@ -906,7 +1156,7 @@
                                     data-id="3394ea0c" data-element_type="widget"
                                     data-widget_type="cs_button.default">
                                     <div class="elementor-widget-container">
-                                        <a href="index.html"
+                                        <a href="../rooms/index.html"
                                             class="elementor-button-link button cs-btn-outline cs-btn-small"
                                             role="button">
                                             <span class="cs-btn-text">Check Availability</span> </a>
@@ -974,188 +1224,39 @@
             <div class="main">
                 <div class="container">
                     <div id="primary" class="primary content-area">
-                        <article class="post-1032 page type-page status-publish hentry">
+                        <article class="post-1002 page type-page status-publish hentry">
                             <div class="entry-content">
-                                <div data-elementor-type="wp-page" data-elementor-id="1032"
-                                    class="elementor elementor-1032">
+                                <div data-elementor-type="wp-page" data-elementor-id="1002"
+                                    class="elementor elementor-1002">
                                     <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-8ecbd63 elementor-section-height-min-height cs-section-content-fullwidth cs-parallax-on-scroll cs_scroll_y_100 elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
-                                        data-id="8ecbd63" data-element_type="section"
+                                        class="elementor-section elementor-top-section elementor-element elementor-element-df19b59 elementor-section-height-min-height cs-section-content-fullwidth cs-parallax-on-scroll cs_scroll_y_80 elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
+                                        data-id="df19b59" data-element_type="section"
                                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-                                        data-cs-parallax-y="100" style="background-image: none;"
-                                        data-cs-background-image="../wp-content/uploads/sites/6/2023/03/img-35.jpg">
+                                        data-cs-parallax-y="80" style="background-image: none;"
+                                        data-cs-background-image="../wp-content/uploads/sites/6/2023/05/spacejoy-vPKNB_gc23Q-unsplash.jpg">
                                         <div class="elementor-background-overlay"></div>
                                         <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47b0f3b dark-color"
-                                                data-id="47b0f3b" data-element_type="column">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-398db92 dark-color"
+                                                data-id="398db92" data-element_type="column">
                                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-31c3948 elementor-widget elementor-widget-cs_title"
-                                                        data-id="31c3948" data-element_type="widget"
+                                                    <div class="elementor-element elementor-element-768b25f elementor-widget elementor-widget-cs_title"
+                                                        data-id="768b25f" data-element_type="widget"
                                                         data-widget_type="cs_title.default">
                                                         <div class="elementor-widget-container">
 
                                                             <div class="cs-title-wrap text-center">
                                                                 <h1 class="cs-title">
+                                                                    Les Réservations </h1>
+                                                                <h3 class="cs-title">
                                                                     @if (session()->has('success'))
                                                                         <h3 type="success">
                                                                             {{ session('success') }}
                                                                         </h3>
                                                                     @endif
-                                                                </h1>
-                                                                <h1 class="cs-title">
-                                                                    Book Your Stay </h1>
+                                                                </h3>
                                                                 <div class="cs-title-text">
-                                                                    <p>A stay infused with creativity and culture.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-8f7ff3c elementor-widget__width-initial elementor-widget elementor-widget-cs_reservation"
-                                                        data-id="8f7ff3c" data-element_type="widget"
-                                                        data-widget_type="cs_reservation.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-reservation-form style-banner-3 style-banner cs-form-square inline-label">
-                                                                <form class="cs-form-wrap"
-                                                                    data-date-format="YYYY-MM-DD"
-                                                                    action="https://cozystay.loftocean.com/apartment/"
-                                                                    method="GET">
-                                                                    <div class="cs-form-field cs-check-in">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                In</label>
-
-                                                                            <div class="field-input-wrap checkin-date">
-                                                                                <input type="text"
-                                                                                    class="date-range-picker"
-                                                                                    value="2024-03-20 - 2024-03-21">
-                                                                                <input type="text"
-                                                                                    value="2024-03-20"
-                                                                                    class="check-in-date"
-                                                                                    name="checkin" readonly>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-form-field cs-check-out">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                Out</label>
-
-                                                                            <div
-                                                                                class="field-input-wrap checkout-date">
-                                                                                <input type="text"
-                                                                                    value="2024-03-21"
-                                                                                    class="check-out-date"
-                                                                                    name="checkout" readonly>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-form-field cs-guests cs-has-dropdown">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Guests</label>
-
-                                                                            <div class="field-input-wrap has-dropdown">
-                                                                                <input type="text" name="guests"
-                                                                                    value="1 Adult, 0 Child"
-                                                                                    readonly="">
-                                                                            </div>
-
-                                                                            <div class="csf-dropdown">
-                                                                                <div class="csf-dropdown-item">
-                                                                                    <label
-                                                                                        class="cs-form-label">Adults</label>
-
-                                                                                    <div class="quantity cs-quantity"
-                                                                                        data-label="adult">
-                                                                                        <label
-                                                                                            class="screen-reader-text">Adults
-                                                                                            quantity</label>
-                                                                                        <button
-                                                                                            class="minus"></button>
-                                                                                        <input type="text"
-                                                                                            name="adult-quantity"
-                                                                                            value="1"
-                                                                                            class="input-text"
-                                                                                            autocomplete="off"
-                                                                                            readonly=""
-                                                                                            data-min="1"
-                                                                                            data-max="50">
-                                                                                        <button
-                                                                                            class="plus"></button>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="csf-dropdown-item">
-                                                                                    <label
-                                                                                        class="cs-form-label">Children</label>
-
-                                                                                    <div class="quantity cs-quantity"
-                                                                                        data-label="child">
-                                                                                        <label
-                                                                                            class="screen-reader-text">Children
-                                                                                            quantity</label>
-                                                                                        <button
-                                                                                            class="minus"></button>
-                                                                                        <input type="text"
-                                                                                            name="child-quantity"
-                                                                                            value="0"
-                                                                                            class="input-text"
-                                                                                            autocomplete="off"
-                                                                                            readonly=""
-                                                                                            data-min="0"
-                                                                                            data-max="50">
-                                                                                        <button
-                                                                                            class="plus"></button>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-form-field cs-submit">
-                                                                        <div class="field-wrap">
-                                                                            <button class="button" role="button"
-                                                                                type="submit">
-                                                                                <span class="btn-text">Check
-                                                                                    Availability</span>
-                                                                            </button>
-                                                                        </div>
-                                                                    </div>
-                                                                    <input type="hidden" name="search_rooms"
-                                                                        value="" />
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-ed2fcc0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="ed2fcc0" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-28bcbe9"
-                                                data-id="28bcbe9" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-31ef03a elementor-widget elementor-widget-cs_title"
-                                                        data-id="31ef03a" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap text-center">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Welcome to CozyStay
-                                                                        Aparthotel</span></div>
-                                                                <h5 class="cs-title">
-                                                                    Explore our refined accommodation options and find
-                                                                    the perfect space for your stay. </h5>
-                                                                <div class="cs-title-text">
-                                                                    <p>All rooms have a bathroom with bathtub and/or
-                                                                        shower, cable television/radio, free WIFI and
-                                                                        mini bar. In addition, all rooms are equipped
-                                                                        with a Nespresso coffee machine. Most rooms are
-                                                                        carpeted, some have parquet flooring.</p>
+                                                                    <p>Check out the latest news and events of the hotel
+                                                                    </p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1165,596 +1266,169 @@
                                         </div>
                                     </section>
                                     <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-a55d790 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="a55d790" data-element_type="section">
+                                        class="elementor-section elementor-top-section elementor-element elementor-element-fe1806c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                        data-id="fe1806c" data-element_type="section">
                                         <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e9a7b0"
-                                                data-id="3e9a7b0" data-element_type="column">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9c076c5"
+                                                data-id="9c076c5" data-element_type="column">
                                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-e13825d cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_tabs"
-                                                        data-id="e13825d" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}"
-                                                        data-widget_type="cs_tabs.default">
+                                                    <div class="elementor-element elementor-element-1c8288f cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_blog"
+                                                        data-id="1c8288f" data-element_type="widget"
+                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:150}"
+                                                        data-widget_type="cs_blog.default">
                                                         <div class="elementor-widget-container">
-                                                            <div class="cs-tabs">
-                                                                <div class="elementor-tabs-wrapper" role="tablist">
-                                                                    <div
-                                                                        class="elementor-tab-title elementor-tab-desktop-title elementor-active">
-                                                                        <a href="#elementor-tab-e13825d-0"
-                                                                            class="tab-title-link"
-                                                                            data-id="room-penthouse">Luxury
-                                                                            Penthouses</a>
-                                                                    </div>
-                                                                    <div
-                                                                        class="elementor-tab-title elementor-tab-desktop-title">
-                                                                        <a href="#elementor-tab-e13825d-1"
-                                                                            class="tab-title-link"
-                                                                            data-id="room-apartment">Art Apartments</a>
-                                                                    </div>
-                                                                    <div
-                                                                        class="elementor-tab-title elementor-tab-desktop-title">
-                                                                        <a href="#elementor-tab-e13825d-2"
-                                                                            class="tab-title-link"
-                                                                            data-id="room-studio">Modern Studios</a>
-                                                                    </div>
-                                                                </div>
-
-                                                                <div class="elementor-tabs-content-wrapper"
-                                                                    role="tablist" aria-orientation="horizontal">
-                                                                    <div id="elementor-tab-e13825d-0"
-                                                                        class="elementor-tab-content elementor-clearfix elementor-active">
-                                                                        <link rel="stylesheet"
-                                                                            id="elementor-post-1296-css"
-                                                                            href="../wp-content/uploads/sites/6/elementor/css/post-1296a4e6.css?ver=1707317709"
-                                                                            type="text/css" media="all">
-                                                                        <div data-elementor-type="wp-post"
-                                                                            data-elementor-id="1296"
-                                                                            class="elementor elementor-1296">
-                                                                            <section
-                                                                                class="elementor-section elementor-top-section elementor-element elementor-element-afebad1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                                                data-id="afebad1"
-                                                                                data-element_type="section">
+                                                            <div class="posts layout-grid column-2 img-ratio-3-2"
+                                                                data-settings='{"query":{"paged":1,"posts_per_page":4,"ignore_sticky_posts":true,"post_type":"post","post_status":"publish"},"settings":{"layout":"grid","columns":"2","post_meta":"a:4:{i:0;s:7:\"excerpt\";i:1;s:13:\"read_more_btn\";i:2;s:8:\"category\";i:3;s:4:\"date\";}","page_layout":"","pagination":"ajax-manual","archive_page":"elementor"}}'>
+                                                                <div class="posts-wrapper">
+                                                                    @foreach ($PublicationReservations as $PublicationReservation)
+                                                                        <article
+                                                                            class="post-142 post type-post status-publish format-gallery has-post-thumbnail hentry category-sightseeing category-wellness tag-mountain tag-nature tag-special-events tag-summer post_format-post-format-gallery">
+                                                                            <div class="featured-img">
+                                                                                <a
+                                                                                    href="{{ route('rooms.show', $PublicationReservation->id) }}">
+                                                                                    <ul
+                                                                                        class="thumbnail-gallery single-img-gallery">
+                                                                                        <li class="first"><img
+                                                                                                loading="lazy"
+                                                                                                decoding="async"
+                                                                                                width="1920"
+                                                                                                height="1274"
+                                                                                                src="{{ asset('storage/' . $PublicationReservation->image) }}"
+                                                                                                class="skip-lazy image-layout-grid-column-2"
+                                                                                                alt="Local Activities"
+                                                                                                sizes="(max-width: 1920px) 100vw, 1920px" />
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </a>
+                                                                                <div class="slider-arrows"></div>
+                                                                                <div class="slider-dots"></div>
                                                                                 <div
-                                                                                    class="elementor-container elementor-column-gap-no">
-                                                                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9a90dfb"
-                                                                                        data-id="9a90dfb"
-                                                                                        data-element_type="column">
-                                                                                        <div
-                                                                                            class="elementor-widget-wrap elementor-element-populated">
-                                                                                            <div class="elementor-element elementor-element-1703b00 elementor-widget elementor-widget-cs_rooms"
-                                                                                                data-id="1703b00"
-                                                                                                data-element_type="widget"
-                                                                                                data-widget_type="cs_rooms.default">
-                                                                                                <div
-                                                                                                    class="elementor-widget-container">
-                                                                                                    <div class="posts cs-rooms text-center cs-rooms-carousel layout-grid column-3 img-ratio-3-2"
-                                                                                                        data-autoplay="off"
-                                                                                                        data-autoplay-speed=""
-                                                                                                        data-show-arrows=""
-                                                                                                        data-show-dots="on"
-                                                                                                        data-column="3">
-                                                                                                        <div
-                                                                                                            class="posts-wrapper cs-rooms-wrapper">
-                                                                                                            @foreach ($rooms as $room)
-                                                                                                                <div
-                                                                                                                    class="post cs-room-item has-post-thumbnail">
-                                                                                                                    <div
-                                                                                                                        class="featured-img">
-                                                                                                                        <a
-                                                                                                                            href="{{ route('rooms.show', $room->id) }}"><img
-                                                                                                                                loading="lazy"
-                                                                                                                                decoding="async"
-                                                                                                                                width="780"
-                                                                                                                                height="520"
-                                                                                                                                src="{{ asset('storage/' . $room->image) }}"
-                                                                                                                                class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                                alt=""
-                                                                                                                                sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                        </a>
-                                                                                                                        <div
-                                                                                                                            class="overlay-label">
-                                                                                                                            <div
-                                                                                                                                class="overlay-label-text">
-                                                                                                                                ${{ $room->prix }}
-                                                                                                                                /
-                                                                                                                                Night
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-
-
-                                                                                                                    <div
-                                                                                                                        class="post-content cs-room-content">
-                                                                                                                        <header
-                                                                                                                            class="post-header item-header">
-                                                                                                                            <h2
-                                                                                                                                class="post-title item-title">
-                                                                                                                                <a
-                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
-                                                                                                                                    {{ $room->name }}</a>
-                                                                                                                            </h2>
-                                                                                                                            <div
-                                                                                                                                class="item-subtitle">
-                                                                                                                                {{ $room->etage }}
-                                                                                                                                étage
-                                                                                                                                /
-                                                                                                                                {{ $room->surface }}
-                                                                                                                                m²
-                                                                                                                                /type
-                                                                                                                                :
-                                                                                                                                {{ $room->type }}
-                                                                                                                                /
-                                                                                                                                {{ $room->place }}
-                                                                                                                                Guests
-                                                                                                                            </div>
-                                                                                                                        </header>
-                                                                                                                        <div
-                                                                                                                            class="post-excerpt item-excerpt">
-                                                                                                                            <p>{{ $room->description }}
-                                                                                                                            </p>
-                                                                                                                        </div>
-                                                                                                                        <footer
-                                                                                                                            class="post-footer item-footer">
-                                                                                                                            <div
-                                                                                                                                class="more-btn">
-                                                                                                                                <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
-                                                                                                                                    <span>Discover
-                                                                                                                                        More</span>
-                                                                                                                                </a>
-                                                                                                                            </div>
-                                                                                                                        </footer>
-                                                                                                                    </div>
-
-                                                                                                                </div>
-                                                                                                            @endforeach
-
-                                                                                                            <div
-                                                                                                                class="post cs-room-item has-post-thumbnail">
-                                                                                                                <div
-                                                                                                                    class="featured-img">
-                                                                                                                    <a
-                                                                                                                        href="../room/avenue-view-penthouse/index.html"><img
-                                                                                                                            loading="lazy"
-                                                                                                                            decoding="async"
-                                                                                                                            width="780"
-                                                                                                                            height="520"
-                                                                                                                            src="../wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg"
-                                                                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                            alt=""
-                                                                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash.jpg 1920w"
-                                                                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                    </a>
-                                                                                                                    <div
-                                                                                                                        class="overlay-label">
-                                                                                                                        <div
-                                                                                                                            class="overlay-label-text">
-                                                                                                                            $699
-                                                                                                                            /
-                                                                                                                            Night
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div
-                                                                                                                    class="post-content cs-room-content">
-                                                                                                                    <header
-                                                                                                                        class="post-header item-header">
-                                                                                                                        <h2
-                                                                                                                            class="post-title item-title">
-                                                                                                                            <a
-                                                                                                                                href="../room/avenue-view-penthouse/index.html">Avenue
-                                                                                                                                View
-                                                                                                                                Penthouse</a>
-                                                                                                                        </h2>
-                                                                                                                        <div
-                                                                                                                            class="item-subtitle">
-                                                                                                                            1076
-                                                                                                                            ft²
-                                                                                                                            /
-                                                                                                                            100
-                                                                                                                            m²
-                                                                                                                            /
-                                                                                                                            Avenue
-                                                                                                                            View
-                                                                                                                            /
-                                                                                                                            4
-                                                                                                                            Guests
-                                                                                                                        </div>
-                                                                                                                    </header>
-                                                                                                                    <div
-                                                                                                                        class="post-excerpt item-excerpt">
-                                                                                                                        <p>Welcome
-                                                                                                                            to
-                                                                                                                            your
-                                                                                                                            urban
-                                                                                                                            oasis
-                                                                                                                            inspired
-                                                                                                                            by
-                                                                                                                            the
-                                                                                                                            natural
-                                                                                                                            beauty
-                                                                                                                            and
-                                                                                                                            calming
-                                                                                                                            energy
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                            Relax
-                                                                                                                            on
-                                                                                                                            your
-                                                                                                                            private
-                                                                                                                            terrace
-                                                                                                                            or
-                                                                                                                            snuggle
-                                                                                                                            up
-                                                                                                                            in
-                                                                                                                            your
-                                                                                                                            king
-                                                                                                                            size
-                                                                                                                            bed
-                                                                                                                            and
-                                                                                                                            take
-                                                                                                                            in
-                                                                                                                            the
-                                                                                                                            views
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                        </p>
-                                                                                                                    </div>
-                                                                                                                    <footer
-                                                                                                                        class="post-footer item-footer">
-                                                                                                                        <div
-                                                                                                                            class="more-btn">
-                                                                                                                            <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                href="../room/avenue-view-penthouse/index.html">
-                                                                                                                                <span>Discover
-                                                                                                                                    More</span>
-                                                                                                                            </a>
-                                                                                                                        </div>
-                                                                                                                    </footer>
-                                                                                                                </div>
-                                                                                                            </div>
-
-                                                                                                            <div
-                                                                                                                class="post cs-room-item has-post-thumbnail">
-                                                                                                                <div
-                                                                                                                    class="featured-img">
-                                                                                                                    <a
-                                                                                                                        href="../room/park-view-penthouse/index.html"><img
-                                                                                                                            loading="lazy"
-                                                                                                                            decoding="async"
-                                                                                                                            width="780"
-                                                                                                                            height="520"
-                                                                                                                            src="../wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-780x520.jpg"
-                                                                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                            alt=""
-                                                                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash.jpg 1920w"
-                                                                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                    </a>
-                                                                                                                    <div
-                                                                                                                        class="overlay-label">
-                                                                                                                        <div
-                                                                                                                            class="overlay-label-text">
-                                                                                                                            $799
-                                                                                                                            /
-                                                                                                                            Night
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div
-                                                                                                                    class="post-content cs-room-content">
-                                                                                                                    <header
-                                                                                                                        class="post-header item-header">
-                                                                                                                        <h2
-                                                                                                                            class="post-title item-title">
-                                                                                                                            <a
-                                                                                                                                href="../room/park-view-penthouse/index.html">Park
-                                                                                                                                View
-                                                                                                                                Penthouse</a>
-                                                                                                                        </h2>
-                                                                                                                        <div
-                                                                                                                            class="item-subtitle">
-                                                                                                                            1291
-                                                                                                                            ft²
-                                                                                                                            /
-                                                                                                                            120
-                                                                                                                            m²
-                                                                                                                            /
-                                                                                                                            Park
-                                                                                                                            View
-                                                                                                                            /
-                                                                                                                            6
-                                                                                                                            Guests
-                                                                                                                        </div>
-                                                                                                                    </header>
-                                                                                                                    <div
-                                                                                                                        class="post-excerpt item-excerpt">
-                                                                                                                        <p>Welcome
-                                                                                                                            to
-                                                                                                                            your
-                                                                                                                            urban
-                                                                                                                            oasis
-                                                                                                                            inspired
-                                                                                                                            by
-                                                                                                                            the
-                                                                                                                            natural
-                                                                                                                            beauty
-                                                                                                                            and
-                                                                                                                            calming
-                                                                                                                            energy
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                            Relax
-                                                                                                                            on
-                                                                                                                            your
-                                                                                                                            private
-                                                                                                                            terrace
-                                                                                                                            or
-                                                                                                                            snuggle
-                                                                                                                            up
-                                                                                                                            in
-                                                                                                                            your
-                                                                                                                            king
-                                                                                                                            size
-                                                                                                                            bed
-                                                                                                                            and
-                                                                                                                            take
-                                                                                                                            in
-                                                                                                                            the
-                                                                                                                            views
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                        </p>
-                                                                                                                    </div>
-                                                                                                                    <footer
-                                                                                                                        class="post-footer item-footer">
-                                                                                                                        <div
-                                                                                                                            class="more-btn">
-                                                                                                                            <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                href="../room/park-view-penthouse/index.html">
-                                                                                                                                <span>Discover
-                                                                                                                                    More</span>
-                                                                                                                            </a>
-                                                                                                                        </div>
-                                                                                                                    </footer>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
+                                                                                    class="overlay-label time-label featured-style">
+                                                                                    <div class="meta-item time">
+                                                                                        <time class="published"
+                                                                                            datetime="2023-03-24T08:50:29+00:00">
+                                                                                            <span
+                                                                                                class="month">Mar</span>
+                                                                                            <span
+                                                                                                class="day">{{ $PublicationReservation->updated_at->format('j') }}
+                                                                                            </span>
+                                                                                        </time>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="post-content">
+                                                                                <header class="post-header">
+                                                                                    <div class="meta-wrap">
+                                                                                        <div class="cat-links"><a
+                                                                                                href="{{ route('rooms.show', $PublicationReservation->id) }}"
+                                                                                                rel="tag">type
+                                                                                                /</a>
+                                                                                            <a href="{{ route('rooms.show', $PublicationReservation->id) }}"
+                                                                                                rel="tag">{{ $PublicationReservation->type }}</a>
                                                                                         </div>
                                                                                     </div>
+                                                                                    <h2 class="post-title">
+                                                                                        <a
+                                                                                            href="{{ route('rooms.show', $PublicationReservation->id) }}">City
+                                                                                            {{ $PublicationReservation->name }}</a>
+                                                                                    </h2>
+                                                                                </header>
+                                                                                <div class="post-excerpt">
+                                                                                    <p>{{ $PublicationReservation->description }}
+                                                                                        &#8230;</p>
                                                                                 </div>
-                                                                            </section>
+                                                                                <footer class="post-footer">
+                                                                                    <div class="more-btn">
+                                                                                        <form
+                                                                                            action="{{ route('reservation.destroy', $PublicationReservation->id) }}"
+                                                                                            method="POST">
+                                                                                            @method('DELETE')
+                                                                                            @csrf
+                                                                                            <input type="hidden"
+                                                                                                name="rooms_id"
+                                                                                                value="{{ $PublicationReservation->id }}">
+                                                                                            <button
+                                                                                                class="read-more-btn button cs-btn-underline"
+                                                                                                type="submit"><span>Annuller
+                                                                                                    Reservation</span></button>
+                                                                                        </form>
+                                                                                    </div>
+                                                                                </footer>
+                                                                            </div>
+                                                                        </article>
+                                                                    @endforeach
+                                                                    <article
+                                                                        class="post-149 post type-post status-publish format-standard has-post-thumbnail hentry category-dining category-news tag-dining-experience tag-food tag-special-events tag-summer">
+                                                                        <div class="featured-img">
+                                                                            <a
+                                                                                href="../news/new-chef-and-spring-special-menu/index.html"><img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    width="780" height="586"
+                                                                                    src="../wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-780x586.jpg"
+                                                                                    class="attachment-cozystay_780x9999 size-cozystay_780x9999 wp-post-image image-layout-grid-column-2"
+                                                                                    alt=""
+                                                                                    srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-780x586.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-300x225.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1024x769.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-768x577.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1536x1154.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1440x1082.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1200x901.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-600x451.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-550x413.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-370x278.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-255x192.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash.jpg 1920w"
+                                                                                    sizes="(max-width: 780px) 100vw, 780px" /></a>
+                                                                            <div
+                                                                                class="overlay-label time-label featured-style">
+                                                                                <div class="meta-item time">
+                                                                                    <time class="published"
+                                                                                        datetime="2023-03-18T07:08:07+00:00">
+                                                                                        <span class="month">Mar</span>
+                                                                                        <span class="day">18</span>
+                                                                                    </time>
+                                                                                </div>
+                                                                            </div>
                                                                         </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-7efc604 cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="7efc604" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dddda48"
-                                                data-id="dddda48" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <section
-                                                        class="elementor-section elementor-inner-section elementor-element elementor-element-7a81c1e elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                        data-id="7a81c1e" data-element_type="section">
-                                                        <div class="elementor-container elementor-column-gap-no">
-                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c6335e9"
-                                                                data-id="c6335e9" data-element_type="column">
-                                                                <div
-                                                                    class="elementor-widget-wrap elementor-element-populated">
-                                                                    <div class="elementor-element elementor-element-d5dcb66 elementor-widget elementor-widget-cs_title"
-                                                                        data-id="d5dcb66" data-element_type="widget"
-                                                                        data-widget_type="cs_title.default">
-                                                                        <div class="elementor-widget-container">
+                                                                        <div class="post-content">
+                                                                            <header class="post-header">
+                                                                                <div class="meta-wrap">
+                                                                                    <div class="cat-links"><a
+                                                                                            href="../category/dining/index.html"
+                                                                                            rel="tag">Dining</a>
+                                                                                        <a href="../category/news/index.html"
+                                                                                            rel="tag">News</a>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <h2 class="post-title">
+                                                                                    <a
+                                                                                        href="../news/new-chef-and-spring-special-menu/index.html">New
+                                                                                        chef and spring special menu</a>
+                                                                                </h2>
+                                                                            </header>
+                                                                            <div class="post-excerpt">
+                                                                                <p>Lorem ipsum dolor sit amet,
+                                                                                    consectetuer adipiscing elit. Aenean
+                                                                                    commodo ligula eget dolor. Aenean
+                                                                                    massa. Cum sociis natoque penatibus
+                                                                                    et magnis dis parturient montes,
+                                                                                    nascetur &#8230;</p>
+                                                                            </div>
+                                                                            <footer class="post-footer">
+                                                                                <div class="more-btn">
+                                                                                    <a class="read-more-btn button cs-btn-underline"
+                                                                                        href="../news/new-chef-and-spring-special-menu/index.html"><span>Read
+                                                                                            More</span></a>
+                                                                                </div>
+                                                                            </footer>
+                                                                        </div>
+                                                                    </article>
 
-                                                                            <div class="cs-title-wrap">
-                                                                                <div class="cs-subtitle-wrap"><span
-                                                                                        class="cs-subtitle">The
-                                                                                        Essential In-Room
-                                                                                        Amenities</span></div>
-                                                                                <h5 class="cs-title">
-                                                                                    Our spaces have all the essentials
-                                                                                    you need for your stay. </h5>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
                                                                 </div>
-                                                            </div>
-                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b34def8"
-                                                                data-id="b34def8" data-element_type="column">
-                                                                <div
-                                                                    class="elementor-widget-wrap elementor-element-populated">
-                                                                    <div class="elementor-element elementor-element-4d582da elementor-widget elementor-widget-cs_title"
-                                                                        data-id="4d582da" data-element_type="widget"
-                                                                        data-widget_type="cs_title.default">
-                                                                        <div class="elementor-widget-container">
-
-                                                                            <div class="cs-title-wrap">
-                                                                                <div class="cs-title-text">
-                                                                                    <p>Lorem ipsum dolor sit amet,
-                                                                                        consectetuer adipiscing elit.
-                                                                                        Aenean commodo ligula eget
-                                                                                        dolor. Aenean massa. Cum sociis
-                                                                                        natoque penatibus et magnis dis
-                                                                                        parturient montes, nascetur
-                                                                                        ridiculus mus. Donec quam felis,
-                                                                                        ultricies nec.</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
+                                                                <nav class="navigation pagination">
+                                                                    <div class="pagination-container load-more">
+                                                                        <h2 class="screen-reader-text">Posts Navigation
+                                                                        </h2>
+                                                                        <a href="#"
+                                                                            data-no-post-text="No More Posts"
+                                                                            class="load-more-btn ajax manual">
+                                                                            <span class="btn-text">Load More
+                                                                                Posts</span>
+                                                                            <span
+                                                                                class="loading-text">Loading...</span>
+                                                                        </a>
                                                                     </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </section>
-                                                    <div class="elementor-element elementor-element-4ebbd2b cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_info_box"
-                                                        data-id="4ebbd2b" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                                                        data-widget_type="cs_info_box.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-info-box column-4 valign-top img-top text-left">
-                                                                <div class="cs-info-box-wrap">
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-cccff81">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-car"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Airport Pick-up Service </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-6c33aa7">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-customer-service"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Housekeeper Services </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-0a01fb1">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-wifi-2"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Wifi & Internet </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-bb40a8b">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-laundry-service"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Laundry Services </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-55da29c">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-breakfast-2"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Breakfast in Bed </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-f41bbb4">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-parking"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Private Parking Space </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-0bf7877">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-treadmill"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Fitness Center </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-info-box-item elementor-repeater-item-3379dfb">
-                                                                        <div class="cs-item-container">
-                                                                            <div class="cs-info-box-img"><i
-                                                                                    aria-hidden="true"
-                                                                                    class="flaticon flaticon-pool-1"></i>
-                                                                            </div>
-                                                                            <div class="cs-info-box-content">
-                                                                                <h5 class="cs-title cs-info-box-title">
-                                                                                    Infinity Pool </h5>
-                                                                                <div class="cs-info-box-text">
-                                                                                    <p>Lorem ipsum proin gravida velit
-                                                                                        auctor sde re sit amet space.
-                                                                                    </p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                                </nav>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1838,7 +1512,7 @@
                                                     </div>
                                                     <div class="cs-title-btn">
                                                         <a class="button elementor-button-link cs-btn-outline cs-btn-small"
-                                                            role="button" href="index.html">
+                                                            role="button" href="../rooms/index.html">
                                                             <span class="cs-btn-text">Reserve Your Stay</span> </a>
                                                     </div>
                                                 </div>
@@ -1863,8 +1537,8 @@
                                             <div class="elementor-widget-container">
 
                                                 <div class="cs-title-wrap">
-                                                    <div class="cs-subtitle-wrap"><span class="cs-subtitle">Stay
-                                                            Tuned with CozyStay</span></div>
+                                                    <div class="cs-subtitle-wrap"><span class="cs-subtitle">Stay Tuned
+                                                            with CozyStay</span></div>
                                                     <h4 class="cs-title">
                                                         Sign up for our newsletter to receive our news, deals and
                                                         special offers. </h4>
@@ -1918,7 +1592,7 @@
                                                         empty if you're human: <input type="text"
                                                             name="_mc4wp_honeypot" value="" tabindex="-1"
                                                             autocomplete="off" /></label><input type="hidden"
-                                                        name="_mc4wp_timestamp" value="1710957509" /><input
+                                                        name="_mc4wp_timestamp" value="1710957540" /><input
                                                         type="hidden" name="_mc4wp_form_id" value="7" /><input
                                                         type="hidden" name="_mc4wp_form_element_id"
                                                         value="mc4wp-form-1" />
@@ -2154,7 +1828,7 @@
                                         data-id="1dd90552" data-element_type="widget"
                                         data-widget_type="cs_button.default">
                                         <div class="elementor-widget-container">
-                                            <a href="index.html"
+                                            <a href="../rooms/index.html"
                                                 class="elementor-button-link button cs-btn-outline cs-btn-small"
                                                 role="button">
                                                 <span class="cs-btn-text">Check Availability</span> </a>
@@ -2236,9 +1910,8 @@
                                                         <a href="../index.html"><span>Home</span></a>
                                                     </li>
                                                     <li id="menu-item-1038"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1038">
-                                                        <a href="index.html"
-                                                            aria-current="page"><span>Rooms</span></a>
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038">
+                                                        <a href="../rooms/index.html"><span>Rooms</span></a>
                                                     </li>
                                                     <li id="menu-item-279"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279">
@@ -2300,9 +1973,10 @@
                                                                                 Restaurant</span></a>
                                                                     </li>
                                                                     <li id="menu-item-1061"
-                                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061">
-                                                                        <a href="../our-blog/index.html"><span>Our
-                                                                                Blog</span></a>
+                                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1002 current_page_item menu-item-1061">
+                                                                        <a href="index.html"
+                                                                            aria-current="page"><span>Les
+                                                                                Réservations</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </nav>
@@ -2520,16 +2194,16 @@
         href='../wp-content/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4'
         type='text/css' media='all' />
     <link rel='stylesheet' id='google-fonts-2-css'
-        href='https://fonts.googleapis.com/css?family=Marcellus%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
+        href='https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css'
         href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         type='text/css' media='all' />
-    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
-        type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
         href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-icons-fa-solid-css'
+        href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
         type='text/css' media='all' />
     <script type="text/javascript" id="cozystay-helper-js-extra">
         /* <![CDATA[ */
@@ -2582,7 +2256,7 @@
             "data": {
                 "query": {
                     "page": "",
-                    "pagename": "rooms",
+                    "pagename": "our-blog",
                     "paged": 2,
                     "ignore_sticky_posts": true,
                     "post_status": "publish"
@@ -2862,8 +2536,8 @@
                 "lightbox_description_src": "description"
             },
             "post": {
-                "id": 1032,
-                "title": "Rooms%20%E2%80%93%20CozyStay%20Apartment",
+                "id": 1002,
+                "title": "Our%20Blog%20%E2%80%93%20CozyStay%20Apartment",
                 "excerpt": "",
                 "featuredImage": false
             }
@@ -2908,6 +2582,6 @@
         id="loftocean-elementor-frontend-js"></script>
 </body>
 
-<!-- Mirrored from cozystay.loftocean.com/apartment/rooms/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:02:17 GMT -->
+<!-- Mirrored from cozystay.loftocean.com/apartment/our-blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:05:00 GMT -->
 
 </html>

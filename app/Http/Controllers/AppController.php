@@ -2,18 +2,26 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Auths;
 use App\Models\reservations;
+use App\Models\room;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
-class ReservationsController extends Controller
+class AppController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function panier()
     {
-        //
+        $reservations = reservations::where('profile_id', Auth::id())->get();
+        $PublicationReservations = [];
+        foreach ($reservations as $reservation) {
+                $PublicationReservations[] = room::where('id', $reservation->rooms_id)->first();
+        }
+        return view('client.panier',compact('PublicationReservations'));
+
     }
 
     /**
@@ -29,12 +37,7 @@ class ReservationsController extends Controller
      */
     public function store(Request $request)
     {
-        $room_id = $request->room;
-        $profile_id = Auth::id();
-        $valider = "Non valider";
-        $credentials = ['profile_id' => $profile_id, 'rooms_id' => $room_id, 'valider' => $valider];
-        reservations::create($credentials);
-        return view('reservation.cart');
+       
     }
 
     /**
@@ -64,10 +67,8 @@ class ReservationsController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Request $request)
+    public function destroy(reservations $reservations)
     {
-        $delete = reservations::where('rooms_id', $request->rooms_id)->firstOrFail();
-        $delete->delete();
-        return to_route('panier')->with('success', 'La Réservation a élé bien supprimer');
+        //
     }
 }
