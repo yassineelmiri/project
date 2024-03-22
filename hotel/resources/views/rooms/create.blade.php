@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js no-svg">
 
-<!-- Mirrored from cozystay.loftocean.com/apartment/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 17:57:40 GMT -->
+<!-- Mirrored from cozystay.loftocean.com/apartment/my-account/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:03:03 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -9,15 +9,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>CozyStay Apartment &#8211; CozyStay Apartment Demo</title>
-    <meta name='robots' content='max-image-preview:large' />
+    <title>Create Room &#8211; CozyStay Apartment</title>
+    <meta name='robots' content='max-image-preview:large, noindex, follow' />
     <link rel='stylesheet' id='loftocean-flaticons-css'
-        href='wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
+        href='../wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
         type='text/css' media='all' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Feed"
+        href="../feed/index.html" />
     <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Comments Feed"
-        href="comments/feed/index.html" />
+        href="../comments/feed/index.html" />
     <script type="text/javascript">
         /* <![CDATA[ */
         window._wpemojiSettings = {
@@ -140,29 +141,31 @@
     <link rel='stylesheet' id='cozystay-theme-google-fonts-css'
         href='https://fonts.googleapis.com/css?family=Marcellus%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%7CJost%3A400%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2023101601'
         type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css' href='wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8'
-        type='text/css' media='all' />
+    <link rel='stylesheet' id='slick-css'
+        href='../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='font-awesome-css'
-        href='wp-content/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
+        href='../wp-content/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elegant-font-css'
-        href='wp-content/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
+        href='../wp-content/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='wp-includes/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+        href='../wp-includes/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-general-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
+        href='../wp-content/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='woocommerce-layout-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css'
+        href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css'
         media='all' />
     <link rel='stylesheet' id='woocommerce-smallscreen-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css'
+        href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css'
         media='only screen and (max-width: 768px)' />
     <link rel='stylesheet' id='cozystay-theme-style-css'
-        href='wp-content/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css'
+        href='../wp-content/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css'
         media='all' />
     <link rel='stylesheet' id='cozystay-woocommerce-css'
-        href='wp-content/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css'
+        href='../wp-content/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css'
         media='all' />
     <style id='cozystay-woocommerce-inline-css' type='text/css'>
         :root {
@@ -592,47 +595,47 @@
             line-height: 1.6;
         }
     </style>
+    <link rel='stylesheet' id='select2-css'
+        href='../wp-content/plugins/woocommerce/assets/css/select29b80.css?ver=8.6.1' type='text/css' media='all' />
     <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
             visibility: visible;
         }
     </style>
     <link rel='stylesheet' id='contact-form-7-css'
-        href='wp-content/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css' media='all' />
+        href='../wp-content/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='jquery-daterangepicker-css'
-        href='wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1'
+        href='../wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-css'
-        href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0' type='text/css'
-        media='all' />
+        href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-frontend-css'
-        href='wp-content/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css'
+        href='../wp-content/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css'
         media='all' />
     <link rel='stylesheet' id='swiper-css'
-        href='wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
+        href='../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-5-css'
-        href='wp-content/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
-        media='all' />
-    <link rel='stylesheet' id='elementor-post-150-css'
-        href='wp-content/uploads/sites/6/elementor/css/post-1509a1d.css?ver=1707315433' type='text/css'
+        href='../wp-content/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
         media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
-        href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
+        href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
         type='text/css' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
         id="modernizr-js"></script>
     <!--[if lt IE 9]>
 <script type="text/javascript"
     src="https://cozystay.loftocean.com/apartment/wp-content/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3"
     id="html5shiv-js"></script>
 <![endif]-->
-    <script type="text/javascript" src="wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
-    </script>
+    <script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
+        id="jquery-migrate-js"></script>
     <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
+        src="../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
         id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="wc-add-to-cart-js-extra">
         /* <![CDATA[ */
@@ -646,11 +649,15 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
-        id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js"
+        src="../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js"
         defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript"
+        src="../wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min3204.js?ver=1.0.9-wc.8.6.1"
+        id="selectWoo-js" defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript"
+        src="../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1"
+        id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="woocommerce-js-extra">
         /* <![CDATA[ */
         var woocommerce_params = {
@@ -659,19 +666,20 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1"
-        id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-    <link rel="https://api.w.org/" href="wp-json/index.html" />
-    <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/150.json" />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+    <script type="text/javascript"
+        src="../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js"
+        defer="defer" data-wp-strategy="defer"></script>
+    <link rel="https://api.w.org/" href="../wp-json/index.html" />
+    <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1621.json" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
     <meta name="generator" content="WordPress 6.4.3" />
     <meta name="generator" content="WooCommerce 8.6.1" />
     <link rel="canonical" href="index.html" />
-    <link rel='shortlink' href='index.html' />
+    <link rel='shortlink' href='../indexcd66.html?p=1621' />
     <link rel="alternate" type="application/json+oembed"
-        href="wp-json/oembed/1.0/embed4969.json?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2F" />
+        href="../wp-json/oembed/1.0/embedd4cc.json?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Fmy-account%2F" />
     <link rel="alternate" type="text/xml+oembed"
-        href="wp-json/oembed/1.0/embed018c?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2F&amp;format=xml" />
+        href="../wp-json/oembed/1.0/embede49b?url=https%3A%2F%2Fcozystay.loftocean.com%2Fapartment%2Fmy-account%2F&amp;format=xml" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WGXLWBJXE2"></script>
     <script>
@@ -695,11 +703,11 @@
 </head>
 
 <body
-    class="home page-template page page-id-150 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-no-js elementor-default elementor-kit-5 elementor-page elementor-page-150 page-template-template-wide-content page-template-template-wide-content-php cs-template-wide dark-color site-layout-fullwidth cs-form-square">
+    class="page page-id-1621 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-account woocommerce-page woocommerce-no-js elementor-default elementor-kit-5 page-template-default dark-color site-layout-fullwidth cs-form-square">
     <div id="page">
         <header id="masthead" class="site-header overlap-header" data-sticky-status="disable">
             <link rel="stylesheet" id="elementor-post-298-css"
-                href="wp-content/uploads/sites/6/elementor/css/post-2984e7f.css?ver=1707315110" type="text/css"
+                href="../wp-content/uploads/sites/6/elementor/css/post-2984e7f.css?ver=1707315110" type="text/css"
                 media="all">
             <div data-elementor-type="wp-post" data-elementor-id="298" class="elementor elementor-298">
                 <section
@@ -775,9 +783,8 @@
                                         <nav class="cs-menu main-navigation not-mobile-menu dropdown-dark">
                                             <ul id="menu-93b4c8c" class="menu primary-menu">
                                                 <li id="menu-item-516"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-150 current_page_item cozystay-mega-menu menu-item-has-children menu-item-516">
-                                                    <a href="index.html"
-                                                        aria-current="page"><span>Home</span></a><button
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
+                                                    <a href="../index.html"><span>Home</span></a><button
                                                         class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
@@ -785,7 +792,7 @@
                                                         class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
                                                         <div class="container">
                                                             <link rel="stylesheet" id="elementor-post-1727-css"
-                                                                href="wp-content/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110"
+                                                                href="../wp-content/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110"
                                                                 type="text/css" media="all">
                                                             <div data-elementor-type="wp-post"
                                                                 data-elementor-id="1727"
@@ -806,11 +813,11 @@
                                                                                     data-widget_type="image.default">
                                                                                     <div
                                                                                         class="elementor-widget-container">
-                                                                                        <a href="index.html">
+                                                                                        <a href="../index.html">
                                                                                             <img fetchpriority="high"
                                                                                                 width="370"
                                                                                                 height="462"
-                                                                                                src="wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg"
                                                                                                 class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1731"
                                                                                                 alt=""
                                                                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home.jpg 750w"
@@ -853,7 +860,7 @@
                                                                                             target="_blank">
                                                                                             <img width="370"
                                                                                                 height="462"
-                                                                                                src="wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg"
                                                                                                 class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1729"
                                                                                                 alt=""
                                                                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home.jpg 750w"
@@ -896,7 +903,7 @@
                                                                                             target="_blank">
                                                                                             <img width="370"
                                                                                                 height="462"
-                                                                                                src="wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg"
                                                                                                 class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1730"
                                                                                                 alt=""
                                                                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home.jpg 750w"
@@ -940,7 +947,7 @@
                                                                                             <img loading="lazy"
                                                                                                 width="370"
                                                                                                 height="462"
-                                                                                                src="wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg"
                                                                                                 class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1732"
                                                                                                 alt=""
                                                                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home.jpg 750w"
@@ -984,7 +991,7 @@
                                                                                             <img loading="lazy"
                                                                                                 width="370"
                                                                                                 height="462"
-                                                                                                src="wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg"
+                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg"
                                                                                                 class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1733"
                                                                                                 alt=""
                                                                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home.jpg 750w"
@@ -1019,42 +1026,43 @@
                                                     </div>
                                                 </li>
                                                 <li id="menu-item-1037"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1037">
-                                                    <a href="rooms/index.html"><span>Rooms</span></a>
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
+                                                    <a href="../rooms/index.html"><span>Rooms</span></a>
                                                     <button class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626">
-                                                            <a href="{{ route('rooms.index') }}"><span>Rooms Page</span></a>
+                                                            <a href="../rooms/index.html"><span>Rooms Page</span></a>
                                                         </li>
                                                         <li id="menu-item-1674"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="room/studio-king/index.html"><span>Room Details
+                                                            <a href="../room/studio-king/index.html"><span>Room Details
                                                                     &#8211; Top Image</span></a>
                                                         </li>
                                                         <li id="menu-item-1669"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1669">
-                                                            <a href="room/deluxe-penthouse/index.html"><span>Room
+                                                            <a href="../room/deluxe-penthouse/index.html"><span>Room
                                                                     Details &#8211; Top Gallery</span></a>
                                                         </li>
                                                         <li id="menu-item-1670"
                                                             class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1670">
-                                                            <a href="room/park-view-penthouse/index.html"><span>Room
+                                                            <a href="../room/park-view-penthouse/index.html"><span>Room
                                                                     Details &#8211; Left Booking Form</span></a>
                                                         </li>
                                                         <li id="menu-item-1625"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625">
-                                                            <a href="cart/index.html"><span>Cart</span></a>
+                                                            <a href="../cart/index.html"><span>Cart</span></a>
                                                         </li>
                                                         <li id="menu-item-1624"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624">
-                                                            <a href="checkout/index.html"><span>Checkout</span></a>
+                                                            <a href="../checkout/index.html"><span>Checkout</span></a>
                                                         </li>
                                                         <li id="menu-item-1623"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623">
-                                                            <a href="my-account/index.html"><span>My account</span></a>
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1621 current_page_item menu-item-1623">
+                                                            <a href="index.html" aria-current="page"><span>Create
+                                                                    Account</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -1067,49 +1075,49 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-518"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                            <a href="about-the-hotel/index.html"><span>About the
+                                                            <a href="../about-the-hotel/index.html"><span>About the
                                                                     hotel</span></a>
                                                         </li>
                                                         <li id="menu-item-523"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                            <a href="amenities-services/index.html"><span>Amenities
+                                                            <a href="../amenities-services/index.html"><span>Amenities
                                                                     &#038; Services</span></a>
                                                         </li>
                                                         <li id="menu-item-522"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
-                                                            <a href="salon-price/index.html"><span>Salon Price
+                                                            <a href="../salon-price/index.html"><span>Salon Price
                                                                     List</span></a>
                                                         </li>
                                                         <li id="menu-item-524"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
-                                                            <a href="dining/index.html"><span>Dining</span></a>
+                                                            <a href="../dining/index.html"><span>Dining</span></a>
                                                         </li>
                                                         <li id="menu-item-526"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                                                            <a href="the-restaurant/index.html"><span>The
+                                                            <a href="../the-restaurant/index.html"><span>The
                                                                     Restaurant</span></a>
                                                         </li>
                                                         <li id="menu-item-525"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                            <a href="wellness/index.html"><span>Wellness</span></a>
+                                                            <a href="../wellness/index.html"><span>Wellness</span></a>
                                                         </li>
                                                         <li id="menu-item-521"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
-                                                            <a href="local-activities/index.html"><span>Local
+                                                            <a href="../local-activities/index.html"><span>Local
                                                                     Activities</span></a>
                                                         </li>
                                                         <li id="menu-item-1248"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
-                                                            <a href="activity-detail/index.html"><span>Activity Detail
-                                                                    Page</span></a>
+                                                            <a href="../activity-detail/index.html"><span>Activity
+                                                                    Detail Page</span></a>
                                                         </li>
                                                         <li id="menu-item-1011"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                            <a href="our-blog/index.html"><span>Our Blog</span></a>
+                                                            <a href="../our-blog/index.html"><span>Our Blog</span></a>
                                                         </li>
                                                         <li id="menu-item-519"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                                                            <a href="contact/index.html"><span>Contact</span></a>
+                                                            <a href="../contact/index.html"><span>Contact</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -1125,8 +1133,8 @@
                                 <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
                                     data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="index.html"> <img loading="lazy" width="255" height="51"
-                                                src="wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
+                                                src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
@@ -1148,23 +1156,12 @@
                                 <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
                                     data-id="3394ea0c" data-element_type="widget"
                                     data-widget_type="cs_button.default">
-                                    @auth
-                                        <div class="elementor-widget-container">
-                                            <a href="{{ route('logout') }}"
-                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                                role="button">
-                                                <span class="cs-btn-text">log-out</span> </a>
-                                        </div>
-                                    @endauth
-                                    @guest
-                                        <div class="elementor-widget-container">
-                                            <a href="{{ route('auth.index') }}"
-                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                                role="button">
-                                                <span class="cs-btn-text">Login</span> </a>
-                                        </div>
-                                    @endguest
-
+                                    <div class="elementor-widget-container">
+                                        <a href="../rooms/index.html"
+                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                            role="button">
+                                            <span class="cs-btn-text">Check Availability</span> </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -1197,8 +1194,8 @@
                                 <div class="elementor-element elementor-element-6dd6931f elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-cs_logo"
                                     data-id="6dd6931f" data-element_type="widget" data-widget_type="cs_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="index.html"> <img loading="lazy" width="255" height="51"
-                                                src="wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
+                                                src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
                                                 srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
@@ -1224,1071 +1221,131 @@
             </div>
         </header>
         <div id="content" class="site-content">
-
+            <header class="page-title-large page-title-section">
+                <div class="page-title-bg page-title-default-background-image"
+                    style="background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: scroll; background-image: url(../wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg);"
+                    data-loftocean-image="1"
+                    data-loftocean-normal-image="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg"
+                    data-loftocean-retina-image="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg">
+                </div>
+                <div class="container">
+                    <nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a
+                            href="https://cozystay.loftocean.com/apartment">Home</a>&nbsp;&#47;&nbsp;Create Room
+                    </nav>
+                    <h1 class="entry-title">Create Room</h1>
+                </div>
+            </header>
             <div class="main">
                 <div class="container">
                     <div id="primary" class="primary content-area">
-                        <article class="post-150 page type-page status-publish hentry">
+                        <article class="post-1621 page type-page status-publish hentry">
                             <div class="entry-content">
-                                <div data-elementor-type="wp-page" data-elementor-id="150"
-                                    class="elementor elementor-150">
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-1850564f elementor-section-height-min-height cs-section-content-fullwidth cs_scroll_y_120 cs-parallax-on-scroll elementor-section-boxed elementor-section-height-default elementor-section-items-middle"
-                                        data-id="1850564f" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-                                        data-cs-parallax-y="120" style="background-image: none;"
-                                        data-cs-background-image="wp-content/uploads/sites/6/2023/03/img-32.jpg">
-                                        <div class="elementor-background-overlay"></div>
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e4d3e40 dark-color"
-                                                data-id="3e4d3e40" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-c0c2de1 elementor-widget elementor-widget-cs_title"
-                                                        data-id="c0c2de1" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
+                                <div class="woocommerce">
+                                    <div class="woocommerce-notices-wrapper"></div>
 
-                                                            <div class="cs-title-wrap text-center">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">
-                                                                        @if (session()->has('success'))
-                                                                            <h3 type="success">
-                                                                                {{ session('success') }}
-                                                                            </h3>
-                                                                        @endif
-                                                                    </span>
-                                                                </div>
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Welcome to CozyStay, a
-                                                                        luxury apartment hotel in Times Square</span>
-                                                                </div>
-                                                                <h1 class="cs-title">
-                                                                    Your Next Boutique Apartments </h1>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-5dc39db7 elementor-widget__width-initial elementor-widget elementor-widget-cs_reservation"
-                                                        data-id="5dc39db7" data-element_type="widget"
-                                                        data-widget_type="cs_reservation.default">
-                                                        <div class="elementor-widget-container">
+                                    <h2>Ajouter un Chomber</h2>
+                                    @if ($errors->any())
+                                        <h3 type="danger">
+                                            <h6>Errors</h6>
+                                            <ul>
+                                                @foreach ($errors->all() as $error)
+                                                    <li>{{ $error }}</li>
+                                                @endforeach
+                                            </ul>
+                                        </h3>
+                                    @endif
+                                    <form
+                                        class="woocommerce-form woocommerce-form-login login elementor-container elementor-column-gap"
+                                        action="{{ route('rooms.store') }}" method="post" enctype="multipart/form-data">
+                                        @csrf
 
-                                                            <div
-                                                                class="cs-reservation-form style-banner-3 style-banner cs-form-square inline-label">
-                                                                <form class="cs-form-wrap"
-                                                                    data-date-format="YYYY-MM-DD"
-                                                                    action="https://cozystay.loftocean.com/apartment/"
-                                                                    method="GET">
-                                                                    <div class="cs-form-field cs-check-in">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                In</label>
+                                        <p
+                                            class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                            <label for="username">Nom<span class="required">*</span></label>
+                                            <input type="text"
+                                                class="woocommerce-Input woocommerce-Input--text input-text"
+                                                name="name" id="username" autocomplete="username" />
+                                        </p>
 
-                                                                            <div class="field-input-wrap checkin-date">
-                                                                                <input type="text"
-                                                                                    class="date-range-picker"
-                                                                                    value="2024-03-20 - 2024-03-21">
-                                                                                <input type="text"
-                                                                                    value="2024-03-20"
-                                                                                    class="check-in-date"
-                                                                                    name="checkin" readonly>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-form-field cs-check-out">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                Out</label>
+                                        <p
+                                            class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                            <label for="date">Type<span class="required">*</span></label>
+                                            <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                type="text" name="type" id="type" autocomplete="type" />
+                                        </p>
 
-                                                                            <div
-                                                                                class="field-input-wrap checkout-date">
-                                                                                <input type="text"
-                                                                                    value="2024-03-21"
-                                                                                    class="check-out-date"
-                                                                                    name="checkout" readonly>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div
-                                                                        class="cs-form-field cs-guests cs-has-dropdown">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Guests</label>
+                                        <div class="elementor-row">
+                                            <div class="elementor-col-50">
+                                                <p
+                                                    class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                                    <label for="surface">surface&nbsp;<span
+                                                            class="required">*</span></label>
+                                                    <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                        type="number" name="surface" id="surface"
+                                                        autocomplete="surface" />
+                                                </p>
+                                            </div>
 
-                                                                            <div class="field-input-wrap has-dropdown">
-                                                                                <input type="text" name="guests"
-                                                                                    value="1 Adult, 0 Child"
-                                                                                    readonly="">
-                                                                            </div>
+                                            <div class="elementor-col-50">
+                                                <p
+                                                    class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                                    <label for="place">Nomber de place &nbsp;<span
+                                                            class="required">*</span></label>
+                                                    <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                        type="number" name="place" id="place"
+                                                        autocomplete="etage" />
+                                                </p>
+                                            </div>
+                                            <div class="elementor-col-100">
+                                                <p
+                                                    class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                                    <label for="place">étage &nbsp;<span
+                                                            class="required">*</span></label>
+                                                    <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                        type="number" name="etage" id="etage"
+                                                        autocomplete="etage" />
+                                                </p>
+                                            </div>
+                                            <div class="elementor-col-50">
 
-                                                                            <div class="csf-dropdown">
-                                                                                <div class="csf-dropdown-item">
-                                                                                    <label
-                                                                                        class="cs-form-label">Adults</label>
+                                                <p
+                                                    class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                                    <label for="prix">prix&nbsp;<span
+                                                            class="required">*</span></label>
+                                                    <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                        type="number" name="prix" id="prix"
+                                                        autocomplete="prix" />
+                                                </p>
+                                            </div>
+                                            <div class="elementor-col-50">
 
-                                                                                    <div class="quantity cs-quantity"
-                                                                                        data-label="adult">
-                                                                                        <label
-                                                                                            class="screen-reader-text">Adults
-                                                                                            quantity</label>
-                                                                                        <button
-                                                                                            class="minus"></button>
-                                                                                        <input type="text"
-                                                                                            name="adult-quantity"
-                                                                                            value="1"
-                                                                                            class="input-text"
-                                                                                            autocomplete="off"
-                                                                                            readonly=""
-                                                                                            data-min="1"
-                                                                                            data-max="50">
-                                                                                        <button
-                                                                                            class="plus"></button>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="csf-dropdown-item">
-                                                                                    <label
-                                                                                        class="cs-form-label">Children</label>
-
-                                                                                    <div class="quantity cs-quantity"
-                                                                                        data-label="child">
-                                                                                        <label
-                                                                                            class="screen-reader-text">Children
-                                                                                            quantity</label>
-                                                                                        <button
-                                                                                            class="minus"></button>
-                                                                                        <input type="text"
-                                                                                            name="child-quantity"
-                                                                                            value="0"
-                                                                                            class="input-text"
-                                                                                            autocomplete="off"
-                                                                                            readonly=""
-                                                                                            data-min="0"
-                                                                                            data-max="50">
-                                                                                        <button
-                                                                                            class="plus"></button>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-form-field cs-submit">
-                                                                        <div class="field-wrap">
-                                                                            <button class="button" role="button"
-                                                                                type="submit">
-                                                                                <span class="btn-text">Check
-                                                                                    Availability</span>
-                                                                            </button>
-                                                                        </div>
-                                                                    </div>
-                                                                    <input type="hidden" name="search_rooms"
-                                                                        value="" />
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                <p
+                                                    class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                                    <label for="image">image&nbsp;<span
+                                                            class="required">*</span></label>
+                                                    <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                        type="file" name="image" id="image"
+                                                        autocomplete="image" />
+                                                </p>
                                             </div>
                                         </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-216ad879 cs-section-content-fullwidth elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="216ad879" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e0d411b"
-                                                data-id="e0d411b" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <section
-                                                        class="elementor-section elementor-inner-section elementor-element elementor-element-70c45ae1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                        data-id="70c45ae1" data-element_type="section">
-                                                        <div class="elementor-container elementor-column-gap-no">
-                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-32b47b33"
-                                                                data-id="32b47b33" data-element_type="column">
-                                                                <div
-                                                                    class="elementor-widget-wrap elementor-element-populated">
-                                                                    <div class="elementor-element elementor-element-1ee2a4 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-image"
-                                                                        data-id="1ee2a4" data-element_type="widget"
-                                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:150}"
-                                                                        data-widget_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <img loading="lazy" decoding="async"
-                                                                                width="600" height="799"
-                                                                                src="wp-content/uploads/sites/6/2023/03/img-33-600x799.jpg"
-                                                                                class="attachment-cozystay_600x9999 size-cozystay_600x9999 wp-image-153"
-                                                                                alt=""
-                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-600x799.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-225x300.jpg 225w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-769x1024.jpg 769w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-768x1023.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-780x1039.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-550x733.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-370x493.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33-255x340.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-33.jpg 1026w"
-                                                                                sizes="(max-width: 600px) 100vw, 600px" />
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1e4a1518"
-                                                                data-id="1e4a1518" data-element_type="column">
-                                                                <div
-                                                                    class="elementor-widget-wrap elementor-element-populated">
-                                                                    <div class="elementor-element elementor-element-90c1058 cs-animation-medium-offset elementor-invisible elementor-widget elementor-widget-image"
-                                                                        data-id="90c1058" data-element_type="widget"
-                                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}"
-                                                                        data-widget_type="image.default">
-                                                                        <div class="elementor-widget-container">
-                                                                            <img loading="lazy" decoding="async"
-                                                                                width="370" height="555"
-                                                                                src="wp-content/uploads/sites/6/2023/04/img-34-2-370x555.jpg"
-                                                                                class="attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-320"
-                                                                                alt=""
-                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2-370x555.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2-200x300.jpg 200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2-600x900.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2-550x825.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2-255x382.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-34-2.jpg 651w"
-                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </section>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2caae607"
-                                                data-id="2caae607" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-2cc7cb23 elementor-widget elementor-widget-cs_title"
-                                                        data-id="2cc7cb23" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Stay in the heart of New
-                                                                        York</span></div>
-                                                                <h3 class="cs-title">
-                                                                    Luxury furnished serviced apartments in Times Square
-                                                                </h3>
-                                                                <div class="cs-title-text">
-                                                                    <p>Located in Times Square, CozyStay apartment hotel
-                                                                        provide a peaceful, private retreat in the heart
-                                                                        of one of the world’s most iconic cities.
-                                                                        Experience a sophisticated blend of professional
-                                                                        services and home comforts. We proudly offers a
-                                                                        full range of complimentary amenities and
-                                                                        services that provide you with everything you
-                                                                        need for an inspiring stay.</p>
-                                                                </div>
-                                                                <div class="cs-title-btn">
-                                                                    <a class="button elementor-button-link cs-btn-outline"
-                                                                        role="button"
-                                                                        href="about-the-hotel/index.html">
-                                                                        <span class="cs-btn-text">Start
-                                                                            Exploring</span>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-219b736d elementor-section-full_width elementor-section-height-min-height cs_scroll_y_120 cs-parallax-on-scroll cs-animation-small-offset elementor-section-height-default elementor-section-items-middle elementor-invisible"
-                                        data-id="219b736d" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:150}"
-                                        data-cs-parallax-y="120" style="background-image: none;"
-                                        data-cs-background-image="wp-content/uploads/sites/6/2023/03/img-35.jpg">
-                                        <div class="elementor-background-overlay"></div>
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-296feb89 dark-color"
-                                                data-id="296feb89" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-6aec1712 elementor-widget elementor-widget-cs_video"
-                                                        data-id="6aec1712" data-element_type="widget"
-                                                        data-widget_type="cs_video.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="cs-video-btn elementor-video-block text-center"
-                                                                data-elementor-open-lightbox="yes"
-                                                                data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/XHOmBV4js_E?feature=oembed&amp;playsinline=1&amp;wmode=opaque&amp;muted=muted&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-6aec1712&quot;}}"
-                                                                data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL1hIT21CVjRqc19FP2ZlYXR1cmU9b2VtYmVkJnBsYXlzaW5saW5lPTEmd21vZGU9b3BhcXVlJm11dGVkPW11dGVkIiwibW9kYWxPcHRpb25zIjp7ImlkIjoiZWxlbWVudG9yLWxpZ2h0Ym94LTZhZWMxNzEyIn19">
-                                                                <div class="video-play-btn">
-                                                                    <div class="btn-svg">
-                                                                        <svg xmlns="http://www.w3.org/2000/svg"
-                                                                            width="64" height="72"
-                                                                            viewBox="0 0 64 72">
-                                                                            <path stroke="#FFF" stroke-width="2"
-                                                                                fill="none"
-                                                                                d="m3.121 1.446 58.545 35.412L1.708 69.853 3.121 1.446Z">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-3dce42c3 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="3dce42c3" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-534be071"
-                                                data-id="534be071" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-22c5922c elementor-widget elementor-widget-cs_title"
-                                                        data-id="22c5922c" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap text-center">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Extraordinary
-                                                                        Accommodations</span></div>
-                                                                <h4 class="cs-title">
-                                                                    Choose Your Apartment Type </h4>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-39379cc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="39379cc" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2e9df520"
-                                                data-id="2e9df520" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-2ab9e15d cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="2ab9e15d" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:200}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-2 text-center cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="rooms/index.html#room-penthouse"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="550" height="826"
-                                                                            src="wp-content/uploads/sites/6/2023/04/img-36-2-550x826.jpg"
-                                                                            class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-1108"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-550x826.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-200x300.jpg 200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-682x1024.jpg 682w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-768x1154.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-780x1172.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-600x902.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-370x556.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2-255x383.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-36-2.jpg 800w"
-                                                                            sizes="(max-width: 550px) 100vw, 550px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <h6 class="cs-fc-title cs-title">
-                                                                            Luxury Penthouses </h6>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7416056c"
-                                                data-id="7416056c" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-6b5f8777 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="6b5f8777" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-2 text-center cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="rooms/index.html#room-apartment"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="550" height="826"
-                                                                            src="wp-content/uploads/sites/6/2023/03/img-37-550x826.jpg"
-                                                                            class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-157"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-550x826.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-200x300.jpg 200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-682x1024.jpg 682w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-768x1154.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-780x1172.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-600x902.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-370x556.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37-255x383.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-37.jpg 800w"
-                                                                            sizes="(max-width: 550px) 100vw, 550px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <h6 class="cs-fc-title cs-title">
-                                                                            Art Apartments </h6>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6b1f163d"
-                                                data-id="6b1f163d" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-2df69e98 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="2df69e98" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:200}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-2 text-center cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="rooms/index.html#room-studio"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="550" height="826"
-                                                                            src="wp-content/uploads/sites/6/2023/03/img-38-550x826.jpg"
-                                                                            class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-158"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-550x826.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-200x300.jpg 200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-682x1024.jpg 682w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-768x1154.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-780x1172.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-600x902.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-370x556.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38-255x383.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-38.jpg 800w"
-                                                                            sizes="(max-width: 550px) 100vw, 550px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <h6 class="cs-fc-title cs-title">
-                                                                            Modern Studios </h6>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-baa5966 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                        data-id="baa5966" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ac7046d"
-                                                data-id="2ac7046d" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-7bb9f20e cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-image"
-                                                        data-id="7bb9f20e" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}"
-                                                        data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <img loading="lazy" decoding="async" width="1200"
-                                                                height="1599"
-                                                                src="wp-content/uploads/sites/6/2023/03/img-39-2.jpg"
-                                                                class="attachment-full size-full wp-image-161"
-                                                                alt=""
-                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-225x300.jpg 225w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-768x1023.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-1153x1536.jpg 1153w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-780x1039.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-600x800.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-550x733.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-370x493.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-39-2-255x340.jpg 255w"
-                                                                sizes="(max-width: 1200px) 100vw, 1200px" />
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-269c63bc dark-color"
-                                                data-id="269c63bc" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-372678fb elementor-widget elementor-widget-cs_title"
-                                                        data-id="372678fb" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Bon Appétit During
-                                                                        Vacations
-                                                                        and Trips</span></div>
-                                                                <h3 class="cs-title">
-                                                                    Experience exquisite cuisine from all over the world
-                                                                </h3>
-                                                                <div class="cs-title-text">
-                                                                    <p>The experienced chefs creates international
-                                                                        specialties with unique flavors. Relax with
-                                                                        gourmet cuisine and signature cocktails or
-                                                                        homemade tonics, all enhanced by beautiful music
-                                                                        and gorgeous views over the city. From seasonal
-                                                                        menus to dining experiences to satisfy any
-                                                                        craving, see what our chefs are preparing for
-                                                                        you.</p>
-                                                                </div>
-                                                                <div class="cs-title-btn">
-                                                                    <a class="button elementor-button-link cs-btn-outline"
-                                                                        role="button" href="dining/index.html">
-                                                                        <span class="cs-btn-text">Start
-                                                                            Exploring</span>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-79b07533 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-image"
-                                                        data-id="79b07533" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}"
-                                                        data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <img loading="lazy" decoding="async" width="1200"
-                                                                height="959"
-                                                                src="wp-content/uploads/sites/6/2023/03/img-40-1200x959.jpg"
-                                                                class="attachment-cozystay_1200x9999 size-cozystay_1200x9999 wp-image-162"
-                                                                alt=""
-                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-1200x959.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-300x240.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-1024x818.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-768x614.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-780x623.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-600x479.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-550x440.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-370x296.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40-255x204.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-40.jpg 1344w"
-                                                                sizes="(max-width: 1200px) 100vw, 1200px" />
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-3b7c9a5b elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="3b7c9a5b" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2fce8695"
-                                                data-id="2fce8695" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-1b056fc elementor-widget__width-initial elementor-widget elementor-widget-cs_title"
-                                                        data-id="1b056fc" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Introducing Our Services &
-                                                                        Facilities</span></div>
-                                                                <h3 class="cs-title">
-                                                                    All you need to know to ensure your trip is perfect.
-                                                                </h3>
-                                                                <div class="cs-title-text">
-                                                                    <p>State-of-the-art amenities include a dramatic
-                                                                        double-story loft lounge, spectacular rooftop
-                                                                        lounge, Technogym fitness center, media corner,
-                                                                        and a gracious 24/7 resident services team.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-3c59f2a8 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="3c59f2a8" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:200,&quot;_animation_tablet&quot;:&quot;fadeInUp&quot;}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-1 layout-row text-left cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="amenities-services/index.html#meeting"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="780" height="521"
-                                                                            src="wp-content/uploads/sites/6/2023/03/img-41-780x521.jpg"
-                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999 wp-image-163"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-780x521.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-768x513.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-1200x801.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-41.jpg 1344w"
-                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Works
-                                                                                & Meetings</span></div>
-                                                                        <h5 class="cs-fc-title cs-title">
-                                                                            Stylish Meeting Spaces </h5>
-                                                                        <div class="cs-fc-text">
-                                                                            <p>The hotel offers three intimate meeting
-                                                                                rooms, each accommodating up to ten
-                                                                                guests for formal meetings. Equipped
-                                                                                with wireless Internet access,
-                                                                                speakerphone and tables with chairs.</p>
-                                                                        </div>
-                                                                        <div class="cs-fc-btn">
-                                                                            <a class="button cs-btn-outline cs-btn-small"
-                                                                                role="button"
-                                                                                href="amenities-services/index.html#meeting">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-1506861e cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="1506861e" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200,&quot;_animation_tablet&quot;:&quot;fadeInUp&quot;}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-1 layout-row order-reverse text-left cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="wellness/index.html"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="780" height="520"
-                                                                            src="wp-content/uploads/sites/6/2023/03/img-42-780x520.jpg"
-                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999 wp-image-164"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-42.jpg 1344w"
-                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Wellness</span>
-                                                                        </div>
-                                                                        <h5 class="cs-fc-title cs-title">
-                                                                            Spa, Massage, Sauna </h5>
-                                                                        <div class="cs-fc-text">
-                                                                            <p>In the hotel spa center we offer an
-                                                                                exceptional well-being experience
-                                                                                combining our expertise, high technology
-                                                                                and breathtaking results.</p>
-                                                                        </div>
-                                                                        <div class="cs-fc-btn">
-                                                                            <a class="button cs-btn-outline cs-btn-small"
-                                                                                role="button"
-                                                                                href="wellness/index.html">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-744ffb12 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_fancy_card"
-                                                        data-id="744ffb12" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:200,&quot;_animation_tablet&quot;:&quot;fadeInUp&quot;}"
-                                                        data-widget_type="cs_fancy_card.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-fancy-card style-1 layout-row text-left cs-hover-img-zoom">
-                                                                <div class="cs-fc-wrap"> <a class="cs-fc-link"
-                                                                        href="wellness/index.html"></a>
-                                                                    <div class="cs-fc-img">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            width="780" height="520"
-                                                                            src="wp-content/uploads/sites/6/2023/03/img-43-780x520.jpg"
-                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999 wp-image-165"
-                                                                            alt=""
-                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-43.jpg 1344w"
-                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                    </div>
-                                                                    <div class="cs-fc-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Training
-                                                                                Spaces</span></div>
-                                                                        <h5 class="cs-fc-title cs-title">
-                                                                            Workout &amp; Yoga Rooms </h5>
-                                                                        <div class="cs-fc-text">
-                                                                            <p>Our fitness centre includes a fully
-                                                                                equipped gym, yoga room and dance
-                                                                                studio. Maintain your fitness routine
-                                                                                during the trip over the stunning views
-                                                                                of the city.</p>
-                                                                        </div>
-                                                                        <div class="cs-fc-btn">
-                                                                            <a class="button cs-btn-outline cs-btn-small"
-                                                                                role="button"
-                                                                                href="wellness/index.html">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-053759f cs-section-content-fullwidth cs-parallax-on-scroll cs_scroll_y_80 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="053759f" data-element_type="section"
-                                        data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
-                                        data-cs-parallax-y="80" style="background-image: none;"
-                                        data-cs-background-image="wp-content/uploads/sites/6/2023/04/le-quan-H2NpsZJe2IA-unsplash.jpg">
-                                        <div class="elementor-background-overlay"></div>
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b70ffb"
-                                                data-id="3b70ffb" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-439e26f elementor-widget__width-initial cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_title"
-                                                        data-id="439e26f" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100}"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">High standards of
-                                                                        hospitality</span></div>
-                                                                <h3 class="cs-title">
-                                                                    We strive to provide our guests with luxury, comfort
-                                                                    &amp; tailor-made service. </h3>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-c5bba75 elementor-section-full_width cs-animation-small-offset elementor-section-height-default elementor-section-height-default elementor-invisible"
-                                        data-id="c5bba75" data-element_type="section"
-                                        data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300,&quot;background_background&quot;:&quot;classic&quot;}">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d4c2387"
-                                                data-id="d4c2387" data-element_type="column">
-                                                <div class="elementor-widget-wrap">
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7cc864d"
-                                                data-id="7cc864d" data-element_type="column"
-                                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-9107fab elementor-widget elementor-widget-spacer"
-                                                        data-id="9107fab" data-element_type="widget"
-                                                        data-widget_type="spacer.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-spacer">
-                                                                <div class="elementor-spacer-inner"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c7401ed"
-                                                data-id="c7401ed" data-element_type="column"
-                                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-fb84194 elementor--star-style-star_unicode elementor-widget elementor-widget-star-rating"
-                                                        data-id="fb84194" data-element_type="widget"
-                                                        data-widget_type="star-rating.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="elementor-star-rating__wrapper">
-                                                                <div class="elementor-star-rating" title="5/5"
-                                                                    itemtype="http://schema.org/Rating"
-                                                                    itemscope="" itemprop="reviewRating"><i
-                                                                        class="elementor-star-full">&#9733;</i><i
-                                                                        class="elementor-star-full">&#9733;</i><i
-                                                                        class="elementor-star-full">&#9733;</i><i
-                                                                        class="elementor-star-full">&#9733;</i><i
-                                                                        class="elementor-star-full">&#9733;</i> <span
-                                                                        itemprop="ratingValue"
-                                                                        class="elementor-screen-only">5/5</span></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-2150bd3 elementor-widget elementor-widget-cs_testimonials"
-                                                        data-id="2150bd3" data-element_type="widget"
-                                                        data-widget_type="cs_testimonials.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-testimonials testimonial-style-1 testimonials-slider slider-dots-left"
-                                                                data-column="1" data-autoplay="on"
-                                                                data-autoplay-speed="5000" data-show-arrows=""
-                                                                data-show-dots="on">
-                                                                <div class="cs-ts-wrap">
-                                                                    <div class="cs-ts-item">
-                                                                        <div class="cs-testimonial">
-                                                                            <div class="cs-testimonial-content">“The
-                                                                                hotel is well located. Rooms are very
-                                                                                clean. Great services. Very kind people
-                                                                                from front desk and delicious breakfast.
-                                                                                And I really love the spa!”</div>
-                                                                            <div class="cs-testimonial-meta">
-                                                                                <div
-                                                                                    class="elementor-testimonial-meta-inner">
-                                                                                    <div
-                                                                                        class="elementor-testimonial-details">
-                                                                                        <div
-                                                                                            class="elementor-testimonial-name">
-                                                                                            Sophie Laurier</div>
-                                                                                        <div
-                                                                                            class="elementor-testimonial-job">
-                                                                                            TripAdvisor</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-ts-item">
-                                                                        <div class="cs-testimonial">
-                                                                            <div class="cs-testimonial-content">
-                                                                                “Brilliant staff and exceptional
-                                                                                customer service. The place is
-                                                                                fantastic. Great facilities and
-                                                                                atmosphere. Buffet breakfast daily is
-                                                                                very generous.”</div>
-                                                                            <div class="cs-testimonial-meta">
-                                                                                <div
-                                                                                    class="elementor-testimonial-meta-inner">
-                                                                                    <div
-                                                                                        class="elementor-testimonial-details">
-                                                                                        <div
-                                                                                            class="elementor-testimonial-name">
-                                                                                            Luna Wayne</div>
-                                                                                        <div
-                                                                                            class="elementor-testimonial-job">
-                                                                                            TripAdvisor</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-ts-item">
-                                                                        <div class="cs-testimonial">
-                                                                            <div class="cs-testimonial-content">“The
-                                                                                restaurants available were all very
-                                                                                good. Friendly staff, helpful
-                                                                                disposition made our overall experience
-                                                                                wonderful. We will be going again next
-                                                                                year.”</div>
-                                                                            <div class="cs-testimonial-meta">
-                                                                                <div
-                                                                                    class="elementor-testimonial-meta-inner">
-                                                                                    <div
-                                                                                        class="elementor-testimonial-details">
-                                                                                        <div
-                                                                                            class="elementor-testimonial-name">
-                                                                                            Joseph Hart</div>
-                                                                                        <div
-                                                                                            class="elementor-testimonial-job">
-                                                                                            TripAdvisor</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-ts-item">
-                                                                        <div class="cs-testimonial">
-                                                                            <div class="cs-testimonial-content">“The
-                                                                                rooms are all renovated and modern. And
-                                                                                the staff are very willing to help you
-                                                                                plan your day. Thanks for all the staff
-                                                                                and this pleased trip!”</div>
-                                                                            <div class="cs-testimonial-meta">
-                                                                                <div
-                                                                                    class="elementor-testimonial-meta-inner">
-                                                                                    <div
-                                                                                        class="elementor-testimonial-details">
-                                                                                        <div
-                                                                                            class="elementor-testimonial-name">
-                                                                                            Erin Pierce</div>
-                                                                                        <div
-                                                                                            class="elementor-testimonial-job">
-                                                                                            TripAdvisor</div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-22114cd elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="22114cd" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1656e35f"
-                                                data-id="1656e35f" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-e57c1e1 elementor-widget elementor-widget-cs_title"
-                                                        data-id="e57c1e1" data-element_type="widget"
-                                                        data-widget_type="cs_title.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div class="cs-title-wrap text-center">
-                                                                <div class="cs-subtitle-wrap"><span
-                                                                        class="cs-subtitle">Local Tours &
-                                                                        Activities</span></div>
-                                                                <h3 class="cs-title">
-                                                                    Discover The City </h3>
-                                                                <div class="cs-title-text">
-                                                                    <p>You are in a city where people are never bored.
-                                                                        Immerse yourself in local art exhibitions,
-                                                                        neighbourhood events, seasonal activities and
-                                                                        numerous parks.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-top-section elementor-element elementor-element-6e017b97 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="6e017b97" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-15ca9258"
-                                                data-id="15ca9258" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-651f3b6d cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_call_to_action"
-                                                        data-id="651f3b6d" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:200}"
-                                                        data-widget_type="cs_call_to_action.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-cta cta-layout-text-normal text-left cta-hover-img-zoom">
-                                                                <div class="cs-cta-wrap">
-                                                                    <div class="cs-cta-img-wrap">
-                                                                        <div class="cs-cta-img">
-                                                                            <img loading="lazy" decoding="async"
-                                                                                width="550" height="413"
-                                                                                src="wp-content/uploads/sites/6/2023/04/img-45-2-550x413.jpg"
-                                                                                class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-316"
-                                                                                alt=""
-                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-550x413.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-300x225.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-768x576.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-780x585.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-600x450.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-370x278.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2-255x191.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-45-2.jpg 800w"
-                                                                                sizes="(max-width: 550px) 100vw, 550px" />
-                                                                        </div>
-                                                                        <div class="cs-offset-border"></div>
-                                                                    </div>
-                                                                    <div class="cs-cta-overlay"></div>
-                                                                    <div class="cs-cta-label label-top-left">
-                                                                        <div class="cs-cta-label-text">Recommended
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-cta-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Arts
-                                                                                &
-                                                                                Culture</span></div>
-                                                                        <h6 class="cs-cta-title cs-title">
-                                                                            Exhibitions &amp; Museum </h6>
-                                                                        <div class="cs-cta-text">
-                                                                            <p>Don&#8217;t miss the excellent art
-                                                                                exhibitions coming up. You will always
-                                                                                find something you like: traditional
-                                                                                paintings, transformative sculptures,
-                                                                                interactive art exhibits, and etc.</p>
-                                                                        </div>
-                                                                        <div class="cs-cta-btn">
-                                                                            <a class="button cs-btn-underline cs-btn-small cs-btn-with-icon"
-                                                                                role="button"
-                                                                                href="activity-detail/index.html">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> <span
-                                                                                    class="cs-btn-icon icon-arrow"></span>
-                                                                            </a>
-                                                                        </div>
-                                                                    </div> <a class="cs-cta-link"
-                                                                        href="activity-detail/index.html"></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4e7b1b05 cs-animation-small-offset elementor-invisible"
-                                                data-id="4e7b1b05" data-element_type="column"
-                                                data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-cab4cc0 elementor-widget elementor-widget-cs_call_to_action"
-                                                        data-id="cab4cc0" data-element_type="widget"
-                                                        data-widget_type="cs_call_to_action.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-cta cta-layout-text-normal text-left cta-hover-img-zoom">
-                                                                <div class="cs-cta-wrap">
-                                                                    <div class="cs-cta-img-wrap">
-                                                                        <div class="cs-cta-img">
-                                                                            <img loading="lazy" decoding="async"
-                                                                                width="550" height="412"
-                                                                                src="wp-content/uploads/sites/6/2023/03/img-46-550x412.jpg"
-                                                                                class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-170"
-                                                                                alt=""
-                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-550x412.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-300x225.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-768x575.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-780x584.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-600x449.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-370x277.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46-255x191.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/img-46.jpg 800w"
-                                                                                sizes="(max-width: 550px) 100vw, 550px" />
-                                                                        </div>
-                                                                        <div class="cs-offset-border"></div>
-                                                                    </div>
-                                                                    <div class="cs-cta-overlay"></div>
-                                                                    <div class="cs-cta-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Nature</span>
-                                                                        </div>
-                                                                        <h6 class="cs-cta-title cs-title">
-                                                                            Nearby Parks </h6>
-                                                                        <div class="cs-cta-text">
-                                                                            <p>Numerous beautiful parks allow you to
-                                                                                roam freely in nature even in the city.
-                                                                                Each park has its own characteristics,
-                                                                                come and check out what surprises it can
-                                                                                bring you.</p>
-                                                                        </div>
-                                                                        <div class="cs-cta-btn">
-                                                                            <a class="button cs-btn-underline cs-btn-small cs-btn-with-icon"
-                                                                                role="button"
-                                                                                href="activity-detail/index.html">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> <span
-                                                                                    class="cs-btn-icon icon-arrow"></span>
-                                                                            </a>
-                                                                        </div>
-                                                                    </div> <a class="cs-cta-link"
-                                                                        href="activity-detail/index.html"></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6819ec8d"
-                                                data-id="6819ec8d" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-58053522 cs-animation-small-offset elementor-invisible elementor-widget elementor-widget-cs_call_to_action"
-                                                        data-id="58053522" data-element_type="widget"
-                                                        data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:200}"
-                                                        data-widget_type="cs_call_to_action.default">
-                                                        <div class="elementor-widget-container">
-
-                                                            <div
-                                                                class="cs-cta cta-layout-text-normal text-left cta-hover-img-zoom">
-                                                                <div class="cs-cta-wrap">
-                                                                    <div class="cs-cta-img-wrap">
-                                                                        <div class="cs-cta-img">
-                                                                            <img loading="lazy" decoding="async"
-                                                                                width="550" height="411"
-                                                                                src="wp-content/uploads/sites/6/2023/04/img-47-2-550x411.jpg"
-                                                                                class="attachment-cozystay_550x9999 size-cozystay_550x9999 wp-image-317"
-                                                                                alt=""
-                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-550x411.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-300x224.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-768x574.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-780x583.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-600x449.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-370x277.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2-255x191.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/img-47-2.jpg 800w"
-                                                                                sizes="(max-width: 550px) 100vw, 550px" />
-                                                                        </div>
-                                                                        <div class="cs-offset-border"></div>
-                                                                    </div>
-                                                                    <div class="cs-cta-overlay"></div>
-                                                                    <div class="cs-cta-content">
-                                                                        <div class="cs-subtitle-wrap"><span
-                                                                                class="cs-subtitle color-primary">Dining
-                                                                                Experiences</span></div>
-                                                                        <h6 class="cs-cta-title cs-title">
-                                                                            Local Food Tour </h6>
-                                                                        <div class="cs-cta-text">
-                                                                            <p>How can we not mention all kinds of
-                                                                                seasonal delicacies and major food
-                                                                                festivals? Highlights: Tarot readings
-                                                                                and cocktails nights at CozyStay&#8217;s
-                                                                                bar every Thursday this month.</p>
-                                                                        </div>
-                                                                        <div class="cs-cta-btn">
-                                                                            <a class="button cs-btn-underline cs-btn-small cs-btn-with-icon"
-                                                                                role="button"
-                                                                                href="activity-detail/index.html">
-                                                                                <span class="cs-btn-text">Discover
-                                                                                    More</span> <span
-                                                                                    class="cs-btn-icon icon-arrow"></span>
-                                                                            </a>
-                                                                        </div>
-                                                                    </div> <a class="cs-cta-link"
-                                                                        href="activity-detail/index.html"></a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
+                                        <p
+                                            class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+                                            <label for="description">description&nbsp;<span
+                                                    class="required">*</span></label>
+                                            <input class="woocommerce-Input woocommerce-Input--text input-text"
+                                                type="text" name="description" id="description"
+                                                autocomplete="current-description" />
+                                        </p>
+                                        <p class="form-row">
+                                            <button type="submit"
+                                                class="woocommerce-button button woocommerce-form-login__submit">Create
+                                                Room</button>
+                                        </p>
+                                    </form>
+                                    <p class="woocommerce-LostPassword lost_password">
+                                        <a href="{{ route('homepage') }}">return</a>
+                                    </p>
                                 </div>
                             </div><!-- .post-entry -->
                         </article>
@@ -2301,7 +1358,7 @@
             <div class="site-footer-main">
                 <div class="container">
                     <link rel="stylesheet" id="elementor-post-340-css"
-                        href="wp-content/uploads/sites/6/elementor/css/post-3404e7f.css?ver=1707315110"
+                        href="../wp-content/uploads/sites/6/elementor/css/post-3404e7f.css?ver=1707315110"
                         type="text/css" media="all">
                     <div data-elementor-type="wp-post" data-elementor-id="340" class="elementor elementor-340">
                         <section
@@ -2365,7 +1422,7 @@
                                                     </div>
                                                     <div class="cs-title-btn">
                                                         <a class="button elementor-button-link cs-btn-outline cs-btn-small"
-                                                            role="button" href="rooms/index.html">
+                                                            role="button" href="../rooms/index.html">
                                                             <span class="cs-btn-text">Reserve Your Stay</span> </a>
                                                     </div>
                                                 </div>
@@ -2390,8 +1447,7 @@
                                             <div class="elementor-widget-container">
 
                                                 <div class="cs-title-wrap">
-                                                    <div class="cs-subtitle-wrap"><span class="cs-subtitle">Stay
-                                                            Tuned
+                                                    <div class="cs-subtitle-wrap"><span class="cs-subtitle">Stay Tuned
                                                             with CozyStay</span></div>
                                                     <h4 class="cs-title">
                                                         Sign up for our newsletter to receive our news, deals and
@@ -2446,10 +1502,10 @@
                                                         empty if you're human: <input type="text"
                                                             name="_mc4wp_honeypot" value="" tabindex="-1"
                                                             autocomplete="off" /></label><input type="hidden"
-                                                        name="_mc4wp_timestamp" value="1710957457" /><input
-                                                        type="hidden" name="_mc4wp_form_id"
-                                                        value="7" /><input type="hidden"
-                                                        name="_mc4wp_form_element_id" value="mc4wp-form-1" />
+                                                        name="_mc4wp_timestamp" value="1710957519" /><input
+                                                        type="hidden" name="_mc4wp_form_id" value="7" /><input
+                                                        type="hidden" name="_mc4wp_form_element_id"
+                                                        value="mc4wp-form-1" />
                                                     <div class="mc4wp-response"></div>
                                                 </form><!-- / Mailchimp for WordPress Plugin -->
                                             </div>
@@ -2578,8 +1634,8 @@
         <div class="container">
             <div class="sidemenu-content">
                 <link rel="stylesheet" id="elementor-post-1058-css"
-                    href="wp-content/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110" type="text/css"
-                    media="all">
+                    href="../wp-content/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110"
+                    type="text/css" media="all">
                 <div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
                     <section
                         class="elementor-section elementor-top-section elementor-element elementor-element-1517694b elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -2656,9 +1712,9 @@
                                         data-id="44cf5926" data-element_type="widget"
                                         data-widget_type="cs_logo.default">
                                         <div class="elementor-widget-container">
-                                            <a href="index.html"> <img loading="lazy" width="255"
+                                            <a href="../index.html"> <img loading="lazy" width="255"
                                                     height="51"
-                                                    src="wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                                    src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                     class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                     alt=""
                                                     srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
@@ -2682,7 +1738,7 @@
                                         data-id="1dd90552" data-element_type="widget"
                                         data-widget_type="cs_button.default">
                                         <div class="elementor-widget-container">
-                                            <a href="rooms/index.html"
+                                            <a href="../rooms/index.html"
                                                 class="elementor-button-link button cs-btn-outline cs-btn-small"
                                                 role="button">
                                                 <span class="cs-btn-text">Check Availability</span> </a>
@@ -2719,9 +1775,9 @@
                                         data-id="1f46ec06" data-element_type="widget"
                                         data-widget_type="cs_logo.default">
                                         <div class="elementor-widget-container">
-                                            <a href="index.html"> <img loading="lazy" width="255"
+                                            <a href="../index.html"> <img loading="lazy" width="255"
                                                     height="51"
-                                                    src="wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                                    src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                     class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                     alt=""
                                                     srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
@@ -2760,40 +1816,39 @@
                                             <nav class="cs-menu cs-menu-mobile">
                                                 <ul id="menu-12ce81a1" class="menu mobile-menu">
                                                     <li id="menu-item-278"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-150 current_page_item menu-item-278">
-                                                        <a href="index.html"
-                                                            aria-current="page"><span>Home</span></a>
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-278">
+                                                        <a href="../index.html"><span>Home</span></a>
                                                     </li>
                                                     <li id="menu-item-1038"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038">
-                                                        <a href="rooms/index.html"><span>Rooms</span></a>
+                                                        <a href="../rooms/index.html"><span>Rooms</span></a>
                                                     </li>
                                                     <li id="menu-item-279"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279">
-                                                        <a href="about-the-hotel/index.html"><span>About the
+                                                        <a href="../about-the-hotel/index.html"><span>About the
                                                                 hotel</span></a>
                                                     </li>
                                                     <li id="menu-item-284"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284">
-                                                        <a href="amenities-services/index.html"><span>Amenities &#038;
-                                                                Services</span></a>
+                                                        <a href="../amenities-services/index.html"><span>Amenities
+                                                                &#038; Services</span></a>
                                                     </li>
                                                     <li id="menu-item-285"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285">
-                                                        <a href="dining/index.html"><span>Dining</span></a>
+                                                        <a href="../dining/index.html"><span>Dining</span></a>
                                                     </li>
                                                     <li id="menu-item-286"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-286">
-                                                        <a href="wellness/index.html"><span>Wellness</span></a>
+                                                        <a href="../wellness/index.html"><span>Wellness</span></a>
                                                     </li>
                                                     <li id="menu-item-282"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
-                                                        <a href="local-activities/index.html"><span>Local
+                                                        <a href="../local-activities/index.html"><span>Local
                                                                 Activities</span></a>
                                                     </li>
                                                     <li id="menu-item-280"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280">
-                                                        <a href="contact/index.html"><span>Contact</span></a>
+                                                        <a href="../contact/index.html"><span>Contact</span></a>
                                                     </li>
                                                 </ul>
                                             </nav>
@@ -2814,22 +1869,22 @@
                                                                 <ul id="menu-7d945785" class="menu mobile-menu">
                                                                     <li id="menu-item-1249"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1249">
-                                                                        <a href="activity-detail/index.html"><span>Activity
+                                                                        <a href="../activity-detail/index.html"><span>Activity
                                                                                 Detail</span></a>
                                                                     </li>
                                                                     <li id="menu-item-1062"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1062">
-                                                                        <a href="salon-price/index.html"><span>Salon
+                                                                        <a href="../salon-price/index.html"><span>Salon
                                                                                 Price List</span></a>
                                                                     </li>
                                                                     <li id="menu-item-1063"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063">
-                                                                        <a href="the-restaurant/index.html"><span>The
+                                                                        <a href="../the-restaurant/index.html"><span>The
                                                                                 Restaurant</span></a>
                                                                     </li>
                                                                     <li id="menu-item-1061"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1061">
-                                                                        <a href="our-blog/index.html"><span>Our
+                                                                        <a href="../our-blog/index.html"><span>Our
                                                                                 Blog</span></a>
                                                                     </li>
                                                                 </ul>
@@ -3034,6 +2089,7 @@
             }
         })();
     </script>
+    <script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/cozystay.loftocean.com\/apartment"}},{"@type":"ListItem","position":2,"item":{"name":"Create Room","@id":"https:\/\/cozystay.loftocean.com\/apartment\/my-account\/"}}]}</script>
     <script type='text/javascript'>
         (function() {
             var c = document.body.className;
@@ -3042,91 +2098,25 @@
         })();
     </script>
     <link rel='stylesheet' id='justified-gallery-css'
-        href='wp-content/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
+        href='../wp-content/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='e-animations-css'
-        href='wp-content/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css'
-        media='all' />
+        href='../wp-content/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='google-fonts-2-css'
+        href='https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-shared-0-css'
-        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
+        href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
+        href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
-        href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css'
-        media='all' />
-    <script type="text/javascript" id="cozystay-helper-js-extra">
-        /* <![CDATA[ */
-        var cozystayHelper = {
-            "siteURL": "https:\/\/cozystay.loftocean.com\/apartment\/"
-        };
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
-        id="cozystay-helper-js"></script>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
-        id="slick-js"></script>
+        href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3'
+        type='text/css' media='all' />
     <script type="text/javascript"
-        src="wp-content/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
-        id="cozystay-animations-js"></script>
-    <script type="text/javascript" id="loftocean-video-player-js-extra">
-        /* <![CDATA[ */
-        var loftoceanFullscreenVideos = {
-            "videos": [],
-            "wrapClass": "loftocean-media-wrapper loftocean-media-fullscreen-playing"
-        };
-        /* ]]> */
-    </script>
-    <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602"
-        id="loftocean-video-player-js"></script>
-    <script type="text/javascript"
-        src="wp-content/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5"
-        id="justified-gallery-js"></script>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1"
-        id="jquery-fitvids-js"></script>
-    <script type="text/javascript" id="cozystay-theme-script-js-extra">
-        /* <![CDATA[ */
-        var cozystay = {
-            "errorText": {
-                "noMediaFound": "No image found"
-            },
-            "woocommerceProductFilterAjaxEnabled": "",
-            "onepagemenus": ""
-        };
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
-        id="cozystay-theme-script-js"></script>
-    <script type="text/javascript" id="cozystay-ajax-navigation-js-extra">
-        /* <![CDATA[ */
-        var cozystayAjaxNavigation = {
-            "noMoreText": "No More Posts",
-            "url": "https:\/\/cozystay.loftocean.com\/apartment\/wp-admin\/admin-ajax.php",
-            "data": {
-                "query": {
-                    "paged": 2,
-                    "ignore_sticky_posts": true,
-                    "post_status": "publish"
-                },
-                "action": "cozystay_load_more",
-                "settings": {
-                    "archive_page": "",
-                    "page_layout": "",
-                    "layout": "list",
-                    "columns": false,
-                    "post_meta": "a:4:{i:0;s:7:\"excerpt\";i:1;s:13:\"read_more_btn\";i:2;s:6:\"author\";i:3;s:4:\"date\";}"
-                }
-            }
-        };
-        /* ]]> */
-    </script>
-    <script type="text/javascript"
-        src="wp-content/themes/cozystay/assets/scripts/front/ajax-navigation.min797f.js?ver=2023101601"
-        id="cozystay-ajax-navigation-js"></script>
-    <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1"
+        src="../wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1"
         id="sourcebuster-js-js"></script>
     <script type="text/javascript" id="wc-order-attribution-js-extra">
         /* <![CDATA[ */
@@ -3157,9 +2147,9 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1"
+        src="../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1"
         id="wc-order-attribution-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7"
+    <script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7"
         id="swv-js"></script>
     <script type="text/javascript" id="contact-form-7-js-extra">
         /* <![CDATA[ */
@@ -3171,9 +2161,9 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
+    <script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
         id="contact-form-7-js"></script>
-    <script type="text/javascript" src="wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
     <script type="text/javascript" id="moment-js-after">
         /* <![CDATA[ */
         moment.updateLocale('en_US', {
@@ -3198,7 +2188,7 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602"
+        src="../wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602"
         id="jquery-daterangepicker-js"></script>
     <script type="text/javascript" id="loftocean-front-media-js-extra">
         /* <![CDATA[ */
@@ -3222,10 +2212,10 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602"
+        src="../wp-content/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602"
         id="loftocean-front-media-js"></script>
-    <script type="text/javascript" src="wp-includes/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
-    <script type="text/javascript" src="wp-includes/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
     <script type="text/javascript" id="wp-api-request-js-extra">
         /* <![CDATA[ */
         var wpApiSettings = {
@@ -3235,8 +2225,8 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
-    <script type="text/javascript" src="wp-includes/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
     <script type="text/javascript" id="loftocean-post-metas-js-extra">
         /* <![CDATA[ */
         var loftoceanSocialAjax = {
@@ -3253,26 +2243,67 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602"
+        src="../wp-content/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602"
         id="loftocean-post-metas-js"></script>
-    <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/facebook-jssdk.min4ae5.js?ver=2023101602"
-        id="loftocean-facebook-js"></script>
-    <script type="text/javascript" defer src="wp-content/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11"
-        id="mc4wp-forms-api-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4"
-        id="elementor-webpack-runtime-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4"
-        id="elementor-frontend-modules-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
-        id="elementor-waypoints-js"></script>
-    <script type="text/javascript" src="wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
+    <script type="text/javascript" id="loftocean-video-player-js-extra">
+        /* <![CDATA[ */
+        var loftoceanFullscreenVideos = {
+            "videos": [],
+            "wrapClass": "loftocean-media-wrapper loftocean-media-fullscreen-playing"
+        };
+        /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6"
+    <script type="text/javascript"
+        src="../wp-content/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602"
+        id="loftocean-video-player-js"></script>
+    <script type="text/javascript" defer src="../wp-content/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11"
+        id="mc4wp-forms-api-js"></script>
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
+        id="slick-js"></script>
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1"
+        id="jquery-fitvids-js"></script>
+    <script type="text/javascript"
+        src="../wp-content/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5"
+        id="justified-gallery-js"></script>
+    <script type="text/javascript" id="cozystay-helper-js-extra">
+        /* <![CDATA[ */
+        var cozystayHelper = {
+            "siteURL": "https:\/\/cozystay.loftocean.com\/apartment\/"
+        };
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
+        id="cozystay-helper-js"></script>
+    <script type="text/javascript"
+        src="../wp-content/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
+        id="cozystay-animations-js"></script>
+    <script type="text/javascript" id="cozystay-theme-script-js-extra">
+        /* <![CDATA[ */
+        var cozystay = {
+            "errorText": {
+                "noMediaFound": "No image found"
+            },
+            "woocommerceProductFilterAjaxEnabled": "",
+            "onepagemenus": ""
+        };
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
+        id="cozystay-theme-script-js"></script>
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4"
+        id="elementor-webpack-runtime-js"></script>
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4"
+        id="elementor-frontend-modules-js"></script>
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
+        id="elementor-waypoints-js"></script>
+    <script type="text/javascript" src="../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
+    </script>
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6"
         id="swiper-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4"
-        id="share-link-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0"
+    <script type="text/javascript"
+        src="../wp-content/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4" id="share-link-js">
+    </script>
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0"
         id="elementor-dialog-js"></script>
     <script type="text/javascript" id="elementor-frontend-js-before">
         /* <![CDATA[ */
@@ -3384,20 +2415,20 @@
                 "lightbox_description_src": "description"
             },
             "post": {
-                "id": 150,
-                "title": "CozyStay%20Apartment%20%E2%80%93%20CozyStay%20Apartment%20Demo",
+                "id": 1621,
+                "title": "My%20account%20%E2%80%93%20CozyStay%20Apartment",
                 "excerpt": "",
                 "featuredImage": false
             }
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
         id="elementor-frontend-js"></script>
-    <script type="text/javascript" src="wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
+    <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
         id="preloaded-modules-js"></script>
     <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
+        src="../wp-content/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
         id="loftocean-parallax-bundle-js"></script>
     <script type="text/javascript" id="loftocean-elementor-frontend-js-extra">
         /* <![CDATA[ */
@@ -3426,10 +2457,10 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602"
+        src="../wp-content/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602"
         id="loftocean-elementor-frontend-js"></script>
 </body>
 
-<!-- Mirrored from cozystay.loftocean.com/apartment/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:00:47 GMT -->
+<!-- Mirrored from cozystay.loftocean.com/apartment/my-account/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:03:09 GMT -->
 
 </html>
