@@ -1236,111 +1236,81 @@
                                                                                                         data-column="3">
                                                                                                         <div
                                                                                                             class="posts-wrapper cs-rooms-wrapper">
+                                                                                                            @foreach ($rooms as $room)
+                                                                                                                
+                                                                                                           
                                                                                                             <div
                                                                                                                 class="post cs-room-item has-post-thumbnail">
                                                                                                                 <div
                                                                                                                     class="featured-img">
                                                                                                                     <a
-                                                                                                                        href="../room/deluxe-penthouse/index.html"><img
+                                                                                                                        href="{{ asset('storage/' . $room->image) }}"><img
                                                                                                                             loading="lazy"
                                                                                                                             decoding="async"
                                                                                                                             width="780"
                                                                                                                             height="520"
-                                                                                                                            src="../wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-780x520.jpg"
+                                                                                                                            src="{{ asset('storage/' . $room->image) }}"
                                                                                                                             class="attachment-cozystay_780x9999 size-cozystay_780x9999"
                                                                                                                             alt=""
-                                                                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash.jpg 1920w"
                                                                                                                             sizes="(max-width: 780px) 100vw, 780px" />
                                                                                                                     </a>
                                                                                                                     <div
                                                                                                                         class="overlay-label">
                                                                                                                         <div
                                                                                                                             class="overlay-label-text">
-                                                                                                                            $699
+                                                                                                                            ${{ $room->prix }}
                                                                                                                             /
                                                                                                                             Night
                                                                                                                         </div>
                                                                                                                     </div>
                                                                                                                 </div>
-                                                                                                                <div
-                                                                                                                    class="post-content cs-room-content">
-                                                                                                                    <header
-                                                                                                                        class="post-header item-header">
-                                                                                                                        <h2
-                                                                                                                            class="post-title item-title">
-                                                                                                                            <a
-                                                                                                                                href="../room/deluxe-penthouse/index.html">Deluxe
-                                                                                                                                Penthouse</a>
-                                                                                                                        </h2>
-                                                                                                                        <div
-                                                                                                                            class="item-subtitle">
-                                                                                                                            1162
-                                                                                                                            ft²
-                                                                                                                            /
-                                                                                                                            108
-                                                                                                                            m²
-                                                                                                                            /
-                                                                                                                            Avenue
-                                                                                                                            View
-                                                                                                                            /
-                                                                                                                            4
-                                                                                                                            Guests
-                                                                                                                        </div>
-                                                                                                                    </header>
+                                                                                                               
+                                                                                                              
                                                                                                                     <div
-                                                                                                                        class="post-excerpt item-excerpt">
-                                                                                                                        <p>Welcome
-                                                                                                                            to
-                                                                                                                            your
-                                                                                                                            urban
-                                                                                                                            oasis
-                                                                                                                            inspired
-                                                                                                                            by
-                                                                                                                            the
-                                                                                                                            natural
-                                                                                                                            beauty
-                                                                                                                            and
-                                                                                                                            calming
-                                                                                                                            energy
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                            Relax
-                                                                                                                            on
-                                                                                                                            your
-                                                                                                                            private
-                                                                                                                            terrace
-                                                                                                                            or
-                                                                                                                            snuggle
-                                                                                                                            up
-                                                                                                                            in
-                                                                                                                            your
-                                                                                                                            king
-                                                                                                                            size
-                                                                                                                            bed
-                                                                                                                            and
-                                                                                                                            take
-                                                                                                                            in
-                                                                                                                            the
-                                                                                                                            views
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                        </p>
-                                                                                                                    </div>
-                                                                                                                    <footer
-                                                                                                                        class="post-footer item-footer">
+                                                                                                                        class="post-content cs-room-content">
+                                                                                                                        <header
+                                                                                                                            class="post-header item-header">
+                                                                                                                            <h2
+                                                                                                                                class="post-title item-title">
+                                                                                                                                <a
+                                                                                                                                    href="../room/deluxe-penthouse/index.html">
+                                                                                                                                    {{ $room->name }}</a>
+                                                                                                                            </h2>
+                                                                                                                            <div
+                                                                                                                                class="item-subtitle">
+                                                                                                                                {{ $room->etage }}
+                                                                                                                                étage
+                                                                                                                                /
+                                                                                                                                {{ $room->surface }}
+                                                                                                                                m²
+                                                                                                                                /type
+                                                                                                                                :
+                                                                                                                                {{ $room->type }}
+                                                                                                                                /
+                                                                                                                                {{ $room->place }}
+                                                                                                                                Guests
+                                                                                                                            </div>
+                                                                                                                        </header>
                                                                                                                         <div
-                                                                                                                            class="more-btn">
-                                                                                                                            <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                href="../room/deluxe-penthouse/index.html">
-                                                                                                                                <span>Discover
-                                                                                                                                    More</span>
-                                                                                                                            </a>
+                                                                                                                            class="post-excerpt item-excerpt">
+                                                                                                                            <p>{{ $room->description }}
+                                                                                                                            </p>
                                                                                                                         </div>
-                                                                                                                    </footer>
-                                                                                                                </div>
+                                                                                                                        <footer
+                                                                                                                            class="post-footer item-footer">
+                                                                                                                            <div
+                                                                                                                                class="more-btn">
+                                                                                                                                <a class="read-more-btn button cs-btn-underline"
+                                                                                                                                    href="../room/deluxe-penthouse/index.html">
+                                                                                                                                    <span>Discover
+                                                                                                                                        More</span>
+                                                                                                                                </a>
+                                                                                                                            </div>
+                                                                                                                        </footer>
+                                                                                                                    </div>
+
                                                                                                             </div>
+                                                                                                            @endforeach
 
                                                                                                             <div
                                                                                                                 class="post cs-room-item has-post-thumbnail">
