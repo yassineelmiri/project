@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>CozyStay  &#8211; CozyStay Apartment Demo</title>
+    <title>CozyStay  &#8211; CozyStay Apartment</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='stylesheet' id='loftocean-flaticons-css'
         href='wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
