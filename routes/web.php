@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 })->name('homepage');
+
 Route::resource('auth', AuthController::class);
 Route::resource('rooms', RoomController::class);
 Route::resource('reservation', ReservationsController::class);

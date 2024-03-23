@@ -770,415 +770,169 @@
                     </div>
                 </section>
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-7396ac94 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="7396ac94" data-element_type="section"
-                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="elementor-container elementor-column-gap-no">
-                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-332f8b28 dark-color"
-                            data-id="332f8b28" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-4b2fb95b elementor-widget__width-auto elementor-widget elementor-widget-cs_menu_toggle"
-                                    data-id="4b2fb95b" data-element_type="widget"
-                                    data-widget_type="cs_menu_toggle.default">
-                                    <div class="elementor-widget-container">
-                                        <button class="menu-toggle elementor-widget-menu-toggle">
-                                            <span class="screen-reader-text">Menu</span>
-                                            <span class="menu-toggle-icon"></span>
-                                        </button>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-93b4c8c elementor-widget__width-auto elementor-widget elementor-widget-cs_menu"
-                                    data-id="93b4c8c" data-element_type="widget" data-widget_type="cs_menu.default">
-                                    <div class="elementor-widget-container">
-                                        <nav class="cs-menu main-navigation not-mobile-menu dropdown-dark">
-                                            <ul id="menu-93b4c8c" class="menu primary-menu">
-                                                <li id="menu-item-516"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
-                                                    <a href="../index.html"><span>Home</span></a><button
-                                                        class="dropdown-toggle" aria-expanded="false"><span
-                                                            class="screen-reader-text">expand child
-                                                            menu</span></button>
-                                                    <div
-                                                        class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
-                                                        <div class="container">
-                                                            <link rel="stylesheet" id="elementor-post-1727-css"
-                                                                href="../wp-content/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110"
-                                                                type="text/css" media="all">
-                                                            <div data-elementor-type="wp-post"
-                                                                data-elementor-id="1727"
-                                                                class="elementor elementor-1727">
-                                                                <section
-                                                                    class="elementor-section elementor-top-section elementor-element elementor-element-1a0a2e11 cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                                    data-id="1a0a2e11" data-element_type="section">
-                                                                    <div
-                                                                        class="elementor-container elementor-column-gap-default">
-                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-282236cf"
-                                                                            data-id="282236cf"
-                                                                            data-element_type="column">
-                                                                            <div
-                                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                                <div class="elementor-element elementor-element-2629cbb2 elementor-widget elementor-widget-image"
-                                                                                    data-id="2629cbb2"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="image.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <a href="../index.html">
-                                                                                            <img fetchpriority="high"
-                                                                                                width="370"
-                                                                                                height="462"
-                                                                                                src="../wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg"
-                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1731"
-                                                                                                alt=""
-                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home.jpg 750w"
-                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-38f7fdfc elementor-widget elementor-widget-cs_title"
-                                                                                    data-id="38f7fdfc"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="cs_title.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-
-                                                                                        <div
-                                                                                            class="cs-title-wrap text-center">
-                                                                                            <div
-                                                                                                class="cs-subtitle-wrap">
-                                                                                                <span
-                                                                                                    class="cs-subtitle color-white">City
-                                                                                                    Aparthotel</span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-c225725"
-                                                                            data-id="c225725"
-                                                                            data-element_type="column">
-                                                                            <div
-                                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                                <div class="elementor-element elementor-element-1ca6b702 elementor-widget elementor-widget-image"
-                                                                                    data-id="1ca6b702"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="image.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <a href="https://cozystay.loftocean.com/mountain-hotel/"
-                                                                                            target="_blank">
-                                                                                            <img width="370"
-                                                                                                height="462"
-                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg"
-                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1729"
-                                                                                                alt=""
-                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home.jpg 750w"
-                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-31a4fb6e elementor-widget elementor-widget-cs_title"
-                                                                                    data-id="31a4fb6e"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="cs_title.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-
-                                                                                        <div
-                                                                                            class="cs-title-wrap text-center">
-                                                                                            <div
-                                                                                                class="cs-subtitle-wrap">
-                                                                                                <span
-                                                                                                    class="cs-subtitle color-white">Mountain
-                                                                                                    Hotel</span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-94fa94e"
-                                                                            data-id="94fa94e"
-                                                                            data-element_type="column">
-                                                                            <div
-                                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                                <div class="elementor-element elementor-element-1d78df7c elementor-widget elementor-widget-image"
-                                                                                    data-id="1d78df7c"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="image.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <a href="https://cozystay.loftocean.com/island-resort/"
-                                                                                            target="_blank">
-                                                                                            <img width="370"
-                                                                                                height="462"
-                                                                                                src="../wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg"
-                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1730"
-                                                                                                alt=""
-                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home.jpg 750w"
-                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-47491867 elementor-widget elementor-widget-cs_title"
-                                                                                    data-id="47491867"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="cs_title.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-
-                                                                                        <div
-                                                                                            class="cs-title-wrap text-center">
-                                                                                            <div
-                                                                                                class="cs-subtitle-wrap">
-                                                                                                <span
-                                                                                                    class="cs-subtitle color-white">Island
-                                                                                                    Resort</span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2fb9cd36"
-                                                                            data-id="2fb9cd36"
-                                                                            data-element_type="column">
-                                                                            <div
-                                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                                <div class="elementor-element elementor-element-3412c55b elementor-widget elementor-widget-image"
-                                                                                    data-id="3412c55b"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="image.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <a href="https://cozystay.loftocean.com/countryside-lodge/"
-                                                                                            target="_blank">
-                                                                                            <img loading="lazy"
-                                                                                                width="370"
-                                                                                                height="462"
-                                                                                                src="../wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg"
-                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1732"
-                                                                                                alt=""
-                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home.jpg 750w"
-                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-3111f2ba elementor-widget elementor-widget-cs_title"
-                                                                                    data-id="3111f2ba"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="cs_title.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-
-                                                                                        <div
-                                                                                            class="cs-title-wrap text-center">
-                                                                                            <div
-                                                                                                class="cs-subtitle-wrap">
-                                                                                                <span
-                                                                                                    class="cs-subtitle color-white">Countryside
-                                                                                                    Lodge</span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-578cba49"
-                                                                            data-id="578cba49"
-                                                                            data-element_type="column">
-                                                                            <div
-                                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                                <div class="elementor-element elementor-element-2d966dec elementor-widget elementor-widget-image"
-                                                                                    data-id="2d966dec"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="image.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <a href="https://cozystay.loftocean.com/mountain-chalet/"
-                                                                                            target="_blank">
-                                                                                            <img loading="lazy"
-                                                                                                width="370"
-                                                                                                height="462"
-                                                                                                src="../wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg"
-                                                                                                class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1733"
-                                                                                                alt=""
-                                                                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home.jpg 750w"
-                                                                                                sizes="(max-width: 370px) 100vw, 370px" />
-                                                                                        </a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="elementor-element elementor-element-2b59a8f elementor-widget elementor-widget-cs_title"
-                                                                                    data-id="2b59a8f"
-                                                                                    data-element_type="widget"
-                                                                                    data-widget_type="cs_title.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-
-                                                                                        <div
-                                                                                            class="cs-title-wrap text-center">
-                                                                                            <div
-                                                                                                class="cs-subtitle-wrap">
-                                                                                                <span
-                                                                                                    class="cs-subtitle color-white">Mountain
-                                                                                                    Chalet</span>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </section>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li id="menu-item-1037"
-                                                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
-                                                    <a href="../rooms/index.html"><span>Rooms</span></a>
-                                                    <button class="dropdown-toggle" aria-expanded="false"><span
-                                                            class="screen-reader-text">expand child
-                                                            menu</span></button>
-                                                    <ul class="sub-menu">
-                                                        <li id="menu-item-1626"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626">
-                                                            <a href="../rooms/index.html"><span>Rooms
-                                                                    Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1674"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room current-menu-item menu-item-1674">
-                                                            <a href="index.html" aria-current="page"><span>Room
-                                                                    Details &#8211; Top Image</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1669"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1669">
-                                                            <a href="../deluxe-penthouse/index.html"><span>Room Details
-                                                                    &#8211; Top Gallery</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1670"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1670">
-                                                            <a href="../park-view-penthouse/index.html"><span>Room
-                                                                    Details &#8211; Left Booking Form</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1625"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625">
-                                                            <a href="../cart/index.html"><span>Cart</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1624"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624">
-                                                            <a href="../checkout/index.html"><span>Checkout</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1623"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623">
-                                                            <a href="../my-account/index.html"><span>My
-                                                                    account</span></a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                                <li id="menu-item-517"
-                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-517">
-                                                    <a href="#"><span>Pages</span></a>
-                                                    <button class="dropdown-toggle" aria-expanded="false"><span
-                                                            class="screen-reader-text">expand child
-                                                            menu</span></button>
-                                                    <ul class="sub-menu">
-                                                        <li id="menu-item-518"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                            <a href="../about-the-hotel/index.html"><span>About the
-                                                                    hotel</span></a>
-                                                        </li>
-                                                        <li id="menu-item-523"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                            <a href="../amenities-services/index.html"><span>Amenities
-                                                                    &#038; Services</span></a>
-                                                        </li>
-                                                        <li id="menu-item-522"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
-                                                            <a href="../salon-price/index.html"><span>Salon Price
-                                                                    List</span></a>
-                                                        </li>
-                                                        <li id="menu-item-524"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
-                                                            <a href="../dining/index.html"><span>Dining</span></a>
-                                                        </li>
-                                                        <li id="menu-item-526"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                                                            <a href="../the-restaurant/index.html"><span>The
-                                                                    Restaurant</span></a>
-                                                        </li>
-                                                        <li id="menu-item-525"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                            <a href="../wellness/index.html"><span>Wellness</span></a>
-                                                        </li>
-                                                        <li id="menu-item-521"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
-                                                            <a href="../local-activities/index.html"><span>Local
-                                                                    Activities</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1248"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
-                                                            <a href="../activity-detail/index.html"><span>Activity
-                                                                    Detail Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1011"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                            <a href="../our-blog/index.html"><span>Our
-                                                                    Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-519"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                                                            <a href="../contact/index.html"><span>Contact</span></a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </nav>
-                                    </div>
+                class="elementor-section elementor-top-section elementor-element elementor-element-7396ac94 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                data-id="7396ac94" data-element_type="section"
+                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-no">
+                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-332f8b28 dark-color"
+                        data-id="332f8b28" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-4b2fb95b elementor-widget__width-auto elementor-widget elementor-widget-cs_menu_toggle"
+                                data-id="4b2fb95b" data-element_type="widget"
+                                data-widget_type="cs_menu_toggle.default">
+                                <div class="elementor-widget-container">
+                                    <button class="menu-toggle elementor-widget-menu-toggle">
+                                        <span class="screen-reader-text">Menu</span>
+                                        <span class="menu-toggle-icon"></span>
+                                    </button>
                                 </div>
                             </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cca6882 dark-color"
-                            data-id="cca6882" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
-                                    data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
-                                    <div class="elementor-widget-container">
-                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
-                                                src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
-                                                class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
-                                                alt=""
-                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
-                                                sizes="(max-width: 255px) 100vw, 255px" /> </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-373d1868 dark-color"
-                            data-id="373d1868" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-e9a1a8c elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                    data-id="e9a1a8c" data-element_type="widget"
-                                    data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                        <a href="#">EN</a> / <a href="#">FR</a>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
-                                    data-id="3394ea0c" data-element_type="widget"
-                                    data-widget_type="cs_button.default">
-                                    <div class="elementor-widget-container">
-                                        <a href="../rooms/index.html"
-                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                            role="button">
-                                            <span class="cs-btn-text">Check Availability</span> </a>
-                                    </div>
+                            <div class="elementor-element elementor-element-93b4c8c elementor-widget__width-auto elementor-widget elementor-widget-cs_menu"
+                                data-id="93b4c8c" data-element_type="widget" data-widget_type="cs_menu.default">
+                                <div class="elementor-widget-container">
+                                    <nav class="cs-menu main-navigation not-mobile-menu dropdown-dark">
+                                        <ul id="menu-93b4c8c" class="menu primary-menu">
+                                            <li id="menu-item-516"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
+                                                <a href="{{ route('homepage') }}"><span>Home</span></a><button
+                                                    class="dropdown-toggle" aria-expanded="false"><span
+                                                        class="screen-reader-text">expand child
+                                                        menu</span></button>
+                                                <div
+                                                    class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
+
+                                                </div>
+                                            </li>
+                                            <li id="menu-item-1037"
+                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
+                                                <a href="index.html" aria-current="page"><span>Rooms</span></a>
+                                                <button class="dropdown-toggle" aria-expanded="false"><span
+                                                        class="screen-reader-text">expand child
+                                                        menu</span></button>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-1626"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
+                                                        <a href="{{ route('rooms.index') }}"
+                                                            aria-current="page"><span>Rooms
+                                                                Page</span></a>
+                                                    </li>
+                                                    <li id="menu-item-1674"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                        <a href="{{ route('rooms.create') }}"><span>Ajouter Room
+                                                                &#8211; create</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li id="menu-item-517"
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-517">
+                                                <a href="#"><span>Pages</span></a>
+                                                <button class="dropdown-toggle" aria-expanded="false"><span
+                                                        class="screen-reader-text">expand child
+                                                        menu</span></button>
+                                                <ul class="sub-menu">
+                                                    <li id="menu-item-518"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
+                                                        <a href="{{ route('panier') }}"><span>Panier</span></a>
+                                                    </li>
+                                                    <li id="menu-item-523"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
+                                                        <a href="../amenities-services/index.html"><span>Amenities
+                                                                &#038; Services</span></a>
+                                                    </li>
+                                                    <li id="menu-item-522"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
+                                                        <a href="../salon-price/index.html"><span>Salon Price
+                                                                List</span></a>
+                                                    </li>
+                                                    <li id="menu-item-524"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                        <a href="../dining/index.html"><span>Dining</span></a>
+                                                    </li>
+                                                    <li id="menu-item-526"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
+                                                        <a href="../the-restaurant/index.html"><span>The
+                                                                Restaurant</span></a>
+                                                    </li>
+                                                    <li id="menu-item-525"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
+                                                        <a href="../wellness/index.html"><span>Wellness</span></a>
+                                                    </li>
+                                                    <li id="menu-item-521"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
+                                                        <a href="../local-activities/index.html"><span>Local
+                                                                Activities</span></a>
+                                                    </li>
+                                                    <li id="menu-item-1248"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
+                                                        <a href="../activity-detail/index.html"><span>Activity
+                                                                Detail Page</span></a>
+                                                    </li>
+                                                    <li id="menu-item-1011"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
+                                                        <a href="../our-blog/index.html"><span>Our Blog</span></a>
+                                                    </li>
+                                                    <li id="menu-item-519"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
+                                                        <a href="../contact/index.html"><span>Contact</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </section>
+                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cca6882 dark-color"
+                        data-id="cca6882" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
+                                data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
+                                <div class="elementor-widget-container">
+                                    <a href="../index.html"> <img loading="lazy" width="255" height="51"
+                                            src="../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                            class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
+                                            alt=""
+                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
+                                            sizes="(max-width: 255px) 100vw, 255px" /> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-373d1868 dark-color"
+                        data-id="373d1868" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-e9a1a8c elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
+                                data-id="e9a1a8c" data-element_type="widget"
+                                data-widget_type="text-editor.default">
+                                <div class="elementor-widget-container">
+                                    <a href="#">EN</a> / <a href="#">FR</a>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
+                                data-id="3394ea0c" data-element_type="widget"
+                                data-widget_type="cs_button.default">
+                                @auth
+                                    <div class="elementor-widget-container">
+                                        <a href="{{ route('logout') }}"
+                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                            role="button">
+                                            <span class="cs-btn-text">log-out</span> </a>
+                                    </div>
+                                @endauth
+                                @guest
+                                    <div class="elementor-widget-container">
+                                        <a href="{{ route('auth.index') }}"
+                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                            role="button">
+                                            <span class="cs-btn-text">Login</span> </a>
+                                    </div>
+                                @endguest
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-37bd14d9 elementor-section-content-middle elementor-hidden-desktop cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="37bd14d9" data-element_type="section"

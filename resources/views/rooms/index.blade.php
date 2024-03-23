@@ -806,7 +806,8 @@
                                                     <ul class="sub-menu">
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
-                                                            <a href="index.html" aria-current="page"><span>Rooms
+                                                            <a href="{{ route('rooms.index') }}"
+                                                                aria-current="page"><span>Rooms
                                                                     Page</span></a>
                                                         </li>
                                                         <li id="menu-item-1674"
@@ -905,12 +906,22 @@
                                 <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
                                     data-id="3394ea0c" data-element_type="widget"
                                     data-widget_type="cs_button.default">
-                                    <div class="elementor-widget-container">
-                                        <a href="index.html"
-                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                            role="button">
-                                            <span class="cs-btn-text">Check Availability</span> </a>
-                                    </div>
+                                    @auth
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('logout') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">log-out</span> </a>
+                                        </div>
+                                    @endauth
+                                    @guest
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('auth.index') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">Login</span> </a>
+                                        </div>
+                                    @endguest
                                 </div>
                             </div>
                         </div>
@@ -1270,7 +1281,7 @@
                                                                                                                             <h2
                                                                                                                                 class="post-title item-title">
                                                                                                                                 <a
-                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
+                                                                                                                                    href="{{ route('rooms.show', $room->id) }}">
                                                                                                                                     {{ $room->name }}</a>
                                                                                                                             </h2>
                                                                                                                             <div
@@ -1298,7 +1309,7 @@
                                                                                                                             <div
                                                                                                                                 class="more-btn">
                                                                                                                                 <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                    href="{{ route('rooms.show',$room->id)}}">
+                                                                                                                                    href="{{ route('rooms.show', $room->id) }}">
                                                                                                                                     <span>Discover
                                                                                                                                         More</span>
                                                                                                                                 </a>
