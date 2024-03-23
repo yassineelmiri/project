@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <title>CozyStay  &#8211; CozyStay Apartment</title>
+    <title>CozyStay &#8211; CozyStay Apartment</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='stylesheet' id='loftocean-flaticons-css'
         href='wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
@@ -818,13 +818,13 @@
                                                         </li>
                                                         <li id="menu-item-523"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                            <a href="../amenities-services/index.html"><span>Amenities
-                                                                    &#038; Services</span></a>
+                                                            <a href=""><span>profile
+                                                                    &#038;</span></a>
                                                         </li>
                                                         <li id="menu-item-522"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
-                                                            <a href="../salon-price/index.html"><span>Salon Price
-                                                                    List</span></a>
+                                                            <a href="{{ route('contact') }}"><span>Contact
+                                                                    us</span></a>
                                                         </li>
                                                         <li id="menu-item-524"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
@@ -1703,8 +1703,8 @@
 
                                                             <div class="elementor-star-rating__wrapper">
                                                                 <div class="elementor-star-rating" title="5/5"
-                                                                    itemtype="http://schema.org/Rating"
-                                                                    itemscope="" itemprop="reviewRating"><i
+                                                                    itemtype="http://schema.org/Rating" itemscope=""
+                                                                    itemprop="reviewRating"><i
                                                                         class="elementor-star-full">&#9733;</i><i
                                                                         class="elementor-star-full">&#9733;</i><i
                                                                         class="elementor-star-full">&#9733;</i><i

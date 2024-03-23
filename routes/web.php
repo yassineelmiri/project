@@ -19,4 +19,5 @@ Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 Route::get('/panier', [AppController::class, 'panier'])->name('panier');
 
+Route::get('/contact', [NextController::class, 'contact'])->name('contact');
 

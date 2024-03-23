@@ -8,8 +8,8 @@ use Illuminate\Http\Request;
 
 class NextController extends Controller
 {
-    public function afficher(room $room)
+    public function contact()
     {
-        return view('rooms.show');
+        return view('contact.index');
     }
 }
