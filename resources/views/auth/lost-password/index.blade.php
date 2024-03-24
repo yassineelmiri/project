@@ -158,15 +158,15 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-bde8a50 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="bde8a50" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<a href="tel:+12125556688">Tel: +1 212 555 6688</a>						</div>
+							<a href="tel:+12125556688">TEL: +212 612 441 246</a>						</div>
 				</div>
 				<div class="elementor-element elementor-element-1740dd14 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="1740dd14" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Fax: +1 212 555 6699</p>						</div>
+							<p></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-75e3dff elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="75e3dff" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<a href="mailto:booking@cozystay.com">booking@cozystay.com</a>						</div>
+							<a href="mailto:MIRIYASSINE123@GMAIL.COM">MIRIYASSINE123@GMAIL.COM</a>						</div>
 				</div>
 					</div>
 		</div>
@@ -560,15 +560,15 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-77cf7f3b elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="77cf7f3b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<a href="tel:+12125556688">Tel: +1 212 555 6688</a>						</div>
+							<a href="tel:+12125556688">TEL: +212 612 441 246</a>						</div>
 				</div>
 				<div class="elementor-element elementor-element-1156d726 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="1156d726" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Fax: +1 212 555 6699</p>						</div>
+							<p></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-15719cfe elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="15719cfe" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<a href="mailto:booking@cozystay.com">booking@cozystay.com</a>						</div>
+							<a href="mailto:MIRIYASSINE123@GMAIL.COM">MIRIYASSINE123@GMAIL.COM</a>						</div>
 				</div>
 					</div>
 		</div>
@@ -713,7 +713,7 @@ United States</a>						</div>
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
-										<span class="elementor-icon-list-text">1250 West 6th Ave, New York, NY 10036, United States</span>
+										<span class="elementor-icon-list-text">1250 ASAFI 6TH AVE ,MAROC , YOUCODE</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -727,7 +727,7 @@ United States</a>						</div>
 								<li class="elementor-icon-list-item">
 											<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-fax"></i>						</span>
-										<span class="elementor-icon-list-text">Fax: +1 212 555 6699</span>
+										<span class="elementor-icon-list-text"></span>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="mailto:info@cozystay.com">

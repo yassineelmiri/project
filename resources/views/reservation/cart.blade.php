@@ -771,9 +771,7 @@
                                     data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                         <a href="https://www.google.com/maps/place/Times+Square/@40.757975,-73.985543,14z/data=!4m6!3m5!1s0x89c25855c6480299:0x55194ec5a1ae072e!8m2!3d40.7579747!4d-73.9855426!16zL20vMDdxZHI?hl=en"
-                                            target="_blank" rel="noopener">1250 West 6th Ave,
-                                            New York, NY 10036,
-                                            United States</a>
+                                            target="_blank" rel="noopener">1250 ASAFI 6TH AVE ,MAROC , YOUCODE</a>
                                     </div>
                                 </div>
                             </div>
@@ -785,21 +783,21 @@
                                     data-id="bde8a50" data-element_type="widget"
                                     data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <a href="tel:+12125556688">Tel: +1 212 555 6688</a>
+                                        <a href="tel:+12125556688">TEL: +212 612 441 246</a>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-1740dd14 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
                                     data-id="1740dd14" data-element_type="widget"
                                     data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <p>Fax: +1 212 555 6699</p>
+                                        <p></p>
                                     </div>
                                 </div>
                                 <div class="elementor-element elementor-element-75e3dff elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
                                     data-id="75e3dff" data-element_type="widget"
                                     data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
-                                        <a href="mailto:booking@cozystay.com">booking@cozystay.com</a>
+                                        <a href="mailto:MIRIYASSINE123@GMAIL.COM">MIRIYASSINE123@GMAIL.COM</a>
                                     </div>
                                 </div>
                             </div>
@@ -1365,21 +1363,21 @@
                                         data-id="77cf7f3b" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <a href="tel:+12125556688">Tel: +1 212 555 6688</a>
+                                            <a href="tel:+12125556688">TEL: +212 612 441 246</a>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-1156d726 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
                                         data-id="1156d726" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <p>Fax: +1 212 555 6699</p>
+                                            <p></p>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-15719cfe elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
                                         data-id="15719cfe" data-element_type="widget"
                                         data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <a href="mailto:booking@cozystay.com">booking@cozystay.com</a>
+                                            <a href="mailto:MIRIYASSINE123@GMAIL.COM">MIRIYASSINE123@GMAIL.COM</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1670,7 +1668,7 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
                                                         <i aria-hidden="true" class="fas fa-fax"></i> </span>
-                                                    <span class="elementor-icon-list-text">Fax: +1 212 555 6699</span>
+                                                    <span class="elementor-icon-list-text"></span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <a href="mailto:info@cozystay.com">
