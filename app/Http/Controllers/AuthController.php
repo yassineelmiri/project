@@ -46,14 +46,33 @@ class AuthController extends Controller
 
     public function login(Request $request)
     {
-       
+
         $email = $request->email;
         $password = $request->password;
 
         $credentials = ['email' => $email, 'password' => $password];
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
-            return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
+            switch (auth()->user()->role) {
+                case "employe":
+                    $request->session()->regenerate();
+                    return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
+
+
+                case 'client':
+                    $request->session()->regenerate();
+                    return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
+
+
+                case 'Administrateur':
+                    $request->session()->regenerate();
+                    return to_route('admin.analytics')->with('success', 'Vous étes bien connecté ' . $email . " .");
+
+                default:
+                    return back()->withErrors([
+                        'email' => 'Email ou mot de passe incorrect'
+                    ])->onlyInput('email');
+            }
         } else {
             return back()->withErrors([
                 'email' => 'Email ou mot de pass incorrect'
@@ -61,10 +80,11 @@ class AuthController extends Controller
         }
 
     }
-    public function logout(){
+    public function logout()
+    {
         Session::flush();
         Auth::logout();
-        return to_route('homepage')->with('success','Vous étes bien déconnecté.');
+        return to_route('homepage')->with('success', 'Vous étes bien déconnecté.');
     }
 
 

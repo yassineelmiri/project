@@ -40,9 +40,9 @@ class ReservationsController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(reservations $reservations)
+    public function show(Request $request)
     {
-        //
+        return view("client.index");
     }
 
     /**
