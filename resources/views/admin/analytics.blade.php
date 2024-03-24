@@ -1314,7 +1314,7 @@
                                 <i data-lucide="coins"></i>
                             </div>
                             <h5 class="mt-5 mb-2"><span class="counter-value" data-target="1">0</span>M <span class="counter-value" data-target="29">0</span>sec</h5>
-                            <p class="text-slate-500 dark:text-slate-200">Avg. Visit Duration</p>
+                            <p class="text-slate-500 dark:text-slate-200">Visit Duration</p>
                         </div>
                     </div><!--end col-->
                     <div class="order-4 md:col-span-6 lg:col-span-3 col-span-12 2xl:order-1 bg-purple-100 dark:bg-purple-500/20 card 2xl:col-span-2 group-data-[skin=bordered]:border-purple-500/20 relative overflow-hidden">
