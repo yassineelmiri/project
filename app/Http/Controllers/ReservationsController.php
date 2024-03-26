@@ -32,10 +32,18 @@ class ReservationsController extends Controller
         $room_id = $request->room;
         $profile_id = Auth::id();
         $valider = "Non valider";
-        $credentials = ['profile_id' => $profile_id, 'rooms_id' => $room_id, 'valider' => $valider];
-        reservations::create($credentials);
-        return view('reservation.cart');
+        $existingReservation = reservations::where('rooms_id', $room_id)
+            ->first();
+
+        if ($existingReservation) {
+            return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé.');
+        } else {
+            $credentials = ['profile_id' => $profile_id, 'rooms_id' => $room_id, 'valider' => $valider];
+            reservations::create($credentials);
+            return view('reservation.cart');
+        }
     }
+
 
     /**
      * Display the specified resource.

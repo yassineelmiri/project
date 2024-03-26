@@ -1033,139 +1033,93 @@
                                                             <div class="posts layout-grid column-2 img-ratio-3-2"
                                                                 data-settings='{"query":{"paged":1,"posts_per_page":4,"ignore_sticky_posts":true,"post_type":"post","post_status":"publish"},"settings":{"layout":"grid","columns":"2","post_meta":"a:4:{i:0;s:7:\"excerpt\";i:1;s:13:\"read_more_btn\";i:2;s:8:\"category\";i:3;s:4:\"date\";}","page_layout":"","pagination":"ajax-manual","archive_page":"elementor"}}'>
                                                                 <div class="posts-wrapper">
-                                                                    @foreach ($PublicationReservations as $PublicationReservation)
-                                                                        <article
-                                                                            class="post-142 post type-post status-publish format-gallery has-post-thumbnail hentry category-sightseeing category-wellness tag-mountain tag-nature tag-special-events tag-summer post_format-post-format-gallery">
-                                                                            <div class="featured-img">
-                                                                                <a
-                                                                                    href="{{ route('rooms.show', $PublicationReservation->id) }}">
-                                                                                    <ul
-                                                                                        class="thumbnail-gallery single-img-gallery">
-                                                                                        <li class="first"><img
-                                                                                                loading="lazy"
-                                                                                                decoding="async"
-                                                                                                width="1920"
-                                                                                                height="1274"
-                                                                                                src="{{ asset('storage/' . $PublicationReservation->image) }}"
-                                                                                                class="skip-lazy image-layout-grid-column-2"
-                                                                                                alt="Local Activities"
-                                                                                                sizes="(max-width: 1920px) 100vw, 1920px" />
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </a>
-                                                                                <div class="slider-arrows"></div>
-                                                                                <div class="slider-dots"></div>
-                                                                                <div
-                                                                                    class="overlay-label time-label featured-style">
-                                                                                    <div class="meta-item time">
-                                                                                        <time class="published"
-                                                                                            datetime="2023-03-24T08:50:29+00:00">
-                                                                                            <span
-                                                                                                class="month">Mar</span>
-                                                                                            <span
-                                                                                                class="day">{{ $PublicationReservation->updated_at->format('j') }}
-                                                                                            </span>
-                                                                                        </time>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="post-content">
-                                                                                <header class="post-header">
-                                                                                    <div class="meta-wrap">
-                                                                                        <div class="cat-links"><a
-                                                                                                href="{{ route('rooms.show', $PublicationReservation->id) }}"
-                                                                                                rel="tag">type
-                                                                                                /</a>
-                                                                                            <a href="{{ route('rooms.show', $PublicationReservation->id) }}"
-                                                                                                rel="tag">{{ $PublicationReservation->type }}</a>
+                                                                    @if (!$PublicationReservations)
+                                                                     
+                                                                            <p class="cs-title-text">Aucune reservation n'est disponible pour
+                                                                                le moment
+                                                                            </p>
+                                                                      
+                                                                    @else
+                                                                        @foreach ($PublicationReservations as $PublicationReservation)
+                                                                            <article
+                                                                                class="post-142 post type-post status-publish format-gallery has-post-thumbnail hentry category-sightseeing category-wellness tag-mountain tag-nature tag-special-events tag-summer post_format-post-format-gallery">
+                                                                                <div class="featured-img">
+                                                                                    <a
+                                                                                        href="{{ route('rooms.show', $PublicationReservation->id) }}">
+                                                                                        <ul
+                                                                                            class="thumbnail-gallery single-img-gallery">
+                                                                                            <li class="first"><img
+                                                                                                    loading="lazy"
+                                                                                                    decoding="async"
+                                                                                                    width="1920"
+                                                                                                    height="1274"
+                                                                                                    src="{{ asset('storage/' . $PublicationReservation->image) }}"
+                                                                                                    class="skip-lazy image-layout-grid-column-2"
+                                                                                                    alt="Local Activities"
+                                                                                                    sizes="(max-width: 1920px) 100vw, 1920px" />
+                                                                                            </li>
+                                                                                        </ul>
+                                                                                    </a>
+                                                                                    <div class="slider-arrows"></div>
+                                                                                    <div class="slider-dots"></div>
+                                                                                    <div
+                                                                                        class="overlay-label time-label featured-style">
+                                                                                        <div class="meta-item time">
+                                                                                            <time class="published"
+                                                                                                datetime="2023-03-24T08:50:29+00:00">
+                                                                                                <span
+                                                                                                    class="month">Mar</span>
+                                                                                                <span
+                                                                                                    class="day">{{ $PublicationReservation->updated_at->format('j') }}
+                                                                                                </span>
+                                                                                            </time>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <h2 class="post-title">
-                                                                                        <a
-                                                                                            href="{{ route('rooms.show', $PublicationReservation->id) }}">City
-                                                                                            {{ $PublicationReservation->name }}</a>
-                                                                                    </h2>
-                                                                                </header>
-                                                                                <div class="post-excerpt">
-                                                                                    <p>{{ $PublicationReservation->description }}
-                                                                                        &#8230;</p>
                                                                                 </div>
-                                                                                <footer class="post-footer">
-                                                                                    <div class="more-btn">
-                                                                                        <form
-                                                                                            action="{{ route('reservation.destroy', $PublicationReservation->id) }}"
-                                                                                            method="POST">
-                                                                                            @method('DELETE')
-                                                                                            @csrf
-                                                                                            <input type="hidden"
-                                                                                                name="rooms_id"
-                                                                                                value="{{ $PublicationReservation->id }}">
-                                                                                            <button
-                                                                                                class="read-more-btn button cs-btn-underline"
-                                                                                                type="submit"><span>Annuller
-                                                                                                    Reservation</span></button>
-                                                                                        </form>
+                                                                                <div class="post-content">
+                                                                                    <header class="post-header">
+                                                                                        <div class="meta-wrap">
+                                                                                            <div class="cat-links"><a
+                                                                                                    href="{{ route('rooms.show', $PublicationReservation->id) }}"
+                                                                                                    rel="tag">type
+                                                                                                    /</a>
+                                                                                                <a href="{{ route('rooms.show', $PublicationReservation->id) }}"
+                                                                                                    rel="tag">{{ $PublicationReservation->type }}</a>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <h2 class="post-title">
+                                                                                            <a
+                                                                                                href="{{ route('rooms.show', $PublicationReservation->id) }}">City
+                                                                                                {{ $PublicationReservation->name }}</a>
+                                                                                        </h2>
+                                                                                    </header>
+                                                                                    <div class="post-excerpt">
+                                                                                        <p>{{ $PublicationReservation->description }}
+                                                                                            &#8230;</p>
                                                                                     </div>
-                                                                                </footer>
-                                                                            </div>
-                                                                        </article>
-                                                                    @endforeach
-                                                                    <article
-                                                                        class="post-149 post type-post status-publish format-standard has-post-thumbnail hentry category-dining category-news tag-dining-experience tag-food tag-special-events tag-summer">
-                                                                        <div class="featured-img">
-                                                                            <a
-                                                                                href="../news/new-chef-and-spring-special-menu/index.html"><img
-                                                                                    loading="lazy" decoding="async"
-                                                                                    width="780" height="586"
-                                                                                    src="../wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-780x586.jpg"
-                                                                                    class="attachment-cozystay_780x9999 size-cozystay_780x9999 wp-post-image image-layout-grid-column-2"
-                                                                                    alt=""
-                                                                                    srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-780x586.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-300x225.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1024x769.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-768x577.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1536x1154.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1440x1082.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-1200x901.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-600x451.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-550x413.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-370x278.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash-255x192.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/04/eaters-collective-ESmxug33C0c-unsplash.jpg 1920w"
-                                                                                    sizes="(max-width: 780px) 100vw, 780px" /></a>
-                                                                            <div
-                                                                                class="overlay-label time-label featured-style">
-                                                                                <div class="meta-item time">
-                                                                                    <time class="published"
-                                                                                        datetime="2023-03-18T07:08:07+00:00">
-                                                                                        <span class="month">Mar</span>
-                                                                                        <span class="day">18</span>
-                                                                                    </time>
+                                                                                    <footer class="post-footer">
+                                                                                        <div class="more-btn">
+                                                                                            <form
+                                                                                                action="{{ route('reservation.destroy', $PublicationReservation->id) }}"
+                                                                                                method="POST">
+                                                                                                @method('DELETE')
+                                                                                                @csrf
+                                                                                                <input type="hidden"
+                                                                                                    name="rooms_id"
+                                                                                                    value="{{ $PublicationReservation->id }}">
+                                                                                                <button
+                                                                                                    class="read-more-btn button cs-btn-underline"
+                                                                                                    type="submit"><span>Annuller
+                                                                                                        Reservation</span></button>
+                                                                                            </form>
+                                                                                        </div>
+                                                                                    </footer>
                                                                                 </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="post-content">
-                                                                            <header class="post-header">
-                                                                                <div class="meta-wrap">
-                                                                                    <div class="cat-links"><a
-                                                                                            href="../category/dining/index.html"
-                                                                                            rel="tag">Dining</a>
-                                                                                        <a href="../category/news/index.html"
-                                                                                            rel="tag">News</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <h2 class="post-title">
-                                                                                    <a
-                                                                                        href="../news/new-chef-and-spring-special-menu/index.html">New
-                                                                                        chef and spring special menu</a>
-                                                                                </h2>
-                                                                            </header>
-                                                                            <div class="post-excerpt">
-                                                                                <p>Lorem ipsum dolor sit amet,
-                                                                                    consectetuer adipiscing elit. Aenean
-                                                                                    commodo ligula eget dolor. Aenean
-                                                                                    massa. Cum sociis natoque penatibus
-                                                                                    et magnis dis parturient montes,
-                                                                                    nascetur &#8230;</p>
-                                                                            </div>
-                                                                            <footer class="post-footer">
-                                                                                <div class="more-btn">
-                                                                                    <a class="read-more-btn button cs-btn-underline"
-                                                                                        href="../news/new-chef-and-spring-special-menu/index.html"><span>Read
-                                                                                            More</span></a>
-                                                                                </div>
-                                                                            </footer>
-                                                                        </div>
-                                                                    </article>
+                                                                            </article>
+                                                                        @endforeach
+
+                                                                    @endif
+
 
                                                                 </div>
                                                                 <nav class="navigation pagination">
@@ -1175,8 +1129,8 @@
                                                                         <a href="#"
                                                                             data-no-post-text="No More Posts"
                                                                             class="load-more-btn ajax manual">
-                                                                            <span class="btn-text">Load More
-                                                                                Posts</span>
+                                                                            <span class="btn-text">Return en
+                                                                                home</span>
                                                                             <span
                                                                                 class="loading-text">Loading...</span>
                                                                         </a>
@@ -1858,8 +1812,7 @@
                                         data-widget_type="cs_social.default">
                                         <div class="elementor-widget-container">
                                             <nav id="bcbc078-social-menu-container" class="social-navigation">
-                                                <ul id="bcbc078-social-menu"
-                                                    class="social-nav menu text-left-mobile">
+                                                <ul id="bcbc078-social-menu" class="social-nav menu text-left-mobile">
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290">
                                                         <a href="https://www.facebook.com/">Facebook</a>
