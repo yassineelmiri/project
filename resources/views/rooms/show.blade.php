@@ -1367,7 +1367,9 @@
                                 <div class="cs-room-booking-wrap">
                                     <div class="room-booking-title">
                                         <h4>Reserve:</h4>
-                                        <span>From </span>${{ $room->prix }}/night</span>
+                                        <form action="{{ route('reservation.store') }}" method="POST">
+                                            @csrf
+                                            <span>From </span>${{ $room->prix }}/night</span>
                                     </div>
 
                                     <div class="room-booking-form">
@@ -1378,10 +1380,8 @@
                                                         <label class="cs-form-label">Check In</label>
 
                                                         <div class="field-input-wrap checkin-date">
-                                                            <input type="text" class="date-range-picker"
-                                                                value="">
-                                                            <input type="text" value="" name="checkin"
-                                                                readonly>
+                                                            <input type="text" class="date-range-picker">
+                                                            <input type="text" name="checkin" readonly>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1485,14 +1485,12 @@
                                                 <div class="cs-form-price-details hide"></div>
                                                 <div class="cs-form-field">
                                                     <div class="field-wrap">
-                                                        <form action="{{ route('reservation.store') }}"
-                                                            method="POST">
-                                                            @csrf
-                                                            <input type="hidden" name="room"
-                                                                value="{{ $room->id }}">
-                                                            <button type="submit"
-                                                                class="button cs-btn-color-black cs-btn-rounded"><span
-                                                                    class="btn-text">Réservez Now</span></button>
+
+                                                        <input type="hidden" name="room"
+                                                            value="{{ $room->id }}">
+                                                        <button type="submit"
+                                                            class="button cs-btn-color-black cs-btn-rounded"><span
+                                                                class="btn-text">Réservez Now</span></button>
                                                         </form>
                                                     </div>
                                                 </div>

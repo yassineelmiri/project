@@ -1027,46 +1027,26 @@
                                                             <div
                                                                 class="cs-reservation-form style-banner-3 style-banner cs-form-square inline-label">
                                                                 <form class="cs-form-wrap"
-                                                                    data-date-format="YYYY-MM-DD"
-                                                                    action="https://cozystay.loftocean.com/apartment/"
-                                                                    method="GET">
+                                                                    action="{{ route('filtre') }}" method="POST">
+                                                                    @csrf
                                                                     <div class="cs-form-field cs-check-in">
                                                                         <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                In</label>
+                                                                            <label class="cs-form-label">type</label>
 
                                                                             <div class="field-input-wrap checkin-date">
-                                                                                <input type="text"
-                                                                                    class="date-range-picker"
-                                                                                    value="2024-03-20 - 2024-03-21">
-                                                                                <input type="text"
-                                                                                    value="2024-03-20"
-                                                                                    class="check-in-date"
-                                                                                    name="checkin" readonly>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="cs-form-field cs-check-out">
-                                                                        <div class="field-wrap">
-                                                                            <label class="cs-form-label">Check
-                                                                                Out</label>
+                                                                                <input type="text" name="type">
 
-                                                                            <div
-                                                                                class="field-input-wrap checkout-date">
-                                                                                <input type="text"
-                                                                                    value="2024-03-21"
-                                                                                    class="check-out-date"
-                                                                                    name="checkout" readonly>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
                                                                     <div
                                                                         class="cs-form-field cs-guests cs-has-dropdown">
                                                                         <div class="field-wrap">
                                                                             <label class="cs-form-label">Guests</label>
 
                                                                             <div class="field-input-wrap has-dropdown">
-                                                                                <input type="text" name="guests"
+                                                                                <input type="text" name="places"
                                                                                     value="1 Adult, 0 Child"
                                                                                     readonly="">
                                                                             </div>
@@ -1084,7 +1064,7 @@
                                                                                         <button
                                                                                             class="minus"></button>
                                                                                         <input type="text"
-                                                                                            name="adult-quantity"
+                                                                                            name="adult"
                                                                                             value="1"
                                                                                             class="input-text"
                                                                                             autocomplete="off"
@@ -1107,7 +1087,7 @@
                                                                                         <button
                                                                                             class="minus"></button>
                                                                                         <input type="text"
-                                                                                            name="child-quantity"
+                                                                                            name="child"
                                                                                             value="0"
                                                                                             class="input-text"
                                                                                             autocomplete="off"
@@ -1121,17 +1101,14 @@
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="cs-form-field cs-submit">
+                                                                    <div class="cs-form-field">
                                                                         <div class="field-wrap">
-                                                                            <button class="button" role="button"
-                                                                                type="submit">
+                                                                            <button class="button" type="submit">
                                                                                 <span class="btn-text">Check
                                                                                     Availability</span>
                                                                             </button>
                                                                         </div>
                                                                     </div>
-                                                                    <input type="hidden" name="search_rooms"
-                                                                        value="" />
                                                                 </form>
                                                             </div>
                                                         </div>

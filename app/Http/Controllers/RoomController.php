@@ -14,7 +14,20 @@ class RoomController extends Controller
     public function index()
     {
         $rooms = room::all();
-        return view('rooms.index',compact('rooms'));
+        return view('rooms.index', compact('rooms'));
+    }
+
+    public function filtre(Request $request)
+    {
+        $type = $request->type;
+        $places = $request->adult + $request->child;
+
+        $rooms = room::where('type', $type)
+            ->where('place', '>=', $places)
+            ->get();
+      
+
+        return view('rooms.index', compact('rooms'));
     }
 
     /**
@@ -59,7 +72,7 @@ class RoomController extends Controller
      */
     public function show(room $room)
     {
-        return view('rooms.show',compact('room'));
+        return view('rooms.show', compact('room'));
     }
 
     /**

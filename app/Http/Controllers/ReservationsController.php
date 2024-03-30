@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\reservations;
+use App\Models\room;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
@@ -28,21 +29,42 @@ class ReservationsController extends Controller
      * Store a newly created resource in storage.
      */
     public function store(Request $request)
-    {
-        $room_id = $request->room;
-        $profile_id = Auth::id();
-        $valider = "Non valider";
-        $existingReservation = reservations::where('rooms_id', $room_id)
-            ->first();
-
-        if ($existingReservation) {
-            return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé.');
-        } else {
-            $credentials = ['profile_id' => $profile_id, 'rooms_id' => $room_id, 'valider' => $valider];
-            reservations::create($credentials);
-            return view('reservation.cart');
-        }
+{
+    if (!Auth::check()) {
+        return redirect()->route('login')->with('success', 'Veuillez vous connecter pour effectuer une réservation.');
     }
+
+    $room_id = $request->room;
+    $profile_id = Auth::id();
+    $places = $request->adults + $request->children;
+    $valider = "Non valider";
+
+    $existingReservation = reservations::where('profile_id', $profile_id)
+        ->where('rooms_id', $room_id)
+        ->first();
+
+    if ($existingReservation) {
+        return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé cette chambre.');
+    }
+
+    $showRoom = room::where('id', $room_id)->first();
+
+    if ($places <= $showRoom->place) {
+        $credentials = [
+            'profile_id' => $profile_id,
+            'rooms_id' => $room_id,
+            'valider' => $valider,
+            'checkin' => $request->checkin,
+            'checkout' => $request->checkout,
+            'places' => $places
+        ];
+        reservations::create($credentials);
+        return view('reservation.cart');
+    }
+
+    return redirect()->route('rooms.index')->with('success', 'Le nombre de places n\'est pas suffisant.');
+}
+
 
 
     /**

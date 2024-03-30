@@ -13,7 +13,10 @@ class reservations extends Model
     protected $fillable = [
         'profile_id',
         'rooms_id',
-        'valider'
+        'valider',
+        'checkin',
+        'checkout',
+        'places'
     ];
     public function profile()
     {
