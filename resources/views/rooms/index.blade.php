@@ -1012,7 +1012,7 @@
                                                                     @endif
                                                                 </h1>
                                                                 <h1 class="cs-title">
-                                                                    Book Your Stay </h1>
+                                                                    Book Your Stay  </h1>
                                                                 <div class="cs-title-text">
                                                                     <p>A stay infused with creativity and culture.</p>
                                                                 </div>
