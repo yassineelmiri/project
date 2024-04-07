@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\room;
+use App\Models\Room;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 
@@ -13,19 +13,21 @@ class RoomController extends Controller
      */
     public function index()
     {
-        $rooms = room::all();
+        $rooms = Room::all();
         return view('rooms.index', compact('rooms'));
     }
 
+    /**
+     * Filter rooms based on type and number of guests.
+     */
     public function filtre(Request $request)
     {
         $type = $request->type;
         $places = $request->adult + $request->child;
 
-        $rooms = room::where('type', $type)
+        $rooms = Room::where('type', $type)
             ->where('place', '>=', $places)
             ->get();
-      
 
         return view('rooms.index', compact('rooms'));
     }
@@ -56,9 +58,12 @@ class RoomController extends Controller
         $this->uploadImage($request, $formFields);
         $formFields['profile_id'] = Auth::id();
         Room::create($formFields);
-        return redirect()->route('rooms.index')->with('success', 'Votre chambre a bien été crée.');
+        return redirect()->route('rooms.index')->with('success', 'Votre chambre a bien été créée.');
     }
 
+    /**
+     * Upload image for the room.
+     */
     private function uploadImage(Request $request, array &$formFields)
     {
         unset($formFields['image']);
@@ -70,7 +75,7 @@ class RoomController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(room $room)
+    public function show(Room $room)
     {
         return view('rooms.show', compact('room'));
     }
@@ -78,7 +83,7 @@ class RoomController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(room $room)
+    public function edit(Room $room)
     {
         //
     }
@@ -86,7 +91,7 @@ class RoomController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, room $room)
+    public function update(Request $request, Room $room)
     {
         //
     }
@@ -94,7 +99,7 @@ class RoomController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(room $room)
+    public function destroy(Room $room)
     {
         //
     }

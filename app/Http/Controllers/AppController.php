@@ -26,6 +26,11 @@ class AppController extends Controller
         $rooms = room::count();
         return view('admin.analytics',compact('rooms','user','reservation'));
     }
+    public function users()
+    {  
+        $users = Auths::all();
+        return view('admin.user',compact('users'));
+    }
     public function create()
     {
         //

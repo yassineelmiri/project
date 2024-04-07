@@ -1047,8 +1047,9 @@
                                             Print reservation ticket. </div>
                                     </div>
                                     <p class="return-to-shop">
-                                        <a class="button wc-backward" href="../rooms/index.html">
+                                        <a class="button wc-backward" href="{{ route('invoice.show' , $profile_id) }}">
                                             Download</a>
+                                            
                                     </p>
                                 </div>
                             </div><!-- .post-entry -->

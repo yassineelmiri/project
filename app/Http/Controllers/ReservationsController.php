@@ -38,17 +38,18 @@ class ReservationsController extends Controller
     $profile_id = Auth::id();
     $places = $request->adults + $request->children;
     $valider = "Non valider";
+    $existingReservations = reservations::where('rooms_id', $room_id)
+        ->get();
 
-    $existingReservation = reservations::where('profile_id', $profile_id)
-        ->where('rooms_id', $room_id)
-        ->first();
-
-    if ($existingReservation) {
-        return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé cette chambre.');
+    foreach ($existingReservations as $existingReservation) {
+        if ($existingReservation->checkout >= $request->checkin) {
+            return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé cette chambre.');
+        }
     }
+    
 
     $showRoom = room::where('id', $room_id)->first();
-
+    
     if ($places <= $showRoom->place) {
         $credentials = [
             'profile_id' => $profile_id,
@@ -59,7 +60,7 @@ class ReservationsController extends Controller
             'places' => $places
         ];
         reservations::create($credentials);
-        return view('reservation.cart');
+        return view('reservation.cart',compact('profile_id'));
     }
 
     return redirect()->route('rooms.index')->with('success', 'Le nombre de places n\'est pas suffisant.');
