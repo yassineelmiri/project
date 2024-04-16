@@ -9,27 +9,27 @@
 		<link rel="profile" href="http://gmpg.org/xfn/11">
 		<title>My account &#8211; CozyStay Apartment</title>
 <meta name='robots' content='max-image-preview:large, noindex, follow' />
-<link rel='stylesheet' id='loftocean-flaticons-css' href='../../wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602' type='text/css' media='all' />
+<link rel='stylesheet' id='loftocean-flaticons-css' href='../../talwind1/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602' type='text/css' media='all' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Feed" href="../../feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Comments Feed" href="../../comments/feed/index.html" />
 <script type="text/javascript">
 /* <![CDATA[ */
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cozystay.loftocean.com\/apartment\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cozystay.loftocean.com\/apartment\/talwind2\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 /* ]]> */
 </script>
 <link rel='stylesheet' id='cozystay-theme-google-fonts-css' href='https://fonts.googleapis.com/css?family=Marcellus%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%7CJost%3A400%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2023101601' type='text/css' media='all' />
-<link rel='stylesheet' id='slick-css' href='../../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css' href='../../wp-content/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elegant-font-css' href='../../wp-content/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css' href='../../wp-includes/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-general-css' href='../../wp-content/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-layout-css' href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='woocommerce-smallscreen-css' href='../../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css' media='only screen and (max-width: 768px)' />
-<link rel='stylesheet' id='cozystay-theme-style-css' href='../../wp-content/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css' media='all' />
-<link rel='stylesheet' id='cozystay-woocommerce-css' href='../../wp-content/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='../../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='../../talwind1/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant-font-css' href='../../talwind1/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='../../talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css' href='../../talwind1/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='../../talwind1/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='../../talwind1/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='cozystay-theme-style-css' href='../../talwind1/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css' media='all' />
+<link rel='stylesheet' id='cozystay-woocommerce-css' href='../../talwind1/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css' media='all' />
 <style id='cozystay-woocommerce-inline-css' type='text/css'>
 :root { --primary-color: #b99d75; --primary-color-semi: rgba(185, 157, 117, 0.3); --secondary-color: #53624e; --dark-bg-color: #151719; --dark-content-color: #cfcfcf; --btn-bg: #ab916c; --btn-bg-hover: #aa8b5f; --shf-color: var(--primary-color); } #page { --page-title-bg: #000000; --page-title-color: #ffffff; }.sidemenu .container { background-color: #000000; } .meta-wrap { color: var(--primary-color); } .cs-rooms .cs-room-content .item-subtitle, .room .post-header .item-subtitle { color: var(--primary-color); }
 </style>
@@ -58,42 +58,42 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='select2-css' href='../../wp-content/plugins/woocommerce/assets/css/select29b80.css?ver=8.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css' href='../../talwind1/plugins/woocommerce/assets/css/select29b80.css?ver=8.6.1' type='text/css' media='all' />
 <style id='woocommerce-inline-inline-css' type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='contact-form-7-css' href='../../wp-content/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-daterangepicker-css' href='../../wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='../../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='../../wp-content/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css' media='all' />
-<link rel='stylesheet' id='swiper-css' href='../../wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-5-css' href='../../wp-content/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='../../talwind1/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-daterangepicker-css' href='../../talwind1/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='../../talwind1/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='../../talwind1/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='../../talwind1/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='../../talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3' type='text/css' media='all' />
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="../../wp-content/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1" id="modernizr-js"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1" id="modernizr-js"></script>
 <!--[if lt IE 9]>
-<script type="text/javascript" src="https://cozystay.loftocean.com/apartment/wp-content/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3" id="html5shiv-js"></script>
+<script type="text/javascript" src="https://cozystay.loftocean.com/apartment/talwind1/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3" id="html5shiv-js"></script>
 <![endif]-->
-<script type="text/javascript" src="../../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="../../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="wc-add-to-cart-js-extra">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/apartment\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/apartment\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/cozystay.loftocean.com\/apartment\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min3204.js?ver=1.0.9-wc.8.6.1" id="selectWoo-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min3204.js?ver=1.0.9-wc.8.6.1" id="selectWoo-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"https:\/\/cozystay.loftocean.com\/apartment\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/cozystay.loftocean.com\/apartment\/talwind2\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-includes/js/zxcvbn-async.min5152.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0" id="regenerator-runtime-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" src="../../talwind2/js/zxcvbn-async.min5152.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/hooks.min2ebd.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/i18n.minf92f.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
 <script type="text/javascript" id="wp-i18n-js-after">
 /* <![CDATA[ */
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
@@ -110,15 +110,15 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 var wc_password_strength_meter_params = {"min_password_strength":"3","stop_checkout":"","i18n_password_error":"Please enter a stronger password.","i18n_password_hint":"Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min9b80.js?ver=8.6.1" id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/frontend/password-strength-meter.min9b80.js?ver=8.6.1" id="wc-password-strength-meter-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="woocommerce-js-extra">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/apartment\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/apartment\/?wc-ajax=%%endpoint%%"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min9b80.js?ver=8.6.1" id="wc-lost-password-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/frontend/lost-password.min9b80.js?ver=8.6.1" id="wc-lost-password-js" defer="defer" data-wp-strategy="defer"></script>
 <link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="alternate" type="application/json" href="../../wp-json/wp/v2/pages/1621.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
 <meta name="generator" content="WordPress 6.4.3" />
 <meta name="generator" content="WooCommerce 8.6.1" />
@@ -140,7 +140,7 @@ var woocommerce_params = {"ajax_url":"\/apartment\/wp-admin\/admin-ajax.php","wc
 
 	<body class="page page-id-1621 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-account woocommerce-page woocommerce-lost-password woocommerce-no-js elementor-default elementor-kit-5 page-template-default dark-color site-layout-fullwidth cs-form-square">
 				<div id="page">
-										<header id="masthead" class="site-header overlap-header" data-sticky-status="disable" >			<link rel="stylesheet" id="elementor-post-298-css" href="../../wp-content/uploads/sites/6/elementor/css/post-2984e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="298" class="elementor elementor-298">
+										<header id="masthead" class="site-header overlap-header" data-sticky-status="disable" >			<link rel="stylesheet" id="elementor-post-298-css" href="../../talwind1/uploads/sites/6/elementor/css/post-2984e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="298" class="elementor elementor-298">
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-6507caf elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6507caf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-no">
@@ -185,7 +185,7 @@ United States</a>						</div>
 				</div>
 				<div class="elementor-element elementor-element-93b4c8c elementor-widget__width-auto elementor-widget elementor-widget-cs_menu" data-id="93b4c8c" data-element_type="widget" data-widget_type="cs_menu.default">
 				<div class="elementor-widget-container">
-			<nav class="cs-menu main-navigation not-mobile-menu dropdown-dark"><ul id="menu-93b4c8c" class="menu primary-menu"><li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516"><a href="../../index.html"><span>Home</span></a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">expand child menu</span></button><div class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color"><div class="container">			<link rel="stylesheet" id="elementor-post-1727-css" href="../../wp-content/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="1727" class="elementor elementor-1727">
+			<nav class="cs-menu main-navigation not-mobile-menu dropdown-dark"><ul id="menu-93b4c8c" class="menu primary-menu"><li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516"><a href="../../index.html"><span>Home</span></a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">expand child menu</span></button><div class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color"><div class="container">			<link rel="stylesheet" id="elementor-post-1727-css" href="../../talwind1/uploads/sites/6/elementor/css/post-17274e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="1727" class="elementor elementor-1727">
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-1a0a2e11 cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a0a2e11" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-282236cf" data-id="282236cf" data-element_type="column">
@@ -193,7 +193,7 @@ United States</a>						</div>
 						<div class="elementor-element elementor-element-2629cbb2 elementor-widget elementor-widget-image" data-id="2629cbb2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="../../index.html">
-							<img fetchpriority="high" width="370" height="462" src="../../wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1731" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/apartment-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
+							<img fetchpriority="high" width="370" height="462" src="../../talwind1/uploads/sites/6/2023/08/apartment-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1731" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/apartment-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-38f7fdfc elementor-widget elementor-widget-cs_title" data-id="38f7fdfc" data-element_type="widget" data-widget_type="cs_title.default">
@@ -208,7 +208,7 @@ United States</a>						</div>
 						<div class="elementor-element elementor-element-1ca6b702 elementor-widget elementor-widget-image" data-id="1ca6b702" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://cozystay.loftocean.com/mountain-hotel/" target="_blank">
-							<img width="370" height="462" src="../../wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1729" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-hotel-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
+							<img width="370" height="462" src="../../talwind1/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1729" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-hotel-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-31a4fb6e elementor-widget elementor-widget-cs_title" data-id="31a4fb6e" data-element_type="widget" data-widget_type="cs_title.default">
@@ -223,7 +223,7 @@ United States</a>						</div>
 						<div class="elementor-element elementor-element-1d78df7c elementor-widget elementor-widget-image" data-id="1d78df7c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://cozystay.loftocean.com/island-resort/" target="_blank">
-							<img width="370" height="462" src="../../wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1730" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/island-resort-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
+							<img width="370" height="462" src="../../talwind1/uploads/sites/6/2023/08/island-resort-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1730" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/island-resort-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-47491867 elementor-widget elementor-widget-cs_title" data-id="47491867" data-element_type="widget" data-widget_type="cs_title.default">
@@ -238,7 +238,7 @@ United States</a>						</div>
 						<div class="elementor-element elementor-element-3412c55b elementor-widget elementor-widget-image" data-id="3412c55b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://cozystay.loftocean.com/countryside-lodge/" target="_blank">
-							<img loading="lazy" width="370" height="462" src="../../wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1732" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/countryside-lodge-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
+							<img loading="lazy" width="370" height="462" src="../../talwind1/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1732" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/countryside-lodge-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-3111f2ba elementor-widget elementor-widget-cs_title" data-id="3111f2ba" data-element_type="widget" data-widget_type="cs_title.default">
@@ -253,7 +253,7 @@ United States</a>						</div>
 						<div class="elementor-element elementor-element-2d966dec elementor-widget elementor-widget-image" data-id="2d966dec" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://cozystay.loftocean.com/mountain-chalet/" target="_blank">
-							<img loading="lazy" width="370" height="462" src="../../wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1733" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/mountain-chalet-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
+							<img loading="lazy" width="370" height="462" src="../../talwind1/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg" class="elementor-animation-float attachment-cozystay_370x9999 size-cozystay_370x9999 wp-image-1733" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-370x462.jpg 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-240x300.jpg 240w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-600x750.jpg 600w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-550x687.jpg 550w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-255x319.jpg 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home-120x150.jpg 120w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/mountain-chalet-home.jpg 750w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-2b59a8f elementor-widget elementor-widget-cs_title" data-id="2b59a8f" data-element_type="widget" data-widget_type="cs_title.default">
@@ -300,7 +300,7 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo" data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
 				<div class="elementor-widget-container">
-			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
+			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
 				</div>
 					</div>
 		</div>
@@ -337,7 +337,7 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-6dd6931f elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-cs_logo" data-id="6dd6931f" data-element_type="widget" data-widget_type="cs_logo.default">
 				<div class="elementor-widget-container">
-			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
+			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
 				</div>
 					</div>
 		</div>
@@ -354,7 +354,7 @@ United States</a>						</div>
 				</div>
 						</header>			<div id="content"  class="site-content">
 				    <header class="page-title-large page-title-section">
-        					<div class="page-title-bg page-title-default-background-image" style="background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: scroll; background-image: url(../../wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg);" data-loftocean-image="1" data-loftocean-normal-image="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg" data-loftocean-retina-image="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg" ></div>         <div class="container"><nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="https://cozystay.loftocean.com/apartment">Home</a>&nbsp;&#47;&nbsp;<a href="../index.html">My account</a>&nbsp;&#47;&nbsp;Lost password</nav>            <h1 class="entry-title">My account</h1>
+        					<div class="page-title-bg page-title-default-background-image" style="background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: scroll; background-image: url(../../talwind1/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg);" data-loftocean-image="1" data-loftocean-normal-image="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg" data-loftocean-retina-image="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/08/jean-philippe-delberghe-xrjusFfOksI-unsplash-3.jpg" ></div>         <div class="container"><nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="https://cozystay.loftocean.com/apartment">Home</a>&nbsp;&#47;&nbsp;<a href="../index.html">My account</a>&nbsp;&#47;&nbsp;Lost password</nav>            <h1 class="entry-title">My account</h1>
         </div>
             </header>
 <div class="main">
@@ -389,7 +389,7 @@ United States</a>						</div>
             </div> <!-- end of #content -->
                 <footer id="colophon" class="site-footer">
         					<div class="site-footer-main">
-						<div class="container">			<link rel="stylesheet" id="elementor-post-340-css" href="../../wp-content/uploads/sites/6/elementor/css/post-3404e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="340" class="elementor elementor-340">
+						<div class="container">			<link rel="stylesheet" id="elementor-post-340-css" href="../../talwind1/uploads/sites/6/elementor/css/post-3404e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="340" class="elementor elementor-340">
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-3dcd43c8 elementor-section-full_width cs-animation-small-offset elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="3dcd43c8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:200}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-no">
@@ -543,7 +543,7 @@ United States</a>						</div>
 		</div>
 					</div>                    </footer>                <a href="#" class="to-top"></a>                    </div> <!-- end of #page -->
 
-        				<div  class="sidemenu sidemenu-custom fade-in fullwidth">					<div class="container">						<div class="sidemenu-content">			<link rel="stylesheet" id="elementor-post-1058-css" href="../../wp-content/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
+        				<div  class="sidemenu sidemenu-custom fade-in fullwidth">					<div class="container">						<div class="sidemenu-content">			<link rel="stylesheet" id="elementor-post-1058-css" href="../../talwind1/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110" type="text/css" media="all">		<div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
 						<section class="elementor-section elementor-top-section elementor-element elementor-element-1517694b elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1517694b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-41df6ddd dark-color" data-id="41df6ddd" data-element_type="column">
@@ -591,7 +591,7 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-44cf5926 elementor-align-center elementor-widget elementor-widget-cs_logo" data-id="44cf5926" data-element_type="widget" data-widget_type="cs_logo.default">
 				<div class="elementor-widget-container">
-			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
+			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
 				</div>
 					</div>
 		</div>
@@ -627,7 +627,7 @@ United States</a>						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-1f46ec06 elementor-align-center elementor-widget elementor-widget-cs_logo" data-id="1f46ec06" data-element_type="widget" data-widget_type="cs_logo.default">
 				<div class="elementor-widget-container">
-			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../wp-content/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
+			                <a href="../../index.html">                    <img loading="lazy" width="255" height="51" src="../../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png" class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174" alt="" srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w" sizes="(max-width: 255px) 100vw, 255px" />                </a>		</div>
 				</div>
 					</div>
 		</div>
@@ -800,98 +800,98 @@ for (let j = 0; j < urlFields.length; j++) {
 			document.body.className = c;
 		})();
 	</script>
-	<link rel='stylesheet' id='justified-gallery-css' href='../../wp-content/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3' type='text/css' media='all' />
-<link rel='stylesheet' id='e-animations-css' href='../../wp-content/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css' media='all' />
+	<link rel='stylesheet' id='justified-gallery-css' href='../../talwind1/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='e-animations-css' href='../../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css' media='all' />
 <link rel='stylesheet' id='google-fonts-2-css' href='https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css' href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='../../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1" id="sourcebuster-js-js"></script>
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='../../talwind1/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='../../talwind1/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='../../talwind1/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css' media='all' />
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1" id="sourcebuster-js-js"></script>
 <script type="text/javascript" id="wc-order-attribution-js-extra">
 /* <![CDATA[ */
 var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"ajaxurl":"https:\/\/cozystay.loftocean.com\/apartment\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1" id="wc-order-attribution-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7" id="swv-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7" id="swv-js"></script>
 <script type="text/javascript" id="contact-form-7-js-extra">
 /* <![CDATA[ */
 var wpcf7 = {"api":{"root":"https:\/\/cozystay.loftocean.com\/apartment\/wp-json\/","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7" id="contact-form-7-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="../../talwind2/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
 <script type="text/javascript" id="moment-js-after">
 /* <![CDATA[ */
 moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602" id="jquery-daterangepicker-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602" id="jquery-daterangepicker-js"></script>
 <script type="text/javascript" id="loftocean-front-media-js-extra">
 /* <![CDATA[ */
 var loftoceanImageLoad = {"lazyLoadEnabled":"","reservation":{"room":{"single":"Room","plural":"Rooms"},"adult":{"single":"Adult","plural":"Adults"},"child":{"single":"Child","plural":"Children"}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602" id="loftocean-front-media-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602" id="loftocean-front-media-js"></script>
+<script type="text/javascript" src="../../talwind2/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="../../talwind2/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
 <script type="text/javascript" id="wp-api-request-js-extra">
 /* <![CDATA[ */
 var wpApiSettings = {"root":"https:\/\/cozystay.loftocean.com\/apartment\/wp-json\/","nonce":"7d16bfc836","versionString":"wp\/v2\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
+<script type="text/javascript" src="../../talwind2/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
+<script type="text/javascript" src="../../talwind2/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
 <script type="text/javascript" id="loftocean-post-metas-js-extra">
 /* <![CDATA[ */
 var loftoceanSocialAjax = {"url":"https:\/\/cozystay.loftocean.com\/apartment\/wp-admin\/admin-ajax.php","like":{"action":"loftocean_post_like"},"social":{"action":"loftocean_social_counter"},"loadPostMetasDynamically":"","currentPostID":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602" id="loftocean-post-metas-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602" id="loftocean-post-metas-js"></script>
 <script type="text/javascript" id="loftocean-video-player-js-extra">
 /* <![CDATA[ */
 var loftoceanFullscreenVideos = {"videos":[],"wrapClass":"loftocean-media-wrapper loftocean-media-fullscreen-playing"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602" id="loftocean-video-player-js"></script>
-<script type="text/javascript" defer src="../../wp-content/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11" id="mc4wp-forms-api-js"></script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8" id="slick-js"></script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1" id="jquery-fitvids-js"></script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5" id="justified-gallery-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602" id="loftocean-video-player-js"></script>
+<script type="text/javascript" defer src="../../talwind1/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11" id="mc4wp-forms-api-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8" id="slick-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1" id="jquery-fitvids-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5" id="justified-gallery-js"></script>
 <script type="text/javascript" id="cozystay-helper-js-extra">
 /* <![CDATA[ */
 var cozystayHelper = {"siteURL":"https:\/\/cozystay.loftocean.com\/apartment\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601" id="cozystay-helper-js"></script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601" id="cozystay-animations-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601" id="cozystay-helper-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601" id="cozystay-animations-js"></script>
 <script type="text/javascript" id="cozystay-theme-script-js-extra">
 /* <![CDATA[ */
 var cozystay = {"errorText":{"noMediaFound":"No image found"},"woocommerceProductFilterAjaxEnabled":"","onepagemenus":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601" id="cozystay-theme-script-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="../../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6" id="swiper-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4" id="share-link-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0" id="elementor-dialog-js"></script>
+<script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601" id="cozystay-theme-script-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="../../talwind2/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6" id="swiper-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4" id="share-link-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0" id="elementor-dialog-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.4","is_static":false,"experimentalFeatures":{"block_editor_assets_optimize":true,"ai-layout":true,"e_image_loading_optimization":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/cozystay.loftocean.com\/apartment\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1621,"title":"My%20account%20%E2%80%93%20CozyStay%20Apartment","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.4","is_static":false,"experimentalFeatures":{"block_editor_assets_optimize":true,"ai-layout":true,"e_image_loading_optimization":true,"e_global_styleguide":true},"urls":{"assets":"https:\/\/cozystay.loftocean.com\/apartment\/talwind1\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1621,"title":"My%20account%20%E2%80%93%20CozyStay%20Apartment","excerpt":"","featuredImage":false}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4" id="elementor-frontend-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4" id="preloaded-modules-js"></script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602" id="loftocean-parallax-bundle-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4" id="preloaded-modules-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602" id="loftocean-parallax-bundle-js"></script>
 <script type="text/javascript" id="loftocean-elementor-frontend-js-extra">
 /* <![CDATA[ */
 var loftoceanElementorFront = {"countDown":{"days":"Days","hours":"Hours","min":"Minutes","sec":"Seconds"},"reservation":{"room":{"single":"Room","plural":"Rooms"},"adult":{"single":"Adult","plural":"Adults"},"child":{"single":"Child","plural":"Children"}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="../../wp-content/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602" id="loftocean-elementor-frontend-js"></script>
+<script type="text/javascript" src="../../talwind1/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602" id="loftocean-elementor-frontend-js"></script>
             </body>
 
 <!-- Mirrored from cozystay.loftocean.com/apartment/my-account/lost-password/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 20 Mar 2024 18:06:38 GMT -->

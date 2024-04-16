@@ -13,7 +13,7 @@ class AuthRequest extends FormRequest
      */
     public function authorize()
     {
-        return true; // Par défaut, vous pouvez modifier cela en fonction de vos besoins d'autorisation.
+        return true;
     }
 
   
@@ -34,7 +34,7 @@ class AuthRequest extends FormRequest
             ];
         }
         
-        return []; // Valeur de retour par défaut lorsque aucune condition ne correspond
+        return [];
     }
     
 

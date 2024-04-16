@@ -51,8 +51,14 @@ class AuthController extends Controller
         $password = $request->password;
 
         $credentials = ['email' => $email, 'password' => $password];
+        
+        $user = Auths::where('email', $email)->first();
+
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
+            if ($user === null) {
+                return view('404.404');
+            }
             switch (auth()->user()->role) {
                 case "employe":
                     $request->session()->regenerate();
@@ -78,6 +84,7 @@ class AuthController extends Controller
                 'email' => 'Email ou mot de pass incorrect'
             ])->onlyInput('email');
         }
+       
 
     }
     public function logout()
@@ -115,8 +122,11 @@ class AuthController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Auth $auth)
+    public function destroy(Request $request)
     {
-        //
+        $delete = Auths::where('id', $request->user)->firstOrFail();
+        $delete->delete();
+        return to_route('admin.users')->with('success', 'Vous étes bien supprimer.');
+        
     }
 }

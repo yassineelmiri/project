@@ -39,16 +39,16 @@
     })();
 </script>
 <link rel='stylesheet' id='justified-gallery-css'
-    href='../wp-content/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
+    href='../talwind1/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
     type='text/css' media='all' />
 <link rel='stylesheet' id='e-animations-css'
-    href='../wp-content/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css'
+    href='../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css'
     media='all' />
 <link rel='stylesheet' id='google-fonts-2-css'
     href='https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
     type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-    href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css'
+    href='../talwind1/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css'
     media='all' />
 <script type="text/javascript" id="cozystay-helper-js-extra">
     /* <![CDATA[ */
@@ -57,12 +57,12 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
+<script type="text/javascript" src="../talwind1/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
     id="cozystay-helper-js"></script>
-<script type="text/javascript" src="../wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
+<script type="text/javascript" src="../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
     id="slick-js"></script>
 <script type="text/javascript"
-    src="../wp-content/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
+    src="../talwind1/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
     id="cozystay-animations-js"></script>
 <script type="text/javascript" id="loftocean-video-player-js-extra">
     /* <![CDATA[ */
@@ -73,12 +73,12 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/video-player.min4ae5.js?ver=2023101602"
     id="loftocean-video-player-js"></script>
 <script type="text/javascript"
-    src="../wp-content/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5"
+    src="../talwind1/themes/cozystay/assets/libs/justified-gallery/jquery.justifiedGallery.min3ab2.js?ver=3.6.5"
     id="justified-gallery-js"></script>
-<script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1"
+<script type="text/javascript" src="../talwind1/themes/cozystay/assets/scripts/libs/jquery.fitvids.min4963.js?ver=1.1"
     id="jquery-fitvids-js"></script>
 <script type="text/javascript" id="cozystay-theme-script-js-extra">
     /* <![CDATA[ */
@@ -91,7 +91,7 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-content/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
+<script type="text/javascript" src="../talwind1/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
     id="cozystay-theme-script-js"></script>
 <script type="text/javascript" id="cozystay-ajax-navigation-js-extra">
     /* <![CDATA[ */
@@ -121,10 +121,10 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/themes/cozystay/assets/scripts/front/ajax-navigation.min797f.js?ver=2023101601"
+    src="../talwind1/themes/cozystay/assets/scripts/front/ajax-navigation.min797f.js?ver=2023101601"
     id="cozystay-ajax-navigation-js"></script>
 <script type="text/javascript"
-    src="../wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1"
+    src="../talwind1/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1"
     id="sourcebuster-js-js"></script>
 <script type="text/javascript" id="wc-order-attribution-js-extra">
     /* <![CDATA[ */
@@ -155,9 +155,9 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1"
+    src="../talwind1/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1"
     id="wc-order-attribution-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7"
+<script type="text/javascript" src="../talwind1/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7"
     id="swv-js"></script>
 <script type="text/javascript" id="contact-form-7-js-extra">
     /* <![CDATA[ */
@@ -169,9 +169,9 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-content/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
+<script type="text/javascript" src="../talwind1/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
     id="contact-form-7-js"></script>
-<script type="text/javascript" src="../wp-includes/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
+<script type="text/javascript" src="../talwind2/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
 <script type="text/javascript" id="moment-js-after">
     /* <![CDATA[ */
     moment.updateLocale('en_US', {
@@ -196,7 +196,7 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.min4ae5.js?ver=2023101602"
     id="jquery-daterangepicker-js"></script>
 <script type="text/javascript" id="loftocean-front-media-js-extra">
     /* <![CDATA[ */
@@ -220,10 +220,10 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/front-media.min4ae5.js?ver=2023101602"
     id="loftocean-front-media-js"></script>
-<script type="text/javascript" src="../wp-includes/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
-<script type="text/javascript" src="../wp-includes/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="../talwind2/js/underscore.mind584.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" src="../talwind2/js/backbone.min91ce.js?ver=1.5.0" id="backbone-js"></script>
 <script type="text/javascript" id="wp-api-request-js-extra">
     /* <![CDATA[ */
     var wpApiSettings = {
@@ -233,8 +233,8 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-includes/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
-<script type="text/javascript" src="../wp-includes/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
+<script type="text/javascript" src="../talwind2/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
+<script type="text/javascript" src="../talwind2/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
 <script type="text/javascript" id="loftocean-post-metas-js-extra">
     /* <![CDATA[ */
     var loftoceanSocialAjax = {
@@ -251,10 +251,10 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/post-metas.min4ae5.js?ver=2023101602"
     id="loftocean-post-metas-js"></script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/libs/lightbox/simple-lightbox.min80e2.js?ver=2.13.0"
+    src="../talwind1/plugins/cozystay-core/assets/libs/lightbox/simple-lightbox.min80e2.js?ver=2.13.0"
     id="loftocean-lightbox-script-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
     /* <![CDATA[ */
@@ -265,7 +265,7 @@
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-includes/js/wp-util.min84fc.js?ver=6.4.3" id="wp-util-js"></script>
+<script type="text/javascript" src="../talwind2/js/wp-util.min84fc.js?ver=6.4.3" id="wp-util-js"></script>
 <script type="text/javascript" id="loftocean-room-reservation-js-extra">
     /* <![CDATA[ */
     var loftoceanRoomReservation = {
@@ -10620,27 +10620,27 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/room-reservation.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/room-reservation.min4ae5.js?ver=2023101602"
     id="loftocean-room-reservation-js"></script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/facebook-jssdk.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/facebook-jssdk.min4ae5.js?ver=2023101602"
     id="loftocean-facebook-js"></script>
-<script type="text/javascript" defer src="../wp-content/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11"
+<script type="text/javascript" defer src="../talwind1/plugins/mailchimp-for-wp/assets/js/forms433d.js?ver=4.9.11"
     id="mc4wp-forms-api-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/js/webpack.runtime.min6e54.js?ver=3.19.4"
     id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/js/frontend-modules.min6e54.js?ver=3.19.4"
     id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
     id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
+<script type="text/javascript" src="../talwind2/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
 </script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6"
     id="swiper-js"></script>
 <script type="text/javascript"
-    src="../wp-content/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4" id="share-link-js">
+    src="../talwind1/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4" id="share-link-js">
 </script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/lib/dialog/dialog.mind227.js?ver=4.9.0"
     id="elementor-dialog-js"></script>
 <script type="text/javascript" id="elementor-frontend-js-before">
     /* <![CDATA[ */
@@ -10734,7 +10734,7 @@
             "e_global_styleguide": true
         },
         "urls": {
-            "assets": "https:\/\/cozystay.loftocean.com\/apartment\/wp-content\/plugins\/elementor\/assets\/"
+            "assets": "https:\/\/cozystay.loftocean.com\/apartment\/talwind1\/plugins\/elementor\/assets\/"
         },
         "swiperClass": "swiper-container",
         "settings": {
@@ -10755,17 +10755,17 @@
             "id": 1374,
             "title": "Studio%20King%20%E2%80%93%20CozyStay%20Apartment",
             "excerpt": "Welcome to your urban oasis inspired by the natural beauty and calming energy of Central Park. Relax on your private terrace or snuggle up in your king size bed and take in the views of Central Park.",
-            "featuredImage": "https:\/\/cozystay.loftocean.com\/apartment\/wp-content\/uploads\/sites\/6\/2023\/05\/spacejoy-YqFz7UMm8qE-unsplash-1024x683.jpg"
+            "featuredImage": "https:\/\/cozystay.loftocean.com\/apartment\/talwind1\/uploads\/sites\/6\/2023\/05\/spacejoy-YqFz7UMm8qE-unsplash-1024x683.jpg"
         }
     };
     /* ]]> */
 </script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
     id="elementor-frontend-js"></script>
-<script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
+<script type="text/javascript" src="../talwind1/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
     id="preloaded-modules-js"></script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
     id="loftocean-parallax-bundle-js"></script>
 <script type="text/javascript" id="loftocean-elementor-frontend-js-extra">
     /* <![CDATA[ */
@@ -10794,7 +10794,7 @@
     /* ]]> */
 </script>
 <script type="text/javascript"
-    src="../wp-content/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602"
+    src="../talwind1/plugins/cozystay-core/assets/scripts/front/elementor.min4ae5.js?ver=2023101602"
     id="loftocean-elementor-frontend-js"></script>
 <script id="tmpl-loftocean-room-price-details" type="text/template">
     <ul>

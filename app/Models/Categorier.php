@@ -6,18 +6,11 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Auths extends Model
+class categorier extends Model
 {
-    use HasFactory;
-    use SoftDeletes;
-
-
+    use HasFactory, SoftDeletes;
     protected $date = ['created_at'];
     protected $fillable = [
         'name',
-        'email',
-        'password',
-        'date',
-        'role'
     ];
 }

@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Auths;
+use App\Models\categorier;
 use App\Models\reservations;
 use App\Models\room;
 use Illuminate\Http\Request;
@@ -31,12 +32,25 @@ class AppController extends Controller
         $users = Auths::all();
         return view('admin.user',compact('users'));
     }
-    public function create()
+    public function categorier()
+    {  
+        $categorier = categorier::all();
+        return view('admin.categorier',compact('categorier'));
+    }
+
+    public function validation()
     {
-        //
+        $rooms = room::all();
+        return view('admin.chamber',compact('rooms'));
+        
     }
     public function store(Request $request)
     {
+        $formFields = $request->validate([
+            'name' => 'required|string|max:255',
+        ]);
+        categorier::create($formFields);
+        return redirect()->route('admin.categorier')->with('success', 'Votre categorier a bien été crée.');
        
     }
     public function show(reservations $reservations)

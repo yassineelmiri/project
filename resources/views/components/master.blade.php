@@ -8,7 +8,7 @@
     <title>CozyStay &#8211; CozyStay Apartment</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='stylesheet' id='loftocean-flaticons-css'
-        href='wp-content/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
+        href='talwind1/plugins/cozystay-core/assets/libs/flaticon-font/flaticon_hotel.min4ae5.css?ver=2023101602'
         type='text/css' media='all' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel="alternate" type="application/rss+xml" title="CozyStay Apartment &raquo; Feed" href="feed/index.html" />
@@ -22,7 +22,7 @@
             "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
             "svgExt": ".svg",
             "source": {
-                "concatemoji": "https:\/\/cozystay.loftocean.com\/apartment\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"
+                "concatemoji": "https:\/\/cozystay.loftocean.com\/apartment\/talwind2\/js\/wp-emoji-release.min.js?ver=6.4.3"
             }
         };
         /*! This file is auto-generated */
@@ -136,29 +136,29 @@
     <link rel='stylesheet' id='cozystay-theme-google-fonts-css'
         href='https://fonts.googleapis.com/css?family=Marcellus%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%7CJost%3A400%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2023101601'
         type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css' href='wp-content/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8'
+    <link rel='stylesheet' id='slick-css' href='talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8'
         type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css'
-        href='wp-content/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
+        href='talwind1/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elegant-font-css'
-        href='wp-content/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
+        href='talwind1/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
     <link rel='stylesheet' id='wp-block-library-css'
-        href='wp-includes/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+        href='talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-general-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
+        href='talwind1/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-layout-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css'
+        href='talwind1/plugins/woocommerce/assets/css/woocommerce-layout9b80.css?ver=8.6.1' type='text/css'
         media='all' />
     <link rel='stylesheet' id='woocommerce-smallscreen-css'
-        href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css'
+        href='talwind1/plugins/woocommerce/assets/css/woocommerce-smallscreen9b80.css?ver=8.6.1' type='text/css'
         media='only screen and (max-width: 768px)' />
     <link rel='stylesheet' id='cozystay-theme-style-css'
-        href='wp-content/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css'
+        href='talwind1/themes/cozystay/assets/styles/front/main.min797f.css?ver=2023101601' type='text/css'
         media='all' />
     <link rel='stylesheet' id='cozystay-woocommerce-css'
-        href='wp-content/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css'
+        href='talwind1/themes/cozystay/assets/styles/front/shop.min797f.css?ver=2023101601' type='text/css'
         media='all' />
     <style id='cozystay-woocommerce-inline-css' type='text/css'>
         :root {
@@ -594,37 +594,37 @@
         }
     </style>
     <link rel='stylesheet' id='contact-form-7-css'
-        href='wp-content/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css' media='all' />
+        href='talwind1/plugins/contact-form-7/includes/css/styles38d6.css?ver=5.8.7' type='text/css' media='all' />
     <link rel='stylesheet' id='jquery-daterangepicker-css'
-        href='wp-content/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1'
+        href='talwind1/plugins/cozystay-core/assets/libs/daterangepicker/daterangepicker.minb12b.css?ver=3.1.1'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-css'
-        href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0' type='text/css'
+        href='talwind1/plugins/elementor/assets/lib/eicons/css/elementor-icons.mind54b.css?ver=5.29.0' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-frontend-css'
-        href='wp-content/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css'
+        href='talwind1/plugins/elementor/assets/css/frontend.min6e54.css?ver=3.19.4' type='text/css'
         media='all' />
     <link rel='stylesheet' id='swiper-css'
-        href='wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
+        href='talwind1/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-5-css'
-        href='wp-content/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
+        href='talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-150-css'
-        href='wp-content/uploads/sites/6/elementor/css/post-1509a1d.css?ver=1707315433' type='text/css'
+        href='talwind1/uploads/sites/6/elementor/css/post-1509a1d.css?ver=1707315433' type='text/css'
         media='all' />
     <link rel='stylesheet' id='google-fonts-1-css'
         href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
         type='text/css' media='all' />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-    <script type="text/javascript" src="wp-content/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
+    <script type="text/javascript" src="talwind1/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
         id="modernizr-js"></script>
 
-    <script type="text/javascript" src="wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
+    <script type="text/javascript" src="talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+    <script type="text/javascript" src="talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
     </script>
     <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
+        src="talwind1/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
         id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="wc-add-to-cart-js-extra">
         /* <![CDATA[ */
@@ -638,10 +638,10 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
+    <script type="text/javascript" src="talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
         id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
-        src="wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js"
+        src="talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js"
         defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="woocommerce-js-extra">
         /* <![CDATA[ */
@@ -651,7 +651,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1"
+    <script type="text/javascript" src="talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1"
         id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/150.json" />

@@ -18,9 +18,13 @@ Route::resource('reservation', ReservationsController::class);
 
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
+
+Route::post('/admin/ajouter', [AppController::class, 'store'])->name('categorier.ajouter');
 Route::get('/panier', [AppController::class, 'panier'])->name('panier');
 Route::get('/admin/analytics', [AppController::class, 'index'])->name('admin.analytics');
 Route::get('/admin/users', [AppController::class, 'users'])->name('admin.users');
+Route::get('/admin/categorier', [AppController::class, 'categorier'])->name('admin.categorier');
+Route::get('/admin/validation', [AppController::class, 'validation'])->name('admin.validation');
 
 Route::post('/filtre', [RoomController::class, 'filtre'])->name('filtre');
 
