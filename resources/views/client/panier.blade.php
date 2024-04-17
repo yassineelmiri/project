@@ -629,7 +629,7 @@
         id="modernizr-js"></script>
     <!--[if lt IE 9]>
 <script type="text/javascript"
-    src="https://cozystay.loftocean.com/apartment/talwind1/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3"
+    src="https://cozystay.loftocean.com/apartment/wp-content/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3"
     id="html5shiv-js"></script>
 <![endif]-->
     <script type="text/javascript" src="../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
@@ -879,7 +879,7 @@
                                                 src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
-                                                srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w"
+                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
                                                 sizes="(max-width: 255px) 100vw, 255px" /> </a>
                                     </div>
                                 </div>
@@ -950,7 +950,7 @@
                                                 src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                 class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                 alt=""
-                                                srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w"
+                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
                                                 sizes="(max-width: 255px) 100vw, 255px" /> </a>
                                     </div>
                                 </div>
@@ -1514,7 +1514,7 @@
                                                     src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                     class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                     alt=""
-                                                    srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w"
+                                                    srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
                                                     sizes="(max-width: 255px) 100vw, 255px" /> </a>
                                         </div>
                                     </div>
@@ -1577,7 +1577,7 @@
                                                     src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
                                                     class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
                                                     alt=""
-                                                    srcset="https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/talwind1/uploads/sites/6/2023/03/logo-3.png 457w"
+                                                    srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
                                                     sizes="(max-width: 255px) 100vw, 255px" /> </a>
                                         </div>
                                     </div>

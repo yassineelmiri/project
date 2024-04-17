@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Auths;
 use App\Models\categorier;
+use App\Models\reclamation;
 use App\Models\reservations;
 use App\Models\room;
 use Illuminate\Http\Request;
@@ -41,9 +42,17 @@ class AppController extends Controller
     public function validation()
     {
         $rooms = room::all();
-        return view('admin.chamber',compact('rooms'));
+        $types = categorier::all();
+        return view('admin.chamber',compact('rooms','types'));
         
     }
+    public function reclamation()
+    {
+        $reclamations = reclamation::all();
+        return view('admin.reclamation',compact('reclamations'));
+       
+    }
+
     public function store(Request $request)
     {
         $formFields = $request->validate([

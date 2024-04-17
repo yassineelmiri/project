@@ -810,12 +810,12 @@
                             <div class="card" id="usersTable">
                                 <div class="card-body">
                                     <div class="flex items-center">
-                                        <h6 class="text-15 grow">Users List</h6>
+                                        <h6 class="text-15 grow">Chamber List</h6>
                                         <div class="shrink-0">
                                             <button data-modal-target="addUserModal" type="button"
                                                 class="text-white btn bg-custom-500 border-custom-500 hover:text-white hover:bg-custom-600 hover:border-custom-600 focus:text-white focus:bg-custom-600 focus:border-custom-600 focus:ring focus:ring-custom-100 active:text-white active:bg-custom-600 active:border-custom-600 active:ring active:ring-custom-100 dark:ring-custom-400/20"><i
                                                     data-lucide="plus" class="inline-block size-4"></i> <span
-                                                    class="align-middle">Add Categorier</span></button>
+                                                    class="align-middle">Add Chamber</span></button>
                                         </div>
                                     </div>
                                 </div>
@@ -826,7 +826,7 @@
                                             <div class="relative xl:col-span-2">
                                                 <input type="text"
                                                     class="ltr:pl-8 rtl:pr-8 search form-input border-slate-200 dark:border-zink-500 focus:outline-none focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
-                                                    placeholder="Search for name, email, phone number etc..."
+                                                    placeholder="Search for titer, type, étage etc..."
                                                     autocomplete="off">
                                                 <i data-lucide="search"
                                                     class="inline-block size-4 absolute ltr:left-2.5 rtl:right-2.5 top-2.5 text-slate-500 dark:text-zink-200 fill-slate-100 dark:fill-zink-600"></i>
@@ -1346,26 +1346,78 @@
         class="fixed flex flex-col hidden transition-all duration-300 ease-in-out left-2/4 z-drawer -translate-x-2/4 -translate-y-2/4 show ">
         <div class="w-screen md:w-[30rem] bg-white shadow rounded-md dark:bg-zink-600">
             <div class="flex items-center justify-between p-4 border-b dark:border-zink-300/20">
-                <h5 class="text-16">Add Categorier</h5>
+                <h5 class="text-16">Add Chamber</h5>
                 <button data-modal-close="addUserModal"
                     class="transition-all duration-200 ease-linear text-slate-400 hover:text-red-500"><i
                         data-lucide="x" class="size-5"></i></button>
             </div>
             <div class="max-h-[calc(theme('height.screen')_-_180px)] p-4 overflow-y-auto">
-                <form action="#" method="POST">
+                <form
+                                        class="woocommerce-form woocommerce-form-login login elementor-container elementor-column-gap"
+                                        action="{{ route('rooms.store') }}" method="post" enctype="multipart/form-data">
+                                       
                     @csrf
                     <div class="mb-3">
-                        <label class="inline-block mb-2 text-base font-medium">Name Categorier</label>
+                        <label class="inline-block mb-2 text-base font-medium">Name chamber</label>
                         <input type="text" name="name"
                             class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
                             required>
                     </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Type de Categore</label>
+                        <select name="type" class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200" >
+                            @foreach ($types as $type)
+                            <option value="{{ $type->name }}">{{ $type->name }}</option>
+                            @endforeach
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Surface</label>
+                        <input type="number" name="surface"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Place</label>
+                        <input type="number" name="place"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">étage</label>
+                        <input type="number" name="etage"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Prix</label>
+                        <input type="number" name="prix"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Image</label>
+                        <input type="file" name="image"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                    <div class="mb-3">
+                        <label class="inline-block mb-2 text-base font-medium">Description</label>
+                        <input type="text" name="description"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            required>
+                    </div>
+                 
+                        <input type="hidden" name="profile_id" value="{{ auth()->user()->id }}"
+                            class="form-input border-slate-200 dark:border-zink-500  focus:border-custom-500 disabled:bg-slate-100 dark:disabled:bg-zink-600 disabled:border-slate-300 dark:disabled:border-zink-500 dark:disabled:text-zink-200 disabled:text-slate-500 dark:text-zink-100 dark:bg-zink-700 dark:focus:border-custom-800 placeholder:text-slate-400 dark:placeholder:text-zink-200"
+                            >
+               
                     <div class="flex justify-end gap-2 mt-4">
                         <button type="reset" data-modal-close="addDocuments"
                             class="text-red-500 transition-all duration-200 ease-linear bg-white border-white btn hover:text-red-600 focus:text-red-600 active:text-red-600 dark:bg-zink-500 dark:border-zink-500">Cancel</button>
                         <button type="submit"
                             class="text-white transition-all duration-200 ease-linear btn bg-custom-500 border-custom-500 hover:text-white hover:bg-custom-600 hover:border-custom-600 focus:text-white focus:bg-custom-600 focus:border-custom-600 focus:ring focus:ring-custom-100 active:text-white active:bg-custom-600 active:border-custom-600 active:ring active:ring-custom-100 dark:ring-custom-400/20">Add
-                            room</button>
+                            Chamber</button>
                     </div>
                 </form>
             </div>

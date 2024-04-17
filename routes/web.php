@@ -16,6 +16,9 @@ Route::resource('auth', AuthController::class);
 Route::resource('rooms', RoomController::class);
 Route::resource('reservation', ReservationsController::class);
 
+
+
+
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 
@@ -24,9 +27,12 @@ Route::get('/panier', [AppController::class, 'panier'])->name('panier');
 Route::get('/admin/analytics', [AppController::class, 'index'])->name('admin.analytics');
 Route::get('/admin/users', [AppController::class, 'users'])->name('admin.users');
 Route::get('/admin/categorier', [AppController::class, 'categorier'])->name('admin.categorier');
-Route::get('/admin/validation', [AppController::class, 'validation'])->name('admin.validation');
+Route::get('/admin/chamber', [AppController::class, 'validation'])->name('admin.validation');
+Route::get('/admin/reclamation', [AppController::class, 'reclamation'])->name('admin.reclamation');
+
 
 Route::post('/filtre', [RoomController::class, 'filtre'])->name('filtre');
+Route::post('/Reclamation', [RoomController::class, 'ReclamationChamber'])->name('reclamation.chamber');
 
 Route::get('/contact', [NextController::class, 'contact'])->name('contact');
 Route::get('/print{profile_id}',[NextController::class,'print'])->name('invoice.print');

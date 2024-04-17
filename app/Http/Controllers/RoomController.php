@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\reclamation;
 use App\Models\Room;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
@@ -16,6 +17,20 @@ class RoomController extends Controller
         $rooms = Room::all();
         return view('rooms.index', compact('rooms'));
     }
+    public function ReclamationChamber(Request $request)
+    {
+        
+        $formFields = $request->validate([
+            'description' => 'required|string|max:255',
+            'email' => 'required',
+        ]);
+        $formFields['profile_id'] = Auth::id();
+        reclamation::create($formFields);
+
+        return redirect()->route('rooms.index')->with('success', 'La reclamation a été envoier.');
+    }
+
+
 
     /**
      * Filter rooms based on type and number of guests.
