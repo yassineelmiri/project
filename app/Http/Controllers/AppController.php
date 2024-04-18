@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Auth;
 
 class AppController extends Controller
 {
+    
     public function panier()
     {
         $reservations = reservations::where('profile_id', Auth::id())->get();
