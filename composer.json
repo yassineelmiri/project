@@ -6,6 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "barryvdh/laravel-dompdf": "^2.1",
         "carlos-meneses/laravel-mpdf": "*",
         "dompdf/dompdf": "*",
         "laravel/framework": "^11.0",

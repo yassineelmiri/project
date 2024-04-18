@@ -1043,8 +1043,8 @@
                                         <div class="cart-empty woocommerce-info">
                                             Print reservation ticket. </div>
                                     </div>
-                                    <p class="return-to-shop">
-                                        <a class="button wc-backward" href="{{ route('invoice.show', $profile_id) }}">
+                                    <p class="return-to-shop" id="yassine">
+                                        <a class="button wc-backward" href="{{ route('generate-pdf') }}">
                                             Download</a>
 
                                     </p>
