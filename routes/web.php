@@ -29,6 +29,7 @@ Route::get('/admin/users', [AppController::class, 'users'])->name('admin.users')
 Route::get('/admin/categorier', [AppController::class, 'categorier'])->name('admin.categorier');
 Route::get('/admin/chamber', [AppController::class, 'validation'])->name('admin.validation');
 Route::get('/admin/reclamation', [AppController::class, 'reclamation'])->name('admin.reclamation');
+Route::get('/admin/reservation', [AppController::class, 'reservation'])->name('admin.reservation');
 
 
 Route::post('/filtre', [RoomController::class, 'filtre'])->name('filtre');
