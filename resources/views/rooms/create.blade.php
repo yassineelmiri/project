@@ -825,15 +825,12 @@
                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
                                                                 <a href="{{ route('panier') }}"><span>Panier</span></a>
                                                             </li>
-
-
                                                             <li id="menu-item-523"
                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
                                                                 <a
                                                                     href="{{ route('reservation.show', auth()->user()->id) }}"><span>profile
                                                                         &#038;</span></a>
                                                             </li>
-
                                                         @endauth
                                                         <li id="menu-item-524"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">

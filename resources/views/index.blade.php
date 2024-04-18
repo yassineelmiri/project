@@ -992,7 +992,7 @@
                                                                         luxury apartment hotel in Times Square</span>
                                                                 </div>
                                                                 <h1 class="cs-title">
-                                                                    Your Next Boutique Apartments </h1>
+                                                                    Your Next HOTEL FUTUR</h1>
                                                             </div>
                                                         </div>
                                                     </div>
