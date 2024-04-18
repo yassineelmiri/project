@@ -148,8 +148,8 @@
     <link rel='stylesheet' id='elegant-font-css'
         href='talwind1/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-general-css'
         href='talwind1/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-layout-css'
@@ -612,8 +612,7 @@
         href='talwind1/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-5-css'
-        href='talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
-        media='all' />
+        href='talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-150-css'
         href='talwind1/uploads/sites/6/elementor/css/post-1509a1d.css?ver=1707315433' type='text/css'
         media='all' />
@@ -785,21 +784,25 @@
                                                 </li>
                                                 <li id="menu-item-1037"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
-                                                    <a href="index.html" aria-current="page"><span>Rooms</span></a>
+                                                    <a href="index.html" aria-current="page"><span>Chamber</span></a>
                                                     <button class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
+                                                        @auth                                                            
+                                                        @if (auth()->user()->role === 'Administrateur')                                                  
+                                                        <li id="menu-item-1674"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Chamber
+                                                                    &#8211; create</span></a>
+                                                        </li>
+                                                        @endif
+                                                        @endauth
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
                                                             <a href="{{ route('rooms.index') }}"
-                                                                aria-current="page"><span>Rooms
+                                                                aria-current="page"><span>Chamber
                                                                     Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1674"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Room
-                                                                    &#8211; create</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -810,54 +813,33 @@
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
-                                                        <li id="menu-item-518"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                            <a href="{{ route('panier') }}"><span>Panier</span></a>
-                                                        </li>
                                                         @auth
-                                                      
-                                                        <li id="menu-item-523"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                            <a href="{{ route('reservation.show',auth()->user()->id) }}"><span>profile
-                                                                    &#038;</span></a>
-                                                        </li>
-                                                              
+                                                            <li id="menu-item-518"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
+                                                                <a href="{{ route('panier') }}"><span>Panier</span></a>
+                                                            </li>
+
+
+                                                            <li id="menu-item-523"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
+                                                                <a
+                                                                    href="{{ route('reservation.show', auth()->user()->id) }}"><span>profile
+                                                                        &#038;</span></a>
+                                                            </li>
+
                                                         @endauth
+                                                        <li id="menu-item-524"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                            <a href="#"><span>About</span></a>
+                                                        </li>
+                                                        <li id="menu-item-524"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                            <a href="#"><span>Services</span></a>
+                                                        </li>
                                                         <li id="menu-item-522"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
                                                             <a href="{{ route('contact') }}"><span>Contact
                                                                     us</span></a>
-                                                        </li>
-                                                        <li id="menu-item-524"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
-                                                            <a href="../dining/index.html"><span>Dining</span></a>
-                                                        </li>
-                                                        <li id="menu-item-526"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                                                            <a href="../the-restaurant/index.html"><span>The
-                                                                    Restaurant</span></a>
-                                                        </li>
-                                                        <li id="menu-item-525"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                            <a href="../wellness/index.html"><span>Wellness</span></a>
-                                                        </li>
-                                                        <li id="menu-item-521"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
-                                                            <a href="../local-activities/index.html"><span>Local
-                                                                    Activities</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1248"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
-                                                            <a href="../activity-detail/index.html"><span>Activity
-                                                                    Detail Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1011"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                            <a href="../our-blog/index.html"><span>Our Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-519"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                                                            <a href="../contact/index.html"><span>Contact</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -2798,8 +2780,8 @@
         href='talwind1/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-brands-css'
-        href='talwind1/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3'
-        type='text/css' media='all' />
+        href='talwind1/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='elementor-icons-fa-solid-css'
         href='talwind1/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' type='text/css'
         media='all' />
@@ -2812,10 +2794,9 @@
     </script>
     <script type="text/javascript" src="talwind1/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
         id="cozystay-helper-js"></script>
-    <script type="text/javascript" src="talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
-        id="slick-js"></script>
-    <script type="text/javascript"
-        src="talwind1/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
+    <script type="text/javascript" src="talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8" id="slick-js">
+    </script>
+    <script type="text/javascript" src="talwind1/themes/cozystay/assets/scripts/front/animations.min797f.js?ver=2023101601"
         id="cozystay-animations-js"></script>
     <script type="text/javascript" id="loftocean-video-player-js-extra">
         /* <![CDATA[ */
@@ -2873,8 +2854,8 @@
         src="talwind1/themes/cozystay/assets/scripts/front/ajax-navigation.min797f.js?ver=2023101601"
         id="cozystay-ajax-navigation-js"></script>
     <script type="text/javascript"
-        src="talwind1/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1"
-        id="sourcebuster-js-js"></script>
+        src="talwind1/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min9b80.js?ver=8.6.1" id="sourcebuster-js-js">
+    </script>
     <script type="text/javascript" id="wc-order-attribution-js-extra">
         /* <![CDATA[ */
         var wc_order_attribution = {
@@ -2906,8 +2887,8 @@
     <script type="text/javascript"
         src="talwind1/plugins/woocommerce/assets/js/frontend/order-attribution.min9b80.js?ver=8.6.1"
         id="wc-order-attribution-js"></script>
-    <script type="text/javascript" src="talwind1/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7"
-        id="swv-js"></script>
+    <script type="text/javascript" src="talwind1/plugins/contact-form-7/includes/swv/js/index38d6.js?ver=5.8.7" id="swv-js">
+    </script>
     <script type="text/javascript" id="contact-form-7-js-extra">
         /* <![CDATA[ */
         var wpcf7 = {
@@ -3013,8 +2994,7 @@
         id="elementor-frontend-modules-js"></script>
     <script type="text/javascript" src="talwind1/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2"
         id="elementor-waypoints-js"></script>
-    <script type="text/javascript" src="talwind2/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js">
-    </script>
+    <script type="text/javascript" src="talwind2/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
     <script type="text/javascript" src="talwind1/plugins/elementor/assets/lib/swiper/swiper.min48f5.js?ver=5.3.6"
         id="swiper-js"></script>
     <script type="text/javascript" src="talwind1/plugins/elementor/assets/lib/share-link/share-link.min6e54.js?ver=3.19.4"

@@ -141,9 +141,8 @@
     <link rel='stylesheet' id='cozystay-theme-google-fonts-css'
         href='https://fonts.googleapis.com/css?family=Marcellus%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%7CJost%3A400%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2023101601'
         type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css'
-        href='../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8' type='text/css'
-        media='all' />
+    <link rel='stylesheet' id='slick-css' href='../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css'
         href='../talwind1/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
@@ -595,8 +594,8 @@
             line-height: 1.6;
         }
     </style>
-    <link rel='stylesheet' id='select2-css'
-        href='../talwind1/plugins/woocommerce/assets/css/select29b80.css?ver=8.6.1' type='text/css' media='all' />
+    <link rel='stylesheet' id='select2-css' href='../talwind1/plugins/woocommerce/assets/css/select29b80.css?ver=8.6.1'
+        type='text/css' media='all' />
     <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
             visibility: visible;
@@ -632,8 +631,8 @@
     id="html5shiv-js"></script>
 <![endif]-->
     <script type="text/javascript" src="../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script type="text/javascript" src="../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
-        id="jquery-migrate-js"></script>
+    <script type="text/javascript" src="../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
+    </script>
     <script type="text/javascript"
         src="../talwind1/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
         id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
@@ -649,15 +648,14 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js"
-        defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript" src="../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
+        id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
         src="../talwind1/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min3204.js?ver=1.0.9-wc.8.6.1"
         id="selectWoo-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1"
-        id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+        src="../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js"
+        defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="woocommerce-js-extra">
         /* <![CDATA[ */
         var woocommerce_params = {
@@ -666,9 +664,8 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js"
-        defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript" src="../talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1"
+        id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
     <link rel="https://api.w.org/" href="../wp-json/index.html" />
     <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1621.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
@@ -758,169 +755,157 @@
                     </div>
                 </section>
                 <section
-                class="elementor-section elementor-top-section elementor-element elementor-element-7396ac94 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                data-id="7396ac94" data-element_type="section"
-                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-no">
-                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-332f8b28 dark-color"
-                        data-id="332f8b28" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-4b2fb95b elementor-widget__width-auto elementor-widget elementor-widget-cs_menu_toggle"
-                                data-id="4b2fb95b" data-element_type="widget"
-                                data-widget_type="cs_menu_toggle.default">
-                                <div class="elementor-widget-container">
-                                    <button class="menu-toggle elementor-widget-menu-toggle">
-                                        <span class="screen-reader-text">Menu</span>
-                                        <span class="menu-toggle-icon"></span>
-                                    </button>
+                    class="elementor-section elementor-top-section elementor-element elementor-element-7396ac94 elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="7396ac94" data-element_type="section"
+                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="elementor-container elementor-column-gap-no">
+                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-332f8b28 dark-color"
+                            data-id="332f8b28" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div class="elementor-element elementor-element-4b2fb95b elementor-widget__width-auto elementor-widget elementor-widget-cs_menu_toggle"
+                                    data-id="4b2fb95b" data-element_type="widget"
+                                    data-widget_type="cs_menu_toggle.default">
+                                    <div class="elementor-widget-container">
+                                        <button class="menu-toggle elementor-widget-menu-toggle">
+                                            <span class="screen-reader-text">Menu</span>
+                                            <span class="menu-toggle-icon"></span>
+                                        </button>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="elementor-element elementor-element-93b4c8c elementor-widget__width-auto elementor-widget elementor-widget-cs_menu"
-                                data-id="93b4c8c" data-element_type="widget" data-widget_type="cs_menu.default">
-                                <div class="elementor-widget-container">
-                                    <nav class="cs-menu main-navigation not-mobile-menu dropdown-dark">
-                                        <ul id="menu-93b4c8c" class="menu primary-menu">
-                                            <li id="menu-item-516"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
-                                                <a href="{{ route('homepage') }}"><span>Home</span></a><button
-                                                    class="dropdown-toggle" aria-expanded="false"><span
-                                                        class="screen-reader-text">expand child
-                                                        menu</span></button>
-                                                <div
-                                                    class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
+                                <div class="elementor-element elementor-element-93b4c8c elementor-widget__width-auto elementor-widget elementor-widget-cs_menu"
+                                    data-id="93b4c8c" data-element_type="widget" data-widget_type="cs_menu.default">
+                                    <div class="elementor-widget-container">
+                                        <nav class="cs-menu main-navigation not-mobile-menu dropdown-dark">
+                                            <ul id="menu-93b4c8c" class="menu primary-menu">
+                                                <li id="menu-item-516"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home cozystay-mega-menu menu-item-has-children menu-item-516">
+                                                    <a href="{{ route('homepage') }}"><span>Home</span></a><button
+                                                        class="dropdown-toggle" aria-expanded="false"><span
+                                                            class="screen-reader-text">expand child
+                                                            menu</span></button>
+                                                    <div
+                                                        class="cozystay-dropdown-menu fullwidth sub-menu hide dark-color">
 
-                                                </div>
-                                            </li>
-                                            <li id="menu-item-1037"
-                                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
-                                                <a href="index.html" aria-current="page"><span>Rooms</span></a>
-                                                <button class="dropdown-toggle" aria-expanded="false"><span
-                                                        class="screen-reader-text">expand child
-                                                        menu</span></button>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-1626"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
-                                                        <a href="{{ route('rooms.index') }}"
-                                                            aria-current="page"><span>Rooms
-                                                                Page</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1674"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                        <a href="{{ route('rooms.create') }}"><span>Ajouter Room
-                                                                &#8211; create</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li id="menu-item-517"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-517">
-                                                <a href="#"><span>Pages</span></a>
-                                                <button class="dropdown-toggle" aria-expanded="false"><span
-                                                        class="screen-reader-text">expand child
-                                                        menu</span></button>
-                                                <ul class="sub-menu">
-                                                    <li id="menu-item-518"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                        <a href="{{ route('panier') }}"><span>Panier</span></a>
-                                                    </li>
-                                                    <li id="menu-item-523"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                        <a href="../amenities-services/index.html"><span>Amenities
-                                                                &#038; Services</span></a>
-                                                    </li>
-                                                    <li id="menu-item-522"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
-                                                        <a href="../salon-price/index.html"><span>Salon Price
-                                                                List</span></a>
-                                                    </li>
-                                                    <li id="menu-item-524"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
-                                                        <a href="../dining/index.html"><span>Dining</span></a>
-                                                    </li>
-                                                    <li id="menu-item-526"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                                                        <a href="../the-restaurant/index.html"><span>The
-                                                                Restaurant</span></a>
-                                                    </li>
-                                                    <li id="menu-item-525"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                        <a href="../wellness/index.html"><span>Wellness</span></a>
-                                                    </li>
-                                                    <li id="menu-item-521"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
-                                                        <a href="../local-activities/index.html"><span>Local
-                                                                Activities</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1248"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
-                                                        <a href="../activity-detail/index.html"><span>Activity
-                                                                Detail Page</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1011"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                        <a href="../our-blog/index.html"><span>Our Blog</span></a>
-                                                    </li>
-                                                    <li id="menu-item-519"
-                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                                                        <a href="../contact/index.html"><span>Contact</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cca6882 dark-color"
-                        data-id="cca6882" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
-                                data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
-                                <div class="elementor-widget-container">
-                                    <a href="../index.html"> <img loading="lazy" width="255" height="51"
-                                            src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
-                                            class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
-                                            alt=""
-                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
-                                            sizes="(max-width: 255px) 100vw, 255px" /> </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-373d1868 dark-color"
-                        data-id="373d1868" data-element_type="column">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-e9a1a8c elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                data-id="e9a1a8c" data-element_type="widget"
-                                data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <a href="#">EN</a> / <a href="#">FR</a>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
-                                data-id="3394ea0c" data-element_type="widget"
-                                data-widget_type="cs_button.default">
-                                @auth
-                                    <div class="elementor-widget-container">
-                                        <a href="{{ route('logout') }}"
-                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                            role="button">
-                                            <span class="cs-btn-text">log-out</span> </a>
+                                                    </div>
+                                                </li>
+                                                <li id="menu-item-1037"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
+                                                    <a href="index.html" aria-current="page"><span>Chamber</span></a>
+                                                    <button class="dropdown-toggle" aria-expanded="false"><span
+                                                            class="screen-reader-text">expand child
+                                                            menu</span></button>
+                                                    <ul class="sub-menu">
+                                                        @auth
+                                                            @if (auth()->user()->role === 'Administrateur')
+                                                                <li id="menu-item-1674"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                                    <a href="{{ route('rooms.create') }}"><span>Ajouter
+                                                                            Chamber
+                                                                            &#8211; create</span></a>
+                                                                </li>
+                                                            @endif
+                                                        @endauth
+                                                        <li id="menu-item-1626"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
+                                                            <a href="{{ route('rooms.index') }}"
+                                                                aria-current="page"><span>Chamber
+                                                                    Page</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li id="menu-item-517"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-517">
+                                                    <a href="#"><span>Pages</span></a>
+                                                    <button class="dropdown-toggle" aria-expanded="false"><span
+                                                            class="screen-reader-text">expand child
+                                                            menu</span></button>
+                                                    <ul class="sub-menu">
+                                                        @auth
+                                                            <li id="menu-item-518"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
+                                                                <a href="{{ route('panier') }}"><span>Panier</span></a>
+                                                            </li>
+
+
+                                                            <li id="menu-item-523"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
+                                                                <a
+                                                                    href="{{ route('reservation.show', auth()->user()->id) }}"><span>profile
+                                                                        &#038;</span></a>
+                                                            </li>
+
+                                                        @endauth
+                                                        <li id="menu-item-524"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                            <a href="#"><span>About</span></a>
+                                                        </li>
+                                                        <li id="menu-item-524"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                            <a href="#"><span>Services</span></a>
+                                                        </li>
+                                                        <li id="menu-item-522"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
+                                                            <a href="{{ route('contact') }}"><span>Contact
+                                                                    us</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </nav>
                                     </div>
-                                @endauth
-                                @guest
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cca6882 dark-color"
+                            data-id="cca6882" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div class="elementor-element elementor-element-6f19c08e elementor-align-center elementor-widget elementor-widget-cs_logo"
+                                    data-id="6f19c08e" data-element_type="widget" data-widget_type="cs_logo.default">
                                     <div class="elementor-widget-container">
-                                        <a href="{{ route('auth.index') }}"
-                                            class="elementor-button-link button cs-btn-outline cs-btn-small"
-                                            role="button">
-                                            <span class="cs-btn-text">Login</span> </a>
+                                        <a href="../index.html"> <img loading="lazy" width="255" height="51"
+                                                src="../talwind1/uploads/sites/6/2023/03/logo-3-255x51.png"
+                                                class="attachment-cozystay_255x9999 size-cozystay_255x9999 wp-image-174"
+                                                alt=""
+                                                srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-255x51.png 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-300x60.png 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3-370x74.png 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/03/logo-3.png 457w"
+                                                sizes="(max-width: 255px) 100vw, 255px" /> </a>
                                     </div>
-                                @endguest
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-373d1868 dark-color"
+                            data-id="373d1868" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div class="elementor-element elementor-element-e9a1a8c elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
+                                    data-id="e9a1a8c" data-element_type="widget"
+                                    data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <a href="#">EN</a> / <a href="#">FR</a>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-3394ea0c elementor-widget__width-auto elementor-widget elementor-widget-cs_button"
+                                    data-id="3394ea0c" data-element_type="widget"
+                                    data-widget_type="cs_button.default">
+                                    @auth
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('logout') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">log-out</span> </a>
+                                        </div>
+                                    @endauth
+                                    @guest
+                                        <div class="elementor-widget-container">
+                                            <a href="{{ route('auth.index') }}"
+                                                class="elementor-button-link button cs-btn-outline cs-btn-small"
+                                                role="button">
+                                                <span class="cs-btn-text">Login</span> </a>
+                                        </div>
+                                    @endguest
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-37bd14d9 elementor-section-content-middle elementor-hidden-desktop cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="37bd14d9" data-element_type="section"
@@ -1010,7 +995,8 @@
                                     @endif
                                     <form
                                         class="woocommerce-form woocommerce-form-login login elementor-container elementor-column-gap"
-                                        action="{{ route('rooms.store') }}" method="post" enctype="multipart/form-data">
+                                        action="{{ route('rooms.store') }}" method="post"
+                                        enctype="multipart/form-data">
                                         @csrf
 
                                         <p
@@ -1388,8 +1374,8 @@
         <div class="container">
             <div class="sidemenu-content">
                 <link rel="stylesheet" id="elementor-post-1058-css"
-                    href="../talwind1/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110"
-                    type="text/css" media="all">
+                    href="../talwind1/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110" type="text/css"
+                    media="all">
                 <div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
                     <section
                         class="elementor-section elementor-top-section elementor-element elementor-element-1517694b elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -1768,8 +1754,7 @@
                                         data-widget_type="cs_social.default">
                                         <div class="elementor-widget-container">
                                             <nav id="bcbc078-social-menu-container" class="social-navigation">
-                                                <ul id="bcbc078-social-menu"
-                                                    class="social-nav menu text-left-mobile">
+                                                <ul id="bcbc078-social-menu" class="social-nav menu text-left-mobile">
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290">
                                                         <a href="https://www.facebook.com/">Facebook</a>
@@ -1855,8 +1840,8 @@
         href='../talwind1/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='e-animations-css'
-        href='../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4'
-        type='text/css' media='all' />
+        href='../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='google-fonts-2-css'
         href='https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
         type='text/css' media='all' />

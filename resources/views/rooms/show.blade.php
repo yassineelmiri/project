@@ -800,21 +800,25 @@
                                                 </li>
                                                 <li id="menu-item-1037"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1037">
-                                                    <a href="index.html" aria-current="page"><span>Rooms</span></a>
+                                                    <a href="index.html" aria-current="page"><span>Chamber</span></a>
                                                     <button class="dropdown-toggle" aria-expanded="false"><span
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
+                                                        @auth                                                            
+                                                        @if (auth()->user()->role === 'Administrateur')                                                  
+                                                        <li id="menu-item-1674"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Chamber
+                                                                    &#8211; create</span></a>
+                                                        </li>
+                                                        @endif
+                                                        @endauth
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
                                                             <a href="{{ route('rooms.index') }}"
-                                                                aria-current="page"><span>Rooms
+                                                                aria-current="page"><span>Chamber
                                                                     Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1674"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Room
-                                                                    &#8211; create</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -825,50 +829,33 @@
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
-                                                        <li id="menu-item-518"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
-                                                            <a href="{{ route('panier') }}"><span>Panier</span></a>
-                                                        </li>
-                                                        <li id="menu-item-523"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
-                                                            <a href="../amenities-services/index.html"><span>Amenities
-                                                                    &#038; Services</span></a>
-                                                        </li>
-                                                        <li id="menu-item-522"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
-                                                            <a href="../salon-price/index.html"><span>Salon Price
-                                                                    List</span></a>
+                                                        @auth
+                                                            <li id="menu-item-518"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518">
+                                                                <a href="{{ route('panier') }}"><span>Panier</span></a>
+                                                            </li>
+
+
+                                                            <li id="menu-item-523"
+                                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
+                                                                <a
+                                                                    href="{{ route('reservation.show', auth()->user()->id) }}"><span>profile
+                                                                        &#038;</span></a>
+                                                            </li>
+
+                                                        @endauth
+                                                        <li id="menu-item-524"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
+                                                            <a href="#"><span>About</span></a>
                                                         </li>
                                                         <li id="menu-item-524"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524">
-                                                            <a href="../dining/index.html"><span>Dining</span></a>
+                                                            <a href="#"><span>Services</span></a>
                                                         </li>
-                                                        <li id="menu-item-526"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526">
-                                                            <a href="../the-restaurant/index.html"><span>The
-                                                                    Restaurant</span></a>
-                                                        </li>
-                                                        <li id="menu-item-525"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525">
-                                                            <a href="../wellness/index.html"><span>Wellness</span></a>
-                                                        </li>
-                                                        <li id="menu-item-521"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521">
-                                                            <a href="../local-activities/index.html"><span>Local
-                                                                    Activities</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1248"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248">
-                                                            <a href="../activity-detail/index.html"><span>Activity
-                                                                    Detail Page</span></a>
-                                                        </li>
-                                                        <li id="menu-item-1011"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011">
-                                                            <a href="../our-blog/index.html"><span>Our Blog</span></a>
-                                                        </li>
-                                                        <li id="menu-item-519"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519">
-                                                            <a href="../contact/index.html"><span>Contact</span></a>
+                                                        <li id="menu-item-522"
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522">
+                                                            <a href="{{ route('contact') }}"><span>Contact
+                                                                    us</span></a>
                                                         </li>
                                                     </ul>
                                                 </li>
