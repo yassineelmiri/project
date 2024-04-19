@@ -14,14 +14,11 @@ use Illuminate\Auth\Middleware\Authenticate;
 
 class AuthController extends Controller
 {
-    public function __construct()
-    {
-        $this->middleware('auth');
-        // ->except(['show']);
-    }
-    /**
-     * Display a listing of the resource.
-     */
+    // public function __construct()
+    // {
+    //     $this->middleware('auth')->except(['index']);
+    // }
+
     public function index()
     {
         return view('auth.login');
@@ -110,22 +107,6 @@ class AuthController extends Controller
     public function show(Auth $auth)
     {
         return view('auth.lost-password.index');
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(Auth $auth)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, Auth $auth)
-    {
-        //
     }
 
     /**

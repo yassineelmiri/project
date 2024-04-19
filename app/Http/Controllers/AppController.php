@@ -12,7 +12,12 @@ use Illuminate\Support\Facades\Auth;
 
 class AppController extends Controller
 {
-    
+    // public function __construct()
+    // {
+    //     $this->middleware('auth');
+    //     // ->except(['show']);
+    // }
+
     public function panier()
     {
         $reservations = reservations::where('profile_id', Auth::id())->get();
@@ -34,7 +39,7 @@ class AppController extends Controller
         $users = Auths::all();
         return view('admin.user', compact('users'));
     }
-    
+
     public function categorier()
     {
         $categorier = categorier::all();
@@ -59,12 +64,12 @@ class AppController extends Controller
         $user = [];
         $room = [];
         $reservations = reservations::all();
-        
+
         foreach ($reservations as $reservation) {
             $user[] = Auths::where('id', $reservation->profile_id)->first();
             $room[] = room::where('id', $reservation->rooms_id)->first();
         }
-        
+
 
         return view('admin.reservation', compact('reservations', 'room', 'user'));
     }
@@ -78,20 +83,14 @@ class AppController extends Controller
         return redirect()->route('admin.categorier')->with('success', 'Votre categorier a bien été crée.');
 
     }
-    public function show(reservations $reservations)
+
+
+    public function ModiferValider(Request $request)
     {
-        //
+        $reservation = reservations::findOrFail($request->reservation_id);
+        $reservation->valider = "valider"; 
+        $reservation->save();
+        return redirect()->route('admin.reservation')->with('success', 'La réservation a été bien validée'); 
     }
-    public function edit(reservations $reservations)
-    {
-        //
-    }
-    public function update(Request $request, reservations $reservations)
-    {
-        //
-    }
-    public function destroy(reservations $reservations)
-    {
-        //
-    }
+
 }

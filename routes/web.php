@@ -31,6 +31,8 @@ Route::get('/admin/categorier', [AppController::class, 'categorier'])->name('adm
 Route::get('/admin/chamber', [AppController::class, 'validation'])->name('admin.validation');
 Route::get('/admin/reclamation', [AppController::class, 'reclamation'])->name('admin.reclamation');
 Route::get('/admin/reservation', [AppController::class, 'reservation'])->name('admin.reservation');
+Route::post('/admin/valider', [AppController::class, 'ModiferValider'])->name('admin.valider');
+
 
 Route::post('/filtre', [RoomController::class, 'filtre'])->name('filtre');
 Route::post('/Reclamation', [RoomController::class, 'ReclamationChamber'])->name('reclamation.chamber');

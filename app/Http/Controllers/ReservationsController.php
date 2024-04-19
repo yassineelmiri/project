@@ -75,23 +75,6 @@ class ReservationsController extends Controller
     {
         return view("client.index");
     }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(reservations $reservations)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, reservations $reservations)
-    {
-        //
-    }
-
     /**
      * Remove the specified resource from storage.
      */
