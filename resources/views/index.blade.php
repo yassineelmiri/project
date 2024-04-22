@@ -989,7 +989,7 @@
                                                                 </div>
                                                                 <div class="cs-subtitle-wrap"><span
                                                                         class="cs-subtitle">Welcome to CozyStay, a
-                                                                        luxury apartment hotel in Times Square</span>
+                                                                        luxury  hotel in Times Square</span>
                                                                 </div>
                                                                 <h1 class="cs-title">
                                                                     Your Next HOTEL FUTUR </h1>
@@ -1004,8 +1004,7 @@
                                                             <div
                                                                 class="cs-reservation-form style-banner-3 style-banner cs-form-square inline-label">
                                                                 <form class="cs-form-wrap"
-                                                                    data-date-format="YYYY-MM-DD"
-                                                                    action="https://cozystay.loftocean.com/apartment/"
+                                                                    action="{{route('rooms.index')}}"
                                                                     method="GET">
                                                                     <div class="cs-form-field cs-check-in">
                                                                         <div class="field-wrap">

@@ -141,9 +141,8 @@
     <link rel='stylesheet' id='cozystay-theme-google-fonts-css'
         href='https://fonts.googleapis.com/css?family=Marcellus%3A100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%7CJost%3A400%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C100%2C200%2C300%2C500%2C600%2C700%2C800&amp;display=swap&amp;ver=2023101601'
         type='text/css' media='all' />
-    <link rel='stylesheet' id='slick-css'
-        href='../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8' type='text/css'
-        media='all' />
+    <link rel='stylesheet' id='slick-css' href='../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.css?ver=1.8'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesome-css'
         href='../talwind1/themes/cozystay/assets/fonts/font-awesome/css/all.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
@@ -639,8 +638,8 @@
     id="html5shiv-js"></script>
 <![endif]-->
     <script type="text/javascript" src="../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-    <script type="text/javascript" src="../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
-        id="jquery-migrate-js"></script>
+    <script type="text/javascript" src="../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
+    </script>
     <script type="text/javascript"
         src="../talwind1/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minac72.js?ver=2.7.0-wc.8.6.1"
         id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
@@ -656,12 +655,11 @@
         };
         /* ]]> */
     </script>
+    <script type="text/javascript" src="../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
+        id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js"
+        src="../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1" id="js-cookie-js"
         defer="defer" data-wp-strategy="defer"></script>
-    <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1"
-        id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript" id="woocommerce-js-extra">
         /* <![CDATA[ */
         var woocommerce_params = {
@@ -670,9 +668,8 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1" id="woocommerce-js"
-        defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript" src="../talwind1/plugins/woocommerce/assets/js/frontend/woocommerce.min9b80.js?ver=8.6.1"
+        id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
     <link rel="https://api.w.org/" href="../wp-json/index.html" />
     <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1032.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
@@ -802,14 +799,15 @@
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
-                                                        @auth                                                            
-                                                        @if (auth()->user()->role === 'Administrateur')                                                  
-                                                        <li id="menu-item-1674"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Chamber
-                                                                    &#8211; create</span></a>
-                                                        </li>
-                                                        @endif
+                                                        @auth
+                                                            @if (auth()->user()->role === 'Administrateur')
+                                                                <li id="menu-item-1674"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                                    <a href="{{ route('rooms.create') }}"><span>Ajouter
+                                                                            Chamber
+                                                                            &#8211; create</span></a>
+                                                                </li>
+                                                            @endif
                                                         @endauth
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
@@ -999,7 +997,7 @@
                                                                     @endif
                                                                 </h1>
                                                                 <h1 class="cs-title">
-                                                                    Book Your Stay  </h1>
+                                                                    Book Your Stay </h1>
                                                                 <div class="cs-title-text">
                                                                     <p>A stay infused with creativity and culture.</p>
                                                                 </div>
@@ -1019,9 +1017,20 @@
                                                                     <div class="cs-form-field cs-check-in">
                                                                         <div class="field-wrap">
                                                                             <label class="cs-form-label">type</label>
-
                                                                             <div class="field-input-wrap checkin-date">
-                                                                                <input type="text" name="type">
+
+                                                                                <select type="text" name="type">
+                                                                                    <option value="">...</option>
+                                                                                    @foreach ($categoriers as $categorier)
+                                                                                        <option
+                                                                                            value="{{ $categorier->name }}">
+                                                                                            {{ $categorier->name }}
+                                                                                        </option>
+                                                                                    @endforeach
+
+                                                                                </select>
+
+
 
                                                                             </div>
                                                                         </div>
@@ -1208,293 +1217,88 @@
                                                                                                         data-column="3">
                                                                                                         <div
                                                                                                             class="posts-wrapper cs-rooms-wrapper">
-                                                                                                            @foreach ($rooms as $room)
-                                                                                                                <div
-                                                                                                                    class="post cs-room-item has-post-thumbnail">
+
+                                                                                                            @if (!$rooms)
+                                                                                                                <h5
+                                                                                                                    class="cs-title">
+                                                                                                                    Aucune
+                                                                                                                    chambre
+                                                                                                                    pour
+                                                                                                                    l'instant.
+                                                                                                                </h5>
+                                                                                                            @else
+                                                                                                                @foreach ($rooms as $room)
                                                                                                                     <div
-                                                                                                                        class="featured-img">
-                                                                                                                        <a
-                                                                                                                            href="{{ route('rooms.show', $room->id) }}"><img
-                                                                                                                                loading="lazy"
-                                                                                                                                decoding="async"
-                                                                                                                                width="780"
-                                                                                                                                height="520"
-                                                                                                                                src="{{ asset('storage/' . $room->image) }}"
-                                                                                                                                class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                                alt=""
-                                                                                                                                sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                        </a>
+                                                                                                                        class="post cs-room-item has-post-thumbnail">
                                                                                                                         <div
-                                                                                                                            class="overlay-label">
-                                                                                                                            <div
-                                                                                                                                class="overlay-label-text">
-                                                                                                                                ${{ $room->prix }}
-                                                                                                                                /
-                                                                                                                                Night
-                                                                                                                            </div>
-                                                                                                                        </div>
-                                                                                                                    </div>
-
-
-                                                                                                                    <div
-                                                                                                                        class="post-content cs-room-content">
-                                                                                                                        <header
-                                                                                                                            class="post-header item-header">
-                                                                                                                            <h2
-                                                                                                                                class="post-title item-title">
-                                                                                                                                <a
-                                                                                                                                    href="{{ route('rooms.show', $room->id) }}">
-                                                                                                                                    {{ $room->name }}</a>
-                                                                                                                            </h2>
-                                                                                                                            <div
-                                                                                                                                class="item-subtitle">
-                                                                                                                                {{ $room->etage }}
-                                                                                                                                étage
-                                                                                                                                /
-                                                                                                                                {{ $room->surface }}
-                                                                                                                                m²
-                                                                                                                                /type
-                                                                                                                                :
-                                                                                                                                {{ $room->type }}
-                                                                                                                                /
-                                                                                                                                {{ $room->place }}
-                                                                                                                                Guests
-                                                                                                                            </div>
-                                                                                                                        </header>
-                                                                                                                        <div
-                                                                                                                            class="post-excerpt item-excerpt">
-                                                                                                                            <p>{{ $room->description }}
-                                                                                                                            </p>
-                                                                                                                        </div>
-                                                                                                                        <footer
-                                                                                                                            class="post-footer item-footer">
-                                                                                                                            <div
-                                                                                                                                class="more-btn">
-                                                                                                                                <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                    href="{{ route('rooms.show', $room->id) }}">
-                                                                                                                                    <span>Discover
-                                                                                                                                        More</span>
-                                                                                                                                </a>
-                                                                                                                            </div>
-                                                                                                                        </footer>
-                                                                                                                    </div>
-
-                                                                                                                </div>
-                                                                                                            @endforeach
-
-                                                                                                            <div
-                                                                                                                class="post cs-room-item has-post-thumbnail">
-                                                                                                                <div
-                                                                                                                    class="featured-img">
-                                                                                                                    <a
-                                                                                                                        href="../room/avenue-view-penthouse/index.html"><img
-                                                                                                                            loading="lazy"
-                                                                                                                            decoding="async"
-                                                                                                                            width="780"
-                                                                                                                            height="520"
-                                                                                                                            src="../talwind1/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg"
-                                                                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                            alt=""
-                                                                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash.jpg 1920w"
-                                                                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                    </a>
-                                                                                                                    <div
-                                                                                                                        class="overlay-label">
-                                                                                                                        <div
-                                                                                                                            class="overlay-label-text">
-                                                                                                                            $699
-                                                                                                                            /
-                                                                                                                            Night
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div
-                                                                                                                    class="post-content cs-room-content">
-                                                                                                                    <header
-                                                                                                                        class="post-header item-header">
-                                                                                                                        <h2
-                                                                                                                            class="post-title item-title">
+                                                                                                                            class="featured-img">
                                                                                                                             <a
-                                                                                                                                href="../room/avenue-view-penthouse/index.html">Avenue
-                                                                                                                                View
-                                                                                                                                Penthouse</a>
-                                                                                                                        </h2>
-                                                                                                                        <div
-                                                                                                                            class="item-subtitle">
-                                                                                                                            1076
-                                                                                                                            ft²
-                                                                                                                            /
-                                                                                                                            100
-                                                                                                                            m²
-                                                                                                                            /
-                                                                                                                            Avenue
-                                                                                                                            View
-                                                                                                                            /
-                                                                                                                            4
-                                                                                                                            Guests
-                                                                                                                        </div>
-                                                                                                                    </header>
-                                                                                                                    <div
-                                                                                                                        class="post-excerpt item-excerpt">
-                                                                                                                        <p>Welcome
-                                                                                                                            to
-                                                                                                                            your
-                                                                                                                            urban
-                                                                                                                            oasis
-                                                                                                                            inspired
-                                                                                                                            by
-                                                                                                                            the
-                                                                                                                            natural
-                                                                                                                            beauty
-                                                                                                                            and
-                                                                                                                            calming
-                                                                                                                            energy
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                            Relax
-                                                                                                                            on
-                                                                                                                            your
-                                                                                                                            private
-                                                                                                                            terrace
-                                                                                                                            or
-                                                                                                                            snuggle
-                                                                                                                            up
-                                                                                                                            in
-                                                                                                                            your
-                                                                                                                            king
-                                                                                                                            size
-                                                                                                                            bed
-                                                                                                                            and
-                                                                                                                            take
-                                                                                                                            in
-                                                                                                                            the
-                                                                                                                            views
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                        </p>
-                                                                                                                    </div>
-                                                                                                                    <footer
-                                                                                                                        class="post-footer item-footer">
-                                                                                                                        <div
-                                                                                                                            class="more-btn">
-                                                                                                                            <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                href="../room/avenue-view-penthouse/index.html">
-                                                                                                                                <span>Discover
-                                                                                                                                    More</span>
+                                                                                                                                href="{{ route('rooms.show', $room->id) }}">
+                                                                                                                                <img loading="lazy"
+                                                                                                                                    decoding="async"
+                                                                                                                                    width="780"
+                                                                                                                                    height="520"
+                                                                                                                                    src="{{ asset('storage/' . $room->image) }}"
+                                                                                                                                    class="attachment-cozystay_780x9999 size-cozystay_780x9999"
+                                                                                                                                    alt=""
+                                                                                                                                    sizes="(max-width: 780px) 100vw, 780px" />
                                                                                                                             </a>
+                                                                                                                            <div
+                                                                                                                                class="overlay-label">
+                                                                                                                                <div
+                                                                                                                                    class="overlay-label-text">
+                                                                                                                                    ${{ $room->prix }}
+                                                                                                                                    /
+                                                                                                                                    Night
+                                                                                                                                </div>
+                                                                                                                            </div>
                                                                                                                         </div>
-                                                                                                                    </footer>
-                                                                                                                </div>
-                                                                                                            </div>
+                                                                                                                        <div
+                                                                                                                            class="post-content cs-room-content">
+                                                                                                                            <header
+                                                                                                                                class="post-header item-header">
+                                                                                                                                <h2
+                                                                                                                                    class="post-title item-title">
+                                                                                                                                    <a
+                                                                                                                                        href="{{ route('rooms.show', $room->id) }}">{{ $room->name }}</a>
+                                                                                                                                </h2>
+                                                                                                                                <div
+                                                                                                                                    class="item-subtitle">
+                                                                                                                                    {{ $room->etage }}
+                                                                                                                                    étage
+                                                                                                                                    /
+                                                                                                                                    {{ $room->surface }}
+                                                                                                                                    m²
+                                                                                                                                    /
+                                                                                                                                    type
+                                                                                                                                    :
+                                                                                                                                    {{ $room->type }}
+                                                                                                                                    /
+                                                                                                                                    {{ $room->place }}
+                                                                                                                                    Guests
+                                                                                                                                </div>
+                                                                                                                            </header>
+                                                                                                                            <div
+                                                                                                                                class="post-excerpt item-excerpt">
+                                                                                                                                <p>{{ $room->description }}
+                                                                                                                                </p>
+                                                                                                                            </div>
+                                                                                                                            <footer
+                                                                                                                                class="post-footer item-footer">
+                                                                                                                                <div
+                                                                                                                                    class="more-btn">
+                                                                                                                                    <a class="read-more-btn button cs-btn-underline"
+                                                                                                                                        href="{{ route('rooms.show', $room->id) }}">
+                                                                                                                                        <span>Discover
+                                                                                                                                            More</span>
+                                                                                                                                    </a>
+                                                                                                                                </div>
+                                                                                                                            </footer>
+                                                                                                                        </div>
+                                                                                                                    </div>
+                                                                                                                @endforeach
+                                                                                                            @endif
 
-                                                                                                            <div
-                                                                                                                class="post cs-room-item has-post-thumbnail">
-                                                                                                                <div
-                                                                                                                    class="featured-img">
-                                                                                                                    <a
-                                                                                                                        href="../room/park-view-penthouse/index.html"><img
-                                                                                                                            loading="lazy"
-                                                                                                                            decoding="async"
-                                                                                                                            width="780"
-                                                                                                                            height="520"
-                                                                                                                            src="../talwind1/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-780x520.jpg"
-                                                                                                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999"
-                                                                                                                            alt=""
-                                                                                                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/davide-colonna-DZrZhVd_wR0-unsplash.jpg 1920w"
-                                                                                                                            sizes="(max-width: 780px) 100vw, 780px" />
-                                                                                                                    </a>
-                                                                                                                    <div
-                                                                                                                        class="overlay-label">
-                                                                                                                        <div
-                                                                                                                            class="overlay-label-text">
-                                                                                                                            $799
-                                                                                                                            /
-                                                                                                                            Night
-                                                                                                                        </div>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div
-                                                                                                                    class="post-content cs-room-content">
-                                                                                                                    <header
-                                                                                                                        class="post-header item-header">
-                                                                                                                        <h2
-                                                                                                                            class="post-title item-title">
-                                                                                                                            <a
-                                                                                                                                href="../room/park-view-penthouse/index.html">Park
-                                                                                                                                View
-                                                                                                                                Penthouse</a>
-                                                                                                                        </h2>
-                                                                                                                        <div
-                                                                                                                            class="item-subtitle">
-                                                                                                                            1291
-                                                                                                                            ft²
-                                                                                                                            /
-                                                                                                                            120
-                                                                                                                            m²
-                                                                                                                            /
-                                                                                                                            Park
-                                                                                                                            View
-                                                                                                                            /
-                                                                                                                            6
-                                                                                                                            Guests
-                                                                                                                        </div>
-                                                                                                                    </header>
-                                                                                                                    <div
-                                                                                                                        class="post-excerpt item-excerpt">
-                                                                                                                        <p>Welcome
-                                                                                                                            to
-                                                                                                                            your
-                                                                                                                            urban
-                                                                                                                            oasis
-                                                                                                                            inspired
-                                                                                                                            by
-                                                                                                                            the
-                                                                                                                            natural
-                                                                                                                            beauty
-                                                                                                                            and
-                                                                                                                            calming
-                                                                                                                            energy
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                            Relax
-                                                                                                                            on
-                                                                                                                            your
-                                                                                                                            private
-                                                                                                                            terrace
-                                                                                                                            or
-                                                                                                                            snuggle
-                                                                                                                            up
-                                                                                                                            in
-                                                                                                                            your
-                                                                                                                            king
-                                                                                                                            size
-                                                                                                                            bed
-                                                                                                                            and
-                                                                                                                            take
-                                                                                                                            in
-                                                                                                                            the
-                                                                                                                            views
-                                                                                                                            of
-                                                                                                                            Central
-                                                                                                                            Park.
-                                                                                                                        </p>
-                                                                                                                    </div>
-                                                                                                                    <footer
-                                                                                                                        class="post-footer item-footer">
-                                                                                                                        <div
-                                                                                                                            class="more-btn">
-                                                                                                                            <a class="read-more-btn button cs-btn-underline"
-                                                                                                                                href="../room/park-view-penthouse/index.html">
-                                                                                                                                <span>Discover
-                                                                                                                                    More</span>
-                                                                                                                            </a>
-                                                                                                                        </div>
-                                                                                                                    </footer>
-                                                                                                                </div>
-                                                                                                            </div>
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -2023,8 +1827,8 @@
         <div class="container">
             <div class="sidemenu-content">
                 <link rel="stylesheet" id="elementor-post-1058-css"
-                    href="../talwind1/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110"
-                    type="text/css" media="all">
+                    href="../talwind1/uploads/sites/6/elementor/css/post-10584e7f.css?ver=1707315110" type="text/css"
+                    media="all">
                 <div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
                     <section
                         class="elementor-section elementor-top-section elementor-element elementor-element-1517694b elementor-section-content-middle elementor-hidden-tablet elementor-hidden-mobile cs-section-content-fullwidth elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -2490,8 +2294,8 @@
         href='../talwind1/themes/cozystay/assets/libs/justified-gallery/justifiedGallery.mina767.css?ver=3.6.3'
         type='text/css' media='all' />
     <link rel='stylesheet' id='e-animations-css'
-        href='../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4'
-        type='text/css' media='all' />
+        href='../talwind1/plugins/elementor/assets/lib/animations/animations.min6e54.css?ver=3.19.4' type='text/css'
+        media='all' />
     <link rel='stylesheet' id='google-fonts-2-css'
         href='https://fonts.googleapis.com/css?family=Marcellus%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.3'
         type='text/css' media='all' />

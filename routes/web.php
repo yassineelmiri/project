@@ -18,6 +18,8 @@ Route::resource('rooms', RoomController::class);
 Route::resource('reservation', ReservationsController::class);
 
 
+Route::post('/admin/delete', [RoomController::class, 'destroy'])->name('supprimer');
+Route::post('/admin/update', [AuthController::class, 'update'])->name('update.user');
 
 
 Route::post('/login', [AuthController::class, 'login'])->name('login');

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\categorier;
 use App\Models\reclamation;
 use App\Models\Room;
 use Illuminate\Support\Facades\Auth;
@@ -14,12 +15,13 @@ class RoomController extends Controller
      */
     public function index()
     {
+        $categoriers = categorier::all();
         $rooms = Room::all();
-        return view('rooms.index', compact('rooms'));
+        return view('rooms.index', compact('rooms','categoriers'));
     }
     public function ReclamationChamber(Request $request)
     {
-        
+
         $formFields = $request->validate([
             'description' => 'required|string|max:255',
             'email' => 'required',
@@ -39,12 +41,12 @@ class RoomController extends Controller
     {
         $type = $request->type;
         $places = $request->adult + $request->child;
-
+        $categoriers = categorier::all();
         $rooms = Room::where('type', $type)
             ->where('place', '>=', $places)
             ->get();
-
-        return view('rooms.index', compact('rooms'));
+        
+        return view('rooms.index', compact('rooms','categoriers'));
     }
 
     /**
@@ -94,5 +96,11 @@ class RoomController extends Controller
     {
         return view('rooms.show', compact('room'));
     }
-   
+    public function destroy(Request $request){
+        $delete = Room::where('id', $request->room)->first();
+        $delete->delete();
+        return to_route('admin.validation')->with('success', 'Vous étes bien supprimer.');
+
+    }
+
 }

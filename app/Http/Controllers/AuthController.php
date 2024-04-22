@@ -119,4 +119,15 @@ class AuthController extends Controller
         return to_route('admin.users')->with('success', 'Vous étes bien supprimer.');
         
     }
+    public function update(Request $request)
+    {
+        $user = Auths::findOrFail($request->id);
+        $user->name = $request->name; 
+        $user->email = $request->email; 
+        $user->role = $request->role; 
+        $user->date = $request->date; 
+        $user->save();
+        return redirect()->route('admin.users')->with('success', 'Votre compte a bien été modifier.');
+        
+    }
 }

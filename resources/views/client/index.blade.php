@@ -647,8 +647,7 @@
     src="https://cozystay.loftocean.com/apartment/wp-content/themes/cozystay/assets/scripts/libs/html5shiv.min.js?ver=3.7.3"
     id="html5shiv-js"></script>
 <![endif]-->
-    <script type="text/javascript" src="../../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js">
-    </script>
+    <script type="text/javascript" src="../../talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
     <script type="text/javascript" src="../../talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
         id="jquery-migrate-js"></script>
     <script type="text/javascript"
@@ -667,8 +666,8 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="../../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1"
-        id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+        src="../../talwind1/plugins/woocommerce/assets/js/frontend/add-to-cart.min9b80.js?ver=8.6.1" id="wc-add-to-cart-js"
+        defer="defer" data-wp-strategy="defer"></script>
     <script type="text/javascript"
         src="../../talwind1/plugins/woocommerce/assets/js/js-cookie/js.cookie.minde0b.js?ver=2.1.4-wc.8.6.1"
         id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
@@ -811,14 +810,15 @@
                                                             class="screen-reader-text">expand child
                                                             menu</span></button>
                                                     <ul class="sub-menu">
-                                                        @auth                                                            
-                                                        @if (auth()->user()->role === 'Administrateur')                                                  
-                                                        <li id="menu-item-1674"
-                                                            class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
-                                                            <a href="{{ route('rooms.create') }}"><span>Ajouter Chamber
-                                                                    &#8211; create</span></a>
-                                                        </li>
-                                                        @endif
+                                                        @auth
+                                                            @if (auth()->user()->role === 'Administrateur')
+                                                                <li id="menu-item-1674"
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-loftocean_room menu-item-1674">
+                                                                    <a href="{{ route('rooms.create') }}"><span>Ajouter
+                                                                            Chamber
+                                                                            &#8211; create</span></a>
+                                                                </li>
+                                                            @endif
                                                         @endauth
                                                         <li id="menu-item-1626"
                                                             class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1032 current_page_item menu-item-1626">
@@ -997,26 +997,7 @@
                             <header class="post-header">
                                 <h1 class="entry-title">Bonjour : {{ auth()->user()->name }}</h1>
                                 <div class="item-subtitle">Role : {{ auth()->user()->role }}</div>
-                                <div class="cs-room-basic-info">
-                                    <ul>
-                                        <li>
-                                            <div class="csrbi-icon"><i class="flaticon flaticon-maximize"></i></div>
-                                            <span class="csrbi-text">1291 ft<sup>2</sup></span>
-                                        </li>
-                                        <li>
-                                            <div class="csrbi-icon"><i class="flaticon flaticon-user-2"></i></div>
-                                            <span class="csrbi-text">6 Guests</span>
-                                        </li>
-                                        <li>
-                                            <div class="csrbi-icon"><i class="flaticon flaticon-bed-6"></i></div>
-                                            <span class="csrbi-text">3 Beds</span>
-                                        </li>
-                                        <li>
-                                            <div class="csrbi-icon"><i class="flaticon flaticon-bathing"></i></div>
-                                            <span class="csrbi-text">2 Bathrooms</span>
-                                        </li>
-                                    </ul>
-                                </div>
+
                             </header>
                             <div class="entry-content">
                                 <div data-elementor-type="wp-post" data-elementor-id="1279"
@@ -1120,125 +1101,7 @@
                     </aside>
                 </div>
             </div>
-            <div class="similar-rooms">
-                <div class="container">
-                    <h4 class="similar-rooms-title">Similar Rooms</h4>
-                    <div class="posts cs-rooms column-3 layout-grid layout-overlay with-hover-effect img-ratio-1-1">
-                        <div class="posts-wrapper cs-rooms-wrapper">
-                            <div class="post cs-room-item has-post-thumbnail">
-                                <div class="featured-img">
-                                    <a href="../deluxe-penthouse/index.html"><img width="780" height="520"
-                                            src="../../talwind1/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-780x520.jpg"
-                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999" alt=""
-                                            decoding="async"
-                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-wDDfbanbhl8-unsplash.jpg 1920w"
-                                            sizes="(max-width: 780px) 100vw, 780px" /> </a>
-                                    <div class="overlay-label">
-                                        <div class="overlay-label-text">$699 / Night</div>
-                                    </div>
-                                </div>
-                                <div class="post-content cs-room-content">
-                                    <header class="post-header item-header">
-                                        <h2 class="post-title item-title">
-                                            <a href="../deluxe-penthouse/index.html">Deluxe Penthouse</a>
-                                        </h2>
-                                        <div class="item-subtitle">1162 ft² / 108 m² / Avenue View / 4 Guests</div>
-                                    </header>
-                                    <div class="hover-show-content">
-                                        <div class="post-excerpt item-excerpt">
-                                            <p>Welcome to your urban oasis inspired by the natural beauty and calming
-                                                energy of Central Park. Relax on your private terrace or snuggle up in
-                                                your king size bed and take in the views of Central Park.</p>
-                                        </div>
-                                        <footer class="post-footer item-footer">
-                                            <div class="more-btn">
-                                                <a class="read-more-btn button cs-btn-underline"
-                                                    href="../deluxe-penthouse/index.html">
-                                                    <span>Discover More</span>
-                                                </a>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </div>
-                            </div>
 
-                            <div class="post cs-room-item has-post-thumbnail">
-                                <div class="featured-img">
-                                    <a href="../avenue-view-penthouse/index.html"><img width="780" height="520"
-                                            src="../../talwind1/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg"
-                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999" alt=""
-                                            decoding="async"
-                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/r-architecture-Eh_It1hg4Hs-unsplash.jpg 1920w"
-                                            sizes="(max-width: 780px) 100vw, 780px" /> </a>
-                                    <div class="overlay-label">
-                                        <div class="overlay-label-text">$699 / Night</div>
-                                    </div>
-                                </div>
-                                <div class="post-content cs-room-content">
-                                    <header class="post-header item-header">
-                                        <h2 class="post-title item-title">
-                                            <a href="../avenue-view-penthouse/index.html">Avenue View Penthouse</a>
-                                        </h2>
-                                        <div class="item-subtitle">1076 ft² / 100 m² / Avenue View / 4 Guests</div>
-                                    </header>
-                                    <div class="hover-show-content">
-                                        <div class="post-excerpt item-excerpt">
-                                            <p>Welcome to your urban oasis inspired by the natural beauty and calming
-                                                energy of Central Park. Relax on your private terrace or snuggle up in
-                                                your king size bed and take in the views of Central Park.</p>
-                                        </div>
-                                        <footer class="post-footer item-footer">
-                                            <div class="more-btn">
-                                                <a class="read-more-btn button cs-btn-underline"
-                                                    href="../avenue-view-penthouse/index.html">
-                                                    <span>Discover More</span>
-                                                </a>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="post cs-room-item has-post-thumbnail">
-                                <div class="featured-img">
-                                    <a href="../one-bed-apartment/index.html"><img width="780" height="520"
-                                            src="../../talwind1/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-780x520.jpg"
-                                            class="attachment-cozystay_780x9999 size-cozystay_780x9999" alt=""
-                                            decoding="async"
-                                            srcset="https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-780x520.jpg 780w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-300x200.jpg 300w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-1024x683.jpg 1024w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-768x512.jpg 768w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-1536x1024.jpg 1536w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-1440x960.jpg 1440w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-1200x800.jpg 1200w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-600x400.jpg 600w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-550x367.jpg 550w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-370x247.jpg 370w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash-255x170.jpg 255w, https://cozystay.loftocean.com/apartment/wp-content/uploads/sites/6/2023/05/spacejoy-jfVTVARGCao-unsplash.jpg 1920w"
-                                            sizes="(max-width: 780px) 100vw, 780px" /> </a>
-                                    <div class="overlay-label">
-                                        <div class="overlay-label-text">$349 / Night</div>
-                                    </div>
-                                </div>
-                                <div class="post-content cs-room-content">
-                                    <header class="post-header item-header">
-                                        <h2 class="post-title item-title">
-                                            <a href="../one-bed-apartment/index.html">One-Bed Apartment</a>
-                                        </h2>
-                                        <div class="item-subtitle">560 ft² / 52 m² / Park View / 2 Guests</div>
-                                    </header>
-                                    <div class="hover-show-content">
-                                        <div class="post-excerpt item-excerpt">
-                                            <p>Welcome to your urban oasis inspired by the natural beauty and calming
-                                                energy of Central Park. Relax on your private terrace or snuggle up in
-                                                your king size bed and take in the views of Central Park.</p>
-                                        </div>
-                                        <footer class="post-footer item-footer">
-                                            <div class="more-btn">
-                                                <a class="read-more-btn button cs-btn-underline"
-                                                    href="../one-bed-apartment/index.html">
-                                                    <span>Discover More</span>
-                                                </a>
-                                            </div>
-                                        </footer>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div> <!-- end of #content -->
         <footer id="colophon" class="site-footer">
             <div class="site-footer-main">
@@ -1267,16 +1130,15 @@
                                                     <div class="cs-subtitle-wrap"><span class="cs-subtitle">Our
                                                             Location</span></div>
                                                     <h5 class="cs-title">
-                                                        Getting Here </h5>
+                                                        COZYSTAY </h5>
                                                     <div class="cs-title-text">
                                                         <p>CozyStay Aparthotel Times Square<br />415 6th Avenue, New
-                                                            York, New York, USA, 10018<br />Tel: +1
-                                                            212-555-6699<br />Email: information@cozystay.com</p>
+                                                            York, a SAFI, MAROC, 10018<br />Tel: +1
+                                                            212-555-6699<br />Email: ADMIN@cozystay.com</p>
                                                     </div>
                                                     <div class="cs-title-btn">
                                                         <a class="button elementor-button-link cs-btn-outline cs-btn-small"
-                                                            role="button"
-                                                            href="https://www.google.com/maps/place/Moynier+Park/@46.2179375,6.1471642,17z/data=!4m15!1m8!3m7!1s0x478c65245e5afe1d:0x778486b82264d3eb!2sQuai+du+Mont-Blanc+19,+1201+Genève,+Switzerland!3b1!8m2!3d46.210521!4d6.1501575!16s%2Fg%2F11b8v43sz7!3m5!1s0x478c651940597add:0xd57c71f641e5366c!8m2!3d46.220116!4d6.151366!16s%2Fg%2F121k2xdw"
+                                                            role="button" href="{{ route('contact') }}"
                                                             target="_blank">
                                                             <span class="cs-btn-text">Get Directions</span> </a>
                                                     </div>
@@ -1308,7 +1170,7 @@
                                                     </div>
                                                     <div class="cs-title-btn">
                                                         <a class="button elementor-button-link cs-btn-outline cs-btn-small"
-                                                            role="button" href="../../rooms/index.html">
+                                                            role="button" href="{{ route('contact') }}">
                                                             <span class="cs-btn-text">Reserve Your Stay</span> </a>
                                                     </div>
                                                 </div>
@@ -1365,35 +1227,30 @@
                                                         }
                                                     })();
                                                 </script>
-                                                <!-- Mailchimp for WordPress v4.9.11 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
-                                                <form id="mc4wp-form-1"
+                                                <form action="{{ route('reclamation.chamber') }}"
                                                     class="mc4wp-form cs-signup signup-style-1 cs-form-underline mc4wp-form-7"
                                                     method="post" data-id="7" data-name="Newsletter">
+                                                    @csrf
                                                     <div class="mc4wp-form-fields">
                                                         <div class="fields-container">
-                                                            <input type="email" name="EMAIL"
-                                                                placeholder="Your Email Address" required="">
+                                                            <input type="hidden" name="email"
+                                                                value="{{ auth()->user()->email }}">
+                                                            <input type="text" name="description"
+                                                                placeholder="reclamation pour cette chamber" required>
                                                             <button type="submit"><span
-                                                                    class="btn-text">Subscribe</span></button>
+                                                                    class="btn-text">envoyer</span></button>
                                                         </div>
-                                                        <p>
-                                                            <label class="agree-to-terms text-small">
-                                                                <input name="AGREE_TO_TERMS" type="checkbox"
-                                                                    value="1" required="">
-                                                                I agree to the <a href="#" target="_blank"
-                                                                    rel="noopener noreferrer">Privacy Policy</a>
-                                                            </label>
-                                                        </p>
-                                                    </div><label style="display: none !important;">Leave this field
-                                                        empty if you're human: <input type="text"
-                                                            name="_mc4wp_honeypot" value="" tabindex="-1"
-                                                            autocomplete="off" /></label><input type="hidden"
-                                                        name="_mc4wp_timestamp" value="1710957513" /><input
-                                                        type="hidden" name="_mc4wp_form_id" value="7" /><input
-                                                        type="hidden" name="_mc4wp_form_element_id"
-                                                        value="mc4wp-form-1" />
-                                                    <div class="mc4wp-response"></div>
-                                                </form><!-- / Mailchimp for WordPress Plugin -->
+                                                </form>
+                                                <p>
+                                                    <label class="agree-to-terms text-small">
+                                                        <input name="AGREE_TO_TERMS" type="checkbox" value="1"
+                                                            required="">
+                                                        I agree to the <a href="#" target="_blank"
+                                                            rel="noopener noreferrer">Privacy Policy</a>
+                                                    </label>
+                                                </p>
+
+                                                <!-- / Mailchimp for WordPress Plugin -->
                                             </div>
                                         </div>
                                     </div>
@@ -1900,8 +1757,7 @@
                                         data-widget_type="cs_social.default">
                                         <div class="elementor-widget-container">
                                             <nav id="bcbc078-social-menu-container" class="social-navigation">
-                                                <ul id="bcbc078-social-menu"
-                                                    class="social-nav menu text-left-mobile">
+                                                <ul id="bcbc078-social-menu" class="social-nav menu text-left-mobile">
                                                     <li
                                                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-290">
                                                         <a href="https://www.facebook.com/">Facebook</a>
@@ -2002,8 +1858,8 @@
         /* ]]> */
     </script>
     <script type="text/javascript"
-        src="../../talwind1/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601"
-        id="cozystay-helper-js"></script>
+        src="../../talwind1/themes/cozystay/assets/scripts/front/helper.min797f.js?ver=2023101601" id="cozystay-helper-js">
+    </script>
     <script type="text/javascript" src="../../talwind1/themes/cozystay/assets/libs/slick/slick.min4b1d.js?ver=1.8"
         id="slick-js"></script>
     <script type="text/javascript"
@@ -2037,8 +1893,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript"
-        src="../../talwind1/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
+    <script type="text/javascript" src="../../talwind1/themes/cozystay/assets/scripts/front/main.min797f.js?ver=2023101601"
         id="cozystay-theme-script-js"></script>
     <script type="text/javascript" id="cozystay-ajax-navigation-js-extra">
         /* <![CDATA[ */
@@ -2118,8 +1973,7 @@
     </script>
     <script type="text/javascript" src="../../talwind1/plugins/contact-form-7/includes/js/index38d6.js?ver=5.8.7"
         id="contact-form-7-js"></script>
-    <script type="text/javascript" src="../../talwind2/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js">
-    </script>
+    <script type="text/javascript" src="../../talwind2/js/dist/vendor/moment.min1bc8.js?ver=2.29.4" id="moment-js"></script>
     <script type="text/javascript" id="moment-js-after">
         /* <![CDATA[ */
         moment.updateLocale('en_US', {
@@ -2181,8 +2035,7 @@
         };
         /* ]]> */
     </script>
-    <script type="text/javascript" src="../../talwind2/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js">
-    </script>
+    <script type="text/javascript" src="../../talwind2/js/api-request.min84fc.js?ver=6.4.3" id="wp-api-request-js"></script>
     <script type="text/javascript" src="../../talwind2/js/wp-api.min84fc.js?ver=6.4.3" id="wp-api-js"></script>
     <script type="text/javascript" id="loftocean-post-metas-js-extra">
         /* <![CDATA[ */
@@ -12469,19 +12322,7 @@
                     "special_price_rate": 1
                 }
             },
-            "i18nText": {
-                "getRemotePriceListErrorMessage": "Failed to get the price list for the date range picked. Please try again later.",
-                "bookingError": "Something goes wrong, please try again later.",
-                "bookingSuccess": "The room reservation has been successfully added to your cart.",
-                "totalBasePriceLabel": "Total Base Price",
-                "baseDiscountLabel": "Base Price Discount",
-                "extraServiceLabel": "Extra Services",
-                "totalPriceLabel": "Total",
-                "noCheckin": "No Check-in",
-                "noCheckout": "No Checkout",
-                "minimum": "-night Minimum",
-                "maximum": "-night Maximum"
-            },
+
             "pricePerPerson": "",
             "hasFlexibilePriceRules": "0",
             "unavailableDates": {
@@ -12712,8 +12553,7 @@
     </script>
     <script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/frontend.min6e54.js?ver=3.19.4"
         id="elementor-frontend-js"></script>
-    <script type="text/javascript"
-        src="../../talwind1/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
+    <script type="text/javascript" src="../../talwind1/plugins/elementor/assets/js/preloaded-modules.min6e54.js?ver=3.19.4"
         id="preloaded-modules-js"></script>
     <script type="text/javascript"
         src="../../talwind1/plugins/cozystay-core/assets/scripts/front/parallax-bundle.min4ae5.js?ver=2023101602"
