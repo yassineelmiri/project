@@ -731,12 +731,10 @@
                                                         </td>
                                                         <td class="px-3.5 py-2.5 first:pl-5 last:pr-5">
                                                             <div class="flex items-center gap-2">
-
                                                                 <div class="grow">
                                                                     <h6 class="mb-1"><a href="#!"
                                                                             class="name">{{ $room->name }}</a>
                                                                     </h6>
-
                                                                 </div>
                                                             </div>
                                                         </td>

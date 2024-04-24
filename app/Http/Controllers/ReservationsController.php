@@ -2,13 +2,19 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\reservations;
-use App\Models\room;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use App\Services\ReservationService;
 
 class ReservationsController extends Controller
 {
+    protected $reservationService;
+
+    public function __construct(ReservationService $reservationService)
+    {
+        $this->reservationService = $reservationService;
+    }
+
     /**
      * Display a listing of the resource.
      */
@@ -38,35 +44,16 @@ class ReservationsController extends Controller
         $profile_id = Auth::id();
         $places = $request->adults + $request->children;
         $valider = "Non valider";
-        $existingReservations = reservations::where('rooms_id', $room_id)
-            ->get();
 
-        foreach ($existingReservations as $existingReservation) {
-            if ($existingReservation->checkout >= $request->checkin) {
-                return redirect()->route('rooms.index')->with('success', 'Vous avez déjà réservé cette chambre.');
-            }
-        }
+        // Validation and business logic should ideally be moved to the service layer
+        $response = $this->reservationService->storeReservation($room_id, $profile_id, $places, $request->checkin, $request->checkout);
 
-
-        $showRoom = room::where('id', $room_id)->first();
-
-        if ($places <= $showRoom->place) {
-            $credentials = [
-                'profile_id' => $profile_id,
-                'rooms_id' => $room_id,
-                'valider' => $valider,
-                'checkin' => $request->checkin,
-                'checkout' => $request->checkout,
-                'places' => $places
-            ];
-            reservations::create($credentials);
+        if ($response['success']) {
             return view('reservation.cart', compact('profile_id'));
+        } else {
+            return redirect()->route('rooms.index')->with('error', $response['message']);
         }
-
-        return redirect()->route('rooms.index')->with('success', 'Le nombre de places n\'est pas suffisant.');
     }
-
-
 
     /**
      * Display the specified resource.
@@ -75,13 +62,19 @@ class ReservationsController extends Controller
     {
         return view("client.index");
     }
+
     /**
      * Remove the specified resource from storage.
      */
     public function destroy(Request $request)
     {
-        $delete = reservations::where('rooms_id', $request->rooms_id)->firstOrFail();
-        $delete->delete();
-        return to_route('panier')->with('success', 'La Réservation a élé bien supprimer');
+        $roomId = $request->rooms_id;
+        $response = $this->reservationService->deleteReservation($roomId);
+
+        if ($response['success']) {
+            return redirect()->route('panier')->with('success', 'La Réservation a été bien supprimée');
+        } else {
+            return redirect()->route('panier')->with('error', $response['message']);
+        }
     }
 }

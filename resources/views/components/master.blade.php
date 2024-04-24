@@ -1,6 +1,6 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -144,8 +144,8 @@
     <link rel='stylesheet' id='elegant-font-css'
         href='talwind1/themes/cozystay/assets/fonts/elegant-font/font.min84fc.css?ver=6.4.3' type='text/css'
         media='all' />
-    <link rel='stylesheet' id='wp-block-library-css'
-        href='talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3' type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-library-css' href='talwind2/css/dist/block-library/style.min84fc.css?ver=6.4.3'
+        type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-general-css'
         href='talwind1/plugins/woocommerce/assets/css/woocommerce9b80.css?ver=8.6.1' type='text/css' media='all' />
     <link rel='stylesheet' id='woocommerce-layout-css'
@@ -608,8 +608,7 @@
         href='talwind1/plugins/elementor/assets/lib/swiper/css/swiper.min48f5.css?ver=5.3.6' type='text/css'
         media='all' />
     <link rel='stylesheet' id='elementor-post-5-css'
-        href='talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css'
-        media='all' />
+        href='talwind1/uploads/sites/6/elementor/css/post-558ff.css?ver=1707315109' type='text/css' media='all' />
     <link rel='stylesheet' id='elementor-post-150-css'
         href='talwind1/uploads/sites/6/elementor/css/post-1509a1d.css?ver=1707315433' type='text/css'
         media='all' />
@@ -619,6 +618,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <script type="text/javascript" src="talwind1/themes/cozystay/assets/scripts/libs/modernizr.min3d36.js?ver=3.3.1"
         id="modernizr-js"></script>
+    <!--[if lt IE 9]>
 
     <script type="text/javascript" src="talwind2/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
     <script type="text/javascript" src="talwind2/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js">
@@ -688,18 +688,14 @@
 
 <body
     class="home page-template page page-id-150 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-no-js elementor-default elementor-kit-5 elementor-page elementor-page-150 page-template-template-wide-content page-template-template-wide-content-php cs-template-wide dark-color site-layout-fullwidth cs-form-square">
-
-    <!-- header -->
     <div id="page">
-        @include('include.nav')   
-    </div>
-    <div class="sidemenu sidemenu-custom fade-in fullwidth">
-        <div class="row my-2 text-center">
-            @include('include.flashbag')
-        </div>
-        {{ $slot }}
-    </div>
-
+    @include('include.nav')
+    <main>
+            <div class="row my-2">
+                @include('include.flashbag')
+            </div>
+            {{ $slot }}
+    </main>
     @include('include.footer')
 
 </body>

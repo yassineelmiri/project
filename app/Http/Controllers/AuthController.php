@@ -1,133 +1,73 @@
 <?php
-
 namespace App\Http\Controllers;
 
-use Illuminate\Support\Facades\Hash;
-use App\Models\Auths;
-use Illuminate\Support\Facades\Session;
-use Illuminate\Support\Facades\Auth;
+use App\Http\Requests\RegisterRequest;
 use Illuminate\Http\Request;
-use Illuminate\Auth\Middleware\Authenticate;
-
-
-
+use App\Services\AuthService;
 
 class AuthController extends Controller
 {
-    // public function __construct()
-    // {
-    //     $this->middleware('auth')->except(['index']);
-    // }
+    protected $authService;
+
+    public function __construct(AuthService $authService)
+    {
+        $this->authService = $authService;
+    }
 
     public function index()
     {
         return view('auth.login');
     }
 
-    /**
-     * Show the form for creating a new resource.
-     */
     public function create()
     {
         return view('auth.register');
     }
 
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
+    public function store(RegisterRequest $request)
     {
-        $formFields = $request->validate([
-            'name' => 'required|string|max:255',
-            'email' => 'required|email',
-            'password' => 'required|string|confirmed',
-            'role' => 'required|string',
-            'date' => 'required|date',
-        ]);
+        $formFields = $request->validated(); // Utilisez la méthode validated() pour récupérer les données validées
 
-        $formFields['password'] = Hash::make($request->password);
-        Auths::create($formFields);
+        $this->authService->register($formFields);
+
         return redirect()->route('homepage')->with('success', 'Votre compte a bien été créé.');
     }
 
     public function login(Request $request)
     {
+        $credentials = $request->only('email', 'password');
+        $user = $this->authService->login($credentials);
 
-        $email = $request->email;
-        $password = $request->password;
-
-        $credentials = ['email' => $email, 'password' => $password];
-        
-        $user = Auths::where('email', $email)->first();
-
-        if (Auth::attempt($credentials)) {
-            $request->session()->regenerate();
-            if ($user === null) {
-                return view('404.404');
-            }
-            switch (auth()->user()->role) {
+        if ($user) {
+            switch ($user->role) {
                 case "employe":
-                    $request->session()->regenerate();
-                    return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
-
-
-                case 'client':
-                    $request->session()->regenerate();
-                    return to_route('homepage')->with('success', 'Vous étes bien connecté ' . $email . " .");
-
-
+                case "client":
+                    return redirect()->route('homepage')->with('success', 'Vous êtes bien connecté ' . $user->email . '.');
                 case 'Administrateur':
-                    $request->session()->regenerate();
-                    return to_route('admin.analytics')->with('success', 'Vous étes bien connecté ' . $email . " .");
-
-                default:
-                    return back()->withErrors([
-                        'email' => 'Email ou mot de passe incorrect'
-                    ])->onlyInput('email');
+                    return redirect()->route('admin.analytics')->with('success', 'Vous êtes bien connecté ' . $user->email . '.');
             }
-        } else {
-            return back()->withErrors([
-                'email' => 'Email ou mot de pass incorrect'
-            ])->onlyInput('email');
         }
-       
 
+        return back()->withErrors([
+            'email' => 'Email ou mot de passe incorrect'
+        ])->onlyInput('email');
     }
+
     public function logout()
     {
-        Session::flush();
-        Auth::logout();
-        return to_route('homepage')->with('success', 'Vous étes bien déconnecté.');
+        $this->authService->logout();
+        return redirect()->route('homepage')->with('success', 'Vous êtes bien déconnecté.');
     }
 
-
-    /**
-     * Display the specified resource.
-     */
-    public function show(Auth $auth)
-    {
-        return view('auth.lost-password.index');
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
     public function destroy(Request $request)
     {
-        $delete = Auths::where('id', $request->user)->firstOrFail();
-        $delete->delete();
-        return to_route('admin.users')->with('success', 'Vous étes bien supprimer.');
-        
+        $this->authService->delete($request->user);
+        return redirect()->route('admin.users')->with('success', 'Vous êtes bien supprimé.');
     }
+
     public function update(Request $request)
     {
-        $user = Auths::findOrFail($request->id);
-        $user->name = $request->name; 
-        $user->email = $request->email; 
-        $user->role = $request->role; 
-        $user->date = $request->date; 
-        $user->save();
-        return redirect()->route('admin.users')->with('success', 'Votre compte a bien été modifier.');
-        
+        $this->authService->update($request->all(), $request->id);
+        return redirect()->route('admin.users')->with('success', 'Votre compte a bien été modifié.');
     }
 }

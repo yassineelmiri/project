@@ -1,29 +1,25 @@
 <?php
-// app/Services/RoomService.php
 
 namespace App\Services;
 
-use App\Models\Room;
+use App\Repositories\RoomRepositoryInterface;
 
 class RoomService
 {
-    public function createRoom($data)
-    {
-        // Your business logic for creating a room goes here
-        // You can call your model and perform any necessary operations
+    protected $roomRepository;
 
-        return Room::create($data);
+    public function __construct(RoomRepositoryInterface $roomRepository)
+    {
+        $this->roomRepository = $roomRepository;
     }
 
-    public function updateRoom(Room $room, $data)
+    public function createRoom(array $data)
     {
-        // Your business logic for updating a room goes here
-        // You can update the room instance with new data and save it
-
-        $room->update($data);
-
-        return $room;
+        return $this->roomRepository->create($data);
     }
 
-    // Define other methods as per your requirements
+    public function deleteRoom($id)
+    {
+        return $this->roomRepository->delete($id);
+    }
 }

@@ -2,37 +2,45 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\CreateRoomRequest;
+use App\Http\Requests\ReclamationRequest;
 use App\Models\categorier;
 use App\Models\reclamation;
-use App\Models\Room;
+use App\Models\room;
+use App\Services\RoomService;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 
 class RoomController extends Controller
 {
+    protected $roomService;
+
+    public function __construct(RoomService $roomService)
+    {
+        $this->roomService = $roomService;
+    }
+
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
         $categoriers = categorier::all();
-        $rooms = Room::all();
+        $rooms = room::all();
         return view('rooms.index', compact('rooms','categoriers'));
     }
-    public function ReclamationChamber(Request $request)
-    {
 
-        $formFields = $request->validate([
-            'description' => 'required|string|max:255',
-            'email' => 'required',
-        ]);
+    /**
+     * Create a new reclamation.
+     */
+    public function ReclamationChamber(ReclamationRequest $request)
+    {
+        $formFields = $request->validated(); // Utilise la méthode validated() pour récupérer les champs validés
         $formFields['profile_id'] = Auth::id();
         reclamation::create($formFields);
-
-        return redirect()->route('rooms.index')->with('success', 'La reclamation a été envoier.');
+    
+        return redirect()->route('rooms.index')->with('success', 'La reclamation a été envoyée.');
     }
-
-
 
     /**
      * Filter rooms based on type and number of guests.
@@ -42,9 +50,7 @@ class RoomController extends Controller
         $type = $request->type;
         $places = $request->adult + $request->child;
         $categoriers = categorier::all();
-        $rooms = Room::where('type', $type)
-            ->where('place', '>=', $places)
-            ->get();
+        $rooms = $this->roomService->filterRooms($type, $places);
         
         return view('rooms.index', compact('rooms','categoriers'));
     }
@@ -60,23 +66,15 @@ class RoomController extends Controller
     /**
      * Store a newly created resource in storage.
      */
-    public function store(Request $request)
+    public function store(CreateRoomRequest $request)
     {
-        $formFields = $request->validate([
-            'name' => 'required|string|max:255',
-            'type' => 'required|string|max:255',
-            'surface' => 'required|numeric',
-            'place' => 'required|numeric|max:255',
-            'etage' => 'required|numeric|max:255',
-            'prix' => 'required|numeric',
-            'image' => 'required|image|mimes:jpeg,png,jpg,gif|max:2048',
-            'description' => 'nullable|string',
-        ]);
+        $formFields = $request->validated(); // Utiliser validated() pour récupérer les données validées
         $this->uploadImage($request, $formFields);
         $formFields['profile_id'] = Auth::id();
-        Room::create($formFields);
+        $this->roomService->createRoom($formFields);
         return redirect()->route('rooms.index')->with('success', 'Votre chambre a bien été créée.');
     }
+    
 
     /**
      * Upload image for the room.
@@ -92,15 +90,17 @@ class RoomController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Room $room)
+    public function show(room $room)
     {
         return view('rooms.show', compact('room'));
     }
-    public function destroy(Request $request){
-        $delete = Room::where('id', $request->room)->first();
-        $delete->delete();
-        return to_route('admin.validation')->with('success', 'Vous étes bien supprimer.');
 
+    /**
+     * Delete a room.
+     */
+    public function destroy(Request $request)
+    {
+        $this->roomService->deleteRoom($request->room);
+        return redirect()->route('admin.validation')->with('success', 'Vous êtes bien supprimé.');
     }
-
 }

@@ -3,7 +3,6 @@
     data-mode="light" data-topbar="light" data-skin="default" data-navbar="sticky" data-content="fluid" dir="ltr">
 
 
-<!-- Mirrored from themesdesign.in/tailwick/html/dashboards-analytics.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 22:31:10 GMT -->
 
 <head>
 
