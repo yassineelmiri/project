@@ -68,7 +68,7 @@ class RoomController extends Controller
      */
     public function store(CreateRoomRequest $request)
     {
-        $formFields = $request->validated(); // Utiliser validated() pour récupérer les données validées
+        $formFields = $request->validated(); 
         $this->uploadImage($request, $formFields);
         $formFields['profile_id'] = Auth::id();
         $this->roomService->createRoom($formFields);
