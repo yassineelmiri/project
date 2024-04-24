@@ -15,13 +15,11 @@ class ReservationService
 
     public function createReservation(array $data)
     {
-        // Additional validation or business logic can be implemented here
         return $this->reservationRepository->createReservation($data);
     }
 
     public function deleteReservation($roomId)
     {
-        // Additional logic can be added here if needed
         return $this->reservationRepository->deleteReservation($roomId);
     }
 }

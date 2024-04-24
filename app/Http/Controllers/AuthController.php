@@ -26,7 +26,7 @@ class AuthController extends Controller
 
     public function store(RegisterRequest $request)
     {
-        $formFields = $request->validated(); // Utilisez la méthode validated() pour récupérer les données validées
+        $formFields = $request->validated();
 
         $this->authService->register($formFields);
 
@@ -37,7 +37,6 @@ class AuthController extends Controller
     {
         $credentials = $request->only('email', 'password');
         $user = $this->authService->login($credentials);
-
         if ($user) {
             switch ($user->role) {
                 case "employe":
@@ -47,7 +46,6 @@ class AuthController extends Controller
                     return redirect()->route('admin.analytics')->with('success', 'Vous êtes bien connecté ' . $user->email . '.');
             }
         }
-
         return back()->withErrors([
             'email' => 'Email ou mot de passe incorrect'
         ])->onlyInput('email');
@@ -64,6 +62,7 @@ class AuthController extends Controller
         $this->authService->delete($request->user);
         return redirect()->route('admin.users')->with('success', 'Vous êtes bien supprimé.');
     }
+    
 
     public function update(Request $request)
     {

@@ -3,9 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\reservations;
-use App\Models\room;
-use Illuminate\Support\Facades\Auth;
-use Illuminate\Http\Request;
 use Dompdf\Dompdf;
 use Dompdf\Options;
 

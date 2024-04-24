@@ -16,29 +16,35 @@ class ReservationsController extends Controller
     }
 
 
-
-    /**
-     * Store a newly created resource in storage.
-     */
     public function store(Request $request)
     {
         if (!Auth::check()) {
             return redirect()->route('login')->with('success', 'Veuillez vous connecter pour effectuer une réservation.');
         }
-
+    
         $room_id = $request->room;
         $profile_id = Auth::id();
         $places = $request->adults + $request->children;
         $valider = "Non valider";
-
-        $response = $this->reservationService->storeReservation($room_id, $profile_id, $places, $request->checkin, $request->checkout);
-
+    
+        $response = $this->reservationService->storeReservation(
+            $room_id,
+            $profile_id,
+            $places,
+            $request->checkin,
+            $request->checkout
+        );
+    
         if ($response['success']) {
             return view('reservation.cart', compact('profile_id'));
         } else {
             return redirect()->route('rooms.index')->with('error', $response['message']);
         }
     }
+    
+
+    
+   
 
     /**
      * Display the specified resource.
