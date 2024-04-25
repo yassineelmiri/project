@@ -20,9 +20,6 @@ class RoomController extends Controller
         $this->roomService = $roomService;
     }
 
-    /**
-     * Display a listing of the resource.
-     */
     public function index()
     {
         $categoriers = categorier::all();
@@ -30,21 +27,14 @@ class RoomController extends Controller
         return view('rooms.index', compact('rooms','categoriers'));
     }
 
-    /**
-     * Create a new reclamation.
-     */
     public function ReclamationChamber(ReclamationRequest $request)
     {
-        $formFields = $request->validated(); // Utilise la méthode validated() pour récupérer les champs validés
+        $formFields = $request->validated();
         $formFields['profile_id'] = Auth::id();
         reclamation::create($formFields);
     
         return redirect()->route('rooms.index')->with('success', 'La reclamation a été envoyée.');
     }
-
-    /**
-     * Filter rooms based on type and number of guests.
-     */
     public function filtre(Request $request)
     {
         $type = $request->type;
@@ -55,9 +45,7 @@ class RoomController extends Controller
         return view('rooms.index', compact('rooms','categoriers'));
     }
 
-    /**
-     * Show the form for creating a new resource.
-     */
+
     public function create()
     {
         return view('rooms.create');
@@ -74,11 +62,7 @@ class RoomController extends Controller
         $this->roomService->createRoom($formFields);
         return redirect()->route('rooms.index')->with('success', 'Votre chambre a bien été créée.');
     }
-    
 
-    /**
-     * Upload image for the room.
-     */
     private function uploadImage(Request $request, array &$formFields)
     {
         unset($formFields['image']);
@@ -86,18 +70,10 @@ class RoomController extends Controller
             $formFields['image'] = $request->file('image')->store('publication', 'public');
         }
     }
-
-    /**
-     * Display the specified resource.
-     */
     public function show(room $room)
     {
         return view('rooms.show', compact('room'));
     }
-
-    /**
-     * Delete a room.
-     */
     public function destroy(Request $request)
     {
         $this->roomService->deleteRoom($request->room);

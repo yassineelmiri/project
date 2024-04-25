@@ -41,22 +41,12 @@ class ReservationsController extends Controller
             return redirect()->route('rooms.index')->with('error', $response['message']);
         }
     }
-    
 
-    
-   
-
-    /**
-     * Display the specified resource.
-     */
     public function show(Request $request)
     {
         return view("client.index");
     }
 
-    /**
-     * Remove the specified resource from storage.
-     */
     public function destroy(Request $request)
     {
         $roomId = $request->rooms_id;
