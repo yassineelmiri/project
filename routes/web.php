@@ -39,6 +39,5 @@ Route::get('/contact', [NextController::class, 'contact'])->name('contact');
 Route::get('/print{profile_id}',[NextController::class,'print'])->name('invoice.print');
 Route::get('/pdf{profile_id}',[NextController::class,'pdf'])->name('invoice.pdf');
 
-// routes/web.php
 Route::get('facture/{profile_id}', 'NextController@print')->name('invoice.show');
 Route::get('generate-pdf', [PDFController::class, 'generatePDF'])->name('generate-pdf');
