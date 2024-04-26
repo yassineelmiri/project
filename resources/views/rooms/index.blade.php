@@ -253,7 +253,8 @@
                                                                                                             </h5>
                                                                                                         @else
                                                                                                             @foreach ($rooms as $room)
-                                                                                                            <x-card_chamber :room="$room" >
+                                                                                                                <x-card_chamber
+                                                                                                                    :room="$room">
                                                                                                             @endforeach
                                                                                                         @endif
 

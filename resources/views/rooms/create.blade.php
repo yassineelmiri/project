@@ -81,9 +81,7 @@
                                                     type="number" name="etage" id="etage" autocomplete="etage" />
                                             </p>
                                         </div>
-                                        <div class="elementor-col-50">
-
-                                            <p
+                                        <div class="elementor-col-50"><p
                                                 class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
                                                 <label for="prix">prix&nbsp;<span class="required">*</span></label>
                                                 <input class="woocommerce-Input woocommerce-Input--text input-text"
@@ -123,5 +121,5 @@
             </div>
         </div>
 
-    </div> <!-- end of #content -->
+    </div>
 </x-master>

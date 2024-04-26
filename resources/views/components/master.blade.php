@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
@@ -689,14 +690,14 @@
 <body
     class="home page-template page page-id-150 wp-custom-logo wp-embed-responsive theme-cozystay woocommerce-no-js elementor-default elementor-kit-5 elementor-page elementor-page-150 page-template-template-wide-content page-template-template-wide-content-php cs-template-wide dark-color site-layout-fullwidth cs-form-square">
     <div id="page">
-    @include('include.nav')
-    <main>
+        @include('include.nav')
+        <main>
             <div class="row my-2">
                 @include('include.flashbag')
             </div>
             {{ $slot }}
-    </main>
-    @include('include.footer')
+        </main>
+        @include('include.footer')
 
 </body>
 
